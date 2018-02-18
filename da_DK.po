@@ -8,10 +8,11 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 2.0.6\n"
 "Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: da_DK\n"
+"X-Poedit-Bookmarks: -1,-1,210,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
@@ -1067,7 +1068,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.NAME"
 msgid "Masterpiece"
-msgstr ""
+msgstr "Mesterværk"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.TOOLTIP"
@@ -1082,22 +1083,24 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.TOOLTIP"
 msgid "Duplicants find this art piece quite charming"
-msgstr ""
+msgstr "Dublicants finder dette kunstværk aldeles chamerende"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.NAME"
 msgid "Crude"
-msgstr ""
+msgstr "Grov"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.TOOLTIP"
 msgid "Honestly, Morbs could've done better"
-msgstr ""
+msgstr "Ærligt talt, Morbs kunne have gjordt det bedre"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.NAME"
 msgid "Charging Up"
-msgstr ""
+msgstr "Oplader"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.TOOLTIP"
@@ -1122,82 +1125,86 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP"
 msgid "This Duplicant is under your control"
-msgstr ""
+msgstr "Denne dublicant er under din kontrol"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_MASS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_MASS"
 msgid "• {0}: {1}"
-msgstr ""
+msgstr "• {0}: {1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_UNITS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_UNITS"
 msgid "• {0}"
-msgstr ""
+msgstr "• {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME"
 msgid ""
 "Insufficient Resources\n"
 "{ItemsRemaining}"
-msgstr ""
+msgstr "Ikke nok ressourcer"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_NAME"
 msgid "Building lacks resources"
-msgstr ""
+msgstr "Bygningen mangler ressourcer"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid "Crucial materials are unavailable or beyond reach for these buildings:"
 msgstr ""
+"Vigtige matrialer er utilgængelige eller uden for rækkevide af disse "
+"bygninger"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.TOOLTIP"
 msgid "Crucial materials for this building are beyond reach or unavailable"
-msgstr ""
+msgstr "Vigtige materialer er uden for rækkevide eller utilgængelig"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.LINE_ITEM"
 msgid "• {0}"
-msgstr ""
+msgstr "• {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.NAME"
 msgid ""
 "Resources Low\n"
 "{ItemsRemaining}"
-msgstr ""
+msgstr "Lave Ressourcer"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.TOOLTIP"
 msgid "This building will soon require materials that are unavailable"
-msgstr ""
+msgstr "Denne bygning vil snart skulle bruge matrialer der er utilgængelige"
 
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NAME"
 msgid "Melting Down"
-msgstr ""
+msgstr "Nedsmælter"
 
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_NAME"
 msgid "Building meltdown"
-msgstr ""
+msgstr "Bygnings nedsmældning"
 
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_TOOLTIP"
 msgid "These buildings are collapsing:"
-msgstr ""
+msgstr "Disse bygninger bryder sammen"
 
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.TOOLTIP"
 msgid "This building is collapsing"
-msgstr ""
+msgstr "Denne bygning bryder sammen"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME"
 msgid "Missing Foundation"
-msgstr ""
+msgstr "Mangler Fundament"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP"
@@ -1221,7 +1228,7 @@ msgstr "Duplicants kan ikke nå dette område"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME"
 msgid "Multitool Required"
-msgstr ""
+msgstr "Kræver Multiværktøj"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP"
@@ -1233,49 +1240,53 @@ msgid ""
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME"
 msgid "No Gas Intake"
-msgstr ""
+msgstr "Intet gas indtag"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP"
 msgid "This building has nowhere to receive gas from"
-msgstr ""
+msgstr "Denne bygning har ingen steder at få gas fra"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME"
 msgid "No Gas Output"
-msgstr ""
+msgstr "Intet gas udtag"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.TOOLTIP"
 msgid "This building has nowhere to send gas"
-msgstr ""
+msgstr "Denne bygning her ingen steder at sende gas til"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME"
 msgid "No Liquid Intake"
-msgstr ""
+msgstr "Intet væske indtag"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP"
 msgid "This building has nowhere to receive liquid from"
-msgstr ""
+msgstr "Denne bygning har ingen steder at få væske fra"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME"
 msgid "No Liquid Output"
-msgstr ""
+msgstr "Intet væske udtag"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP"
 msgid "This building has nowhere to send liquid"
-msgstr ""
+msgstr "Denne bygning har ingen steder at sende væske til"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.NAME"
 msgid "No Seeds"
-msgstr ""
+msgstr "Ingen Frø"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.TOOLTIP"
@@ -1285,7 +1296,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.NAME"
 msgid "No Power"
-msgstr ""
+msgstr "Ingen strøm"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.TOOLTIP"
@@ -1293,19 +1304,20 @@ msgid "All connected power sources have lost charge"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.NAME"
 msgid "Resource Required"
-msgstr ""
+msgstr "Kræver  Ressource"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.TOOLTIP"
 msgid "This building is missing required materials"
-msgstr ""
+msgstr "Denne bygning mangler nødvendige materialer"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSEED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSEED.NAME"
 msgid "No Seed Selected"
-msgstr ""
+msgstr "Intet frø valgt"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSEED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSEED.TOOLTIP"
@@ -1350,7 +1362,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME"
 msgid "New Duplicants are available"
-msgstr ""
+msgstr "Nye Dublicanter er tilgængelige"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt ""
@@ -1364,7 +1376,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP"
 msgid "A new colony member is ready to be printed"
-msgstr ""
+msgstr "Et nut koloni medlem er klar til at blive printet"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NAME"
@@ -13596,7 +13608,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.ALGAE.NAME
 msgctxt "STRINGS.ELEMENTS.ALGAE.NAME"
 msgid "Algae"
-msgstr ""
+msgstr "Alger"
 
 #. STRINGS.ELEMENTS.BLEACHSTONE.BUILD_DESC
 #| msgid ""
@@ -13628,7 +13640,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.BOTTLEDWATER.NAME
 msgctxt "STRINGS.ELEMENTS.BOTTLEDWATER.NAME"
 msgid "Water"
-msgstr ""
+msgstr "Vand"
 
 #. STRINGS.ELEMENTS.BREATHABLEDESC
 msgctxt "STRINGS.ELEMENTS.BREATHABLEDESC"
@@ -13666,7 +13678,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBON.NAME
 msgctxt "STRINGS.ELEMENTS.CARBON.NAME"
 msgid "Coal"
-msgstr ""
+msgstr "Kul"
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.DESC"
@@ -13680,7 +13692,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr ""
+msgstr "Kuldioxid"
 
 #. STRINGS.ELEMENTS.CARBONFIBRE.BUILD_DESC
 #| msgid ""
@@ -13698,7 +13710,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBONFIBRE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.NAME"
 msgid "Carbon Fiber"
-msgstr ""
+msgstr "Kulfiber"
 
 #. STRINGS.ELEMENTS.CARBONGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.DESC"
@@ -13722,7 +13734,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINE.NAME"
 msgid "Chlorine"
-msgstr ""
+msgstr "Klor"
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.DESC"
@@ -13734,7 +13746,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CHLORINEGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.NAME"
 msgid "Chlorine"
-msgstr ""
+msgstr "Klor"
 
 #. STRINGS.ELEMENTS.CLAY.BUILD_DESC
 #| msgid ""
@@ -13754,7 +13766,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CLAY.NAME
 msgctxt "STRINGS.ELEMENTS.CLAY.NAME"
 msgid "Clay"
-msgstr ""
+msgstr "Ler"
 
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.DESC"
@@ -13767,7 +13779,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME"
 msgid "Polluted Oxygen"
-msgstr ""
+msgstr "Forurenet Luft"
 
 #. STRINGS.ELEMENTS.COPPER.BUILD_DESC
 #| msgid ""
@@ -13827,7 +13839,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CRUDEOIL.NAME
 msgctxt "STRINGS.ELEMENTS.CRUDEOIL.NAME"
 msgid "Crude Oil"
-msgstr ""
+msgstr "Råolie"
 
 #. STRINGS.ELEMENTS.CRUSHEDICE.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.DESC"
@@ -13837,7 +13849,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CRUSHEDICE.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.NAME"
 msgid "Crushed Ice"
-msgstr ""
+msgstr "Knust Is"
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.BUILD_DESC
 #| msgid ""
@@ -13855,7 +13867,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CRUSHEDROCK.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.NAME"
 msgid "Crushed Rock"
-msgstr ""
+msgstr "Knust Sten"
 
 #. STRINGS.ELEMENTS.CUPRITE.BUILD_DESC
 #| msgid ""
@@ -13894,7 +13906,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.DIAMOND.NAME
 msgctxt "STRINGS.ELEMENTS.DIAMOND.NAME"
 msgid "Diamond"
-msgstr ""
+msgstr "Diamant"
 
 #. STRINGS.ELEMENTS.DIRT.BUILD_DESC
 #| msgid ""
@@ -13913,7 +13925,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.DIRT.NAME
 msgctxt "STRINGS.ELEMENTS.DIRT.NAME"
 msgid "Dirt"
-msgstr ""
+msgstr "Jord"
 
 #. STRINGS.ELEMENTS.DIRTYICE.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.DESC"
@@ -13925,7 +13937,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.DIRTYICE.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.NAME"
 msgid "Polluted Ice"
-msgstr ""
+msgstr "Forurenet Is"
 
 #. STRINGS.ELEMENTS.DIRTYWATER.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.DESC"
@@ -13938,7 +13950,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.DIRTYWATER.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.NAME"
 msgid "Polluted Water"
-msgstr ""
+msgstr "Forurenet Vand"
 
 #. STRINGS.ELEMENTS.ELECTRUM.BUILD_DESC
 #| msgid ""
@@ -15233,7 +15245,6 @@ msgid "Cold, infinite nothingness."
 msgstr "Kold, uendelig intethed"
 
 #. STRINGS.ELEMENTS.VOID.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.VOID.NAME"
 msgid "Void"
 msgstr "Tomrum"
@@ -15354,7 +15365,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.DESC"
 msgid "Don't sweat it!"
-msgstr ""
+msgstr "Ta det roligt"
 
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.EFFECT"
@@ -15366,12 +15377,12 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.GENERICNAME"
 msgid "Clothing"
-msgstr ""
+msgstr "Tøj"
 
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.NAME"
 msgid "Cool Vest"
-msgstr ""
+msgstr "Sej vest"
 
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.RECIPE_DESC"
@@ -15393,7 +15404,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME"
 msgid "Clothing"
-msgstr ""
+msgstr "Tæj"
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.NAME"
@@ -15422,7 +15433,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.GENERICNAME"
 msgid "Equipment"
-msgstr ""
+msgstr "Udstyr"
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.NAME"
@@ -15455,7 +15466,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.GENERICNAME"
 msgid "Equipment"
-msgstr ""
+msgstr "Udstyr"
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.NAME"
@@ -15509,9 +15520,10 @@ msgid ""
 msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.NAME
+#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.NAME"
 msgid "Thermo Suit"
-msgstr ""
+msgstr "Thermo dragt"
 
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.RECIPE_DESC"
@@ -15523,7 +15535,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.DESC"
 msgid "Happiness is a warm Duplicant."
-msgstr ""
+msgstr "Glæde er en varm Duplicant."
 
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.EFFECT"
@@ -15535,12 +15547,12 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.GENERICNAME"
 msgid "Clothing"
-msgstr ""
+msgstr "Tøj"
 
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.NAME"
 msgid "Warm Sweater"
-msgstr ""
+msgstr "Varm Sweater"
 
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.RECIPE_DESC"
@@ -16109,7 +16121,7 @@ msgstr ""
 #. STRINGS.INPUT_BINDINGS.ROOT.ATTACK
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.ATTACK"
 msgid "Attack"
-msgstr ""
+msgstr "Angrib"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.BUILDINGCANCEL
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.BUILDINGCANCEL"
@@ -16139,7 +16151,7 @@ msgstr ""
 #. STRINGS.INPUT_BINDINGS.ROOT.DIG
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.DIG"
 msgid "Dig"
-msgstr ""
+msgstr "Grav"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.DISINFECT
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.DISINFECT"
@@ -16149,12 +16161,13 @@ msgstr ""
 #. STRINGS.INPUT_BINDINGS.ROOT.HARVEST
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.HARVEST"
 msgid "Harvest"
-msgstr ""
+msgstr "Høst"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.MOP
+#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.MOP"
 msgid "Mop"
-msgstr ""
+msgstr "Svaber"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.NAME
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.NAME"
@@ -16309,12 +16322,13 @@ msgstr ""
 #. STRINGS.INPUT_BINDINGS.ROOT.PRIORITIZE
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PRIORITIZE"
 msgid "Prioritize"
-msgstr ""
+msgstr "Prioiter"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.SLOWDOWN
+#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.SLOWDOWN"
 msgid "SlowDown"
-msgstr ""
+msgstr "sænk farten"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.SPEEDUP
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.SPEEDUP"
@@ -16349,7 +16363,7 @@ msgstr ""
 #. STRINGS.INPUT_BINDINGS.TOOL.NAME
 msgctxt "STRINGS.INPUT_BINDINGS.TOOL.NAME"
 msgid "Tool"
-msgstr ""
+msgstr "værktøj"
 
 #. STRINGS.INPUT_BINDINGS.TOOL.ROTATEBUILDING
 msgctxt "STRINGS.INPUT_BINDINGS.TOOL.ROTATEBUILDING"
@@ -16576,7 +16590,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.MUSHROOM.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MUSHROOM.NAME"
 msgid "Mushroom"
-msgstr ""
+msgstr "Svamp"
 
 #. STRINGS.ITEMS.FOOD.PICKLEDMEAL.DESC
 msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.DESC"
@@ -16629,7 +16643,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.SALSA.NAME
 msgctxt "STRINGS.ITEMS.FOOD.SALSA.NAME"
 msgid "Stuffed Berry"
-msgstr ""
+msgstr "Fyldt bær"
 
 #. STRINGS.ITEMS.FOOD.SALSA.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.SALSA.RECIPEDESC"
@@ -16650,7 +16664,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.SPICEBREAD.NAME
 msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.NAME"
 msgid "Pepper Bread"
-msgstr ""
+msgstr "Peber Brød"
 
 #. STRINGS.ITEMS.FOOD.SPICEBREAD.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.RECIPEDESC"
@@ -16933,9 +16947,10 @@ msgstr ""
 #. STRINGS.LORE.BUILDINGS.SET_OBJECT.HEADER
 msgctxt "STRINGS.LORE.BUILDINGS.SET_OBJECT.HEADER"
 msgid "REMINDER TO STAFF"
-msgstr ""
+msgstr "PÅMINDELSE TIL PERSONALE"
 
 #. STRINGS.LORE.BUILDINGS.SetLocker.ENTRY
+#, fuzzy
 msgctxt "STRINGS.LORE.BUILDINGS.SetLocker.ENTRY"
 msgid ""
 "To all employees;\n"
@@ -16952,11 +16967,24 @@ msgid ""
 "Thank-you and have fun!\n"
 "-Admin"
 msgstr ""
+"Til alle ansatte;\n"
+"\n"
+"Denne facilitet kan med glæde meddele, at fra og med denne uge, vil alle "
+"Fredage nu være Afslapede Fredage!\n"
+"\n"
+"Nyd venligst de klinisk beviste afstressende fordele ved afslappet "
+"påklædning, ved at gå med dig ynglingsskjorte til laboratoriet.\n"
+"\n"
+"BEMÆRK: Ethvert personale fundet på dette anlæg uden regulativt "
+"beskyttelsesudstyr vil straks blive noteret!\n"
+"\n"
+"Mange tak og hav det sjovt!\n"
+"-Ledelsen"
 
 #. STRINGS.LORE.BUILDINGS.SetLocker.HEADER
 msgctxt "STRINGS.LORE.BUILDINGS.SetLocker.HEADER"
 msgid "Casual Friday!"
-msgstr ""
+msgstr "Afslappede Fredag!"
 
 #. STRINGS.LORE.BUILDINGS.VendingMachine.ENTRY
 msgctxt "STRINGS.LORE.BUILDINGS.VendingMachine.ENTRY"
@@ -16977,7 +17005,7 @@ msgstr ""
 #. STRINGS.LORE.BUILDINGS.VendingMachine.HEADER
 msgctxt "STRINGS.LORE.BUILDINGS.VendingMachine.HEADER"
 msgid "NOTICE TO STAFF"
-msgstr ""
+msgstr "MEDDELELSE TIL PERSONALE"
 
 #. STRINGS.MISC.NOTIFICATIONS.ALLOCATED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.ALLOCATED.NAME"
@@ -16992,12 +17020,12 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.AVAILABLE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.AVAILABLE.NAME"
 msgid "Resource available"
-msgstr ""
+msgstr "Ressource tilgængelig"
 
 #. STRINGS.MISC.NOTIFICATIONS.AVAILABLE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.AVAILABLE.TOOLTIP"
 msgid "These resources have become available:"
-msgstr ""
+msgstr "Disse ressourcer er blevet tilgængelige:"
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
@@ -17019,9 +17047,10 @@ msgid "TIP: Basic Controls"
 msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.TOOLTIP"
 msgid "Helpful tips to get you started"
-msgstr ""
+msgstr "Hjælpsomme tips for at få dig startet"
 
 #. STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.MESSAGEBODY"
@@ -17040,7 +17069,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.NAME"
 msgid "TIP: Duplicant Immune Systems"
-msgstr ""
+msgstr "TIP: Dublicant immunsystemer"
 
 #. STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.TOOLTIP"
@@ -17050,7 +17079,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.NAME"
 msgid "Building broken"
-msgstr ""
+msgstr "Ødelagt bygning"
 
 #. STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.TOOLTIP"
@@ -17060,7 +17089,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.NAME"
 msgid "Building collapsed"
-msgstr ""
+msgstr "Bygning brudt sammen"
 
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.TOOLTIP"
@@ -17072,7 +17101,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.NAME"
 msgid "Damage: Overheated"
-msgstr ""
+msgstr "Skade: Overophedet"
 
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.TOOLTIP"
@@ -17082,7 +17111,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.CIRCUIT_OVERLOADED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.CIRCUIT_OVERLOADED.NAME"
 msgid "Circuit Overloaded"
-msgstr ""
+msgstr "Kredsløb Overbelastet"
 
 #. STRINGS.MISC.NOTIFICATIONS.CIRCUIT_OVERLOADED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.CIRCUIT_OVERLOADED.TOOLTIP"
@@ -17092,7 +17121,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.COLONYLOST.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.COLONYLOST.NAME"
 msgid "Colony Lost"
-msgstr ""
+msgstr "Koloni Tabt"
 
 #. STRINGS.MISC.NOTIFICATIONS.COLONYLOST.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.COLONYLOST.TOOLTIP"
@@ -17102,43 +17131,47 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.NAME"
 msgid "Duplicants crushed"
-msgstr ""
+msgstr "Dublicanter knust"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.TOOLTIP"
 msgid "These Duplicants have been crushed:"
-msgstr ""
+msgstr "Disse dublicanter er blevet knust:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_DISEASE.NAME
+#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_DISEASE.NAME"
 msgid "Duplicants have succumb to illness"
-msgstr ""
+msgstr "Disse dublicanter erbukket under for sygdom"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_DISEASE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_DISEASE.TOOLTIP"
 msgid ""
 "These Duplicants died from an untreated <style=\"disease\">Disease</style>:"
 msgstr ""
+"Disse dublicanter døde på grund af en ubehandlet <style=\"disease\">Disease</"
+"style>:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_DROWNED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_DROWNED.NAME"
 msgid "Duplicants have drowned"
-msgstr ""
+msgstr "Dublicanter er druknede"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_DROWNED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_DROWNED.TOOLTIP"
 msgid "These Duplicants have drowned:"
-msgstr ""
+msgstr "Disse dublicanter er druknede:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_ENTOUMBED.NAME
+#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_ENTOUMBED.NAME"
 msgid "Duplicants have been entombed"
-msgstr ""
+msgstr "Dublicanter er blevet begravede"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_ENTOUMBED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_ENTOUMBED.TOOLTIP"
 msgid "These Duplicants are trapped and need assistance:"
-msgstr ""
+msgstr "Disse Dublicanter er fanget og har brug for hjælp:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.NAME"
@@ -17148,7 +17181,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.TOOLTIP"
 msgid "These Duplicants fell to their deaths:"
-msgstr ""
+msgstr "Disse Dublicanter er faldet til deres død:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_FROZENSOLID.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_FROZENSOLID.NAME"
@@ -17185,7 +17218,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_POISONED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_POISONED.NAME"
 msgid "Duplicants poisoned"
-msgstr ""
+msgstr "Dublicanter forgiftede"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_POISONED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_POISONED.TOOLTIP"
@@ -17205,17 +17238,18 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.NAME"
 msgid "Duplicants have starved"
-msgstr ""
+msgstr "Dublicanter har sulted"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.TOOLTIP"
 msgid "These Duplicants died from a lack of <style=\"food\">Food</style>:"
 msgstr ""
+"Disse dublicaner døde på grund af mangel af <style=\"food\">Food</style>:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOCOLD.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOCOLD.NAME"
 msgid "Duplicants have suffocated"
-msgstr ""
+msgstr "Dublicanter er blevet kvalt"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOCOLD.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOCOLD.TOOLTIP"
@@ -17225,7 +17259,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.NAME"
 msgid "Duplicants have suffocated"
-msgstr ""
+msgstr "Dublicanter er blevet kvalt"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.TOOLTIP"
@@ -17235,7 +17269,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.NAME"
 msgid "Duplicants have suffocated"
-msgstr ""
+msgstr "Dublicanter er blevet kvalt"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.TOOLTIP"
@@ -17247,12 +17281,14 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.NAME"
 msgid "Duplicants suffocated"
-msgstr ""
+msgstr "Dublicanter kvalt"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.TOOLTIP"
 msgid "These Duplicants died from a lack of <style=\"oxygen\">Oxygen</style>:"
 msgstr ""
+"Diisse dublicanter døde på grund af mangel på <style=\"oxygen\">Oxygen</"
+"style>:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.MESSAGEBODY"
@@ -17268,9 +17304,10 @@ msgid ""
 msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.NAME
+#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.NAME"
 msgid "TIP: Food Safety"
-msgstr ""
+msgstr "TIP: Mad Hygiejne"
 
 #. STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.TOOLTIP"
@@ -17297,12 +17334,12 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.DUPLICANTDIED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTDIED.NAME"
 msgid "Duplicants have died"
-msgstr ""
+msgstr "Dublicant er død"
 
 #. STRINGS.MISC.NOTIFICATIONS.DUPLICANTDIED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTDIED.TOOLTIP"
 msgid "These Duplicants have died:"
-msgstr ""
+msgstr "Disse Dublicanter er døde:"
 
 #. STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.NAME"
@@ -17339,7 +17376,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.FOODLOW.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODLOW.NAME"
 msgid "Food shortage"
-msgstr ""
+msgstr "Mangel på mad"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP"
@@ -17446,7 +17483,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.HEALING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALING.NAME"
 msgid "Healing"
-msgstr ""
+msgstr "kurere"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALING.TOOLTIP"
@@ -17576,7 +17613,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.NAME"
 msgid "TIP: Germs and Disease"
-msgstr ""
+msgstr "TIP: Bakterier og sygdom"
 
 #. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.TOOLTIP"
@@ -17586,12 +17623,12 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.NAME"
 msgid "Missing materials"
-msgstr ""
+msgstr "Manglende materialer"
 
 #. STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.TOOLTIP"
 msgid "These resources are not available:"
-msgstr ""
+msgstr "Disse ressourcer er ikke tilgængelige"
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY"
@@ -17610,22 +17647,23 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME"
 msgid "TIP: Polluted Water"
-msgstr ""
+msgstr "TIP: Forurenet Vand"
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.TOOLTIP"
 msgid "Learn how to handle polluted materials"
-msgstr ""
+msgstr "Lær hvordan man håndtere forurenede materialer"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.NAME"
 msgid "Nearly dry"
-msgstr ""
+msgstr "Næsten tør"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.TOOLTIP"
 msgid "These Duplicants will dry off soon:"
-msgstr ""
+msgstr "Disse Dublicanter vil snart være tøre:"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.NAME"
@@ -17666,17 +17704,17 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME"
 msgid "Colony requires beds"
-msgstr ""
+msgstr "kolonien mangler senge"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP"
 msgid "Your Duplicants would appreciate a place to sleep"
-msgstr ""
+msgstr "Dune Dublicanter ville være glade for et sted at sove"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.NAME"
 msgid "Colony requires toilets"
-msgstr ""
+msgstr "Kolonien mangler toileter"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP"
@@ -17764,22 +17802,22 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME"
 msgid "TIP: Priorities"
-msgstr ""
+msgstr "TIP: Prioiteter"
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP"
 msgid "Understanding your Duplicants' priorities"
-msgstr ""
+msgstr "Forstå dine Dublicanters prioiteter"
 
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME"
 msgid "Red Alert"
-msgstr ""
+msgstr "Rød Alam"
 
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.TOOLTIP"
 msgid "The colony is prioritizing work over their individual well-being"
-msgstr ""
+msgstr "Kolonien prioitere arbejde over deres eget helbred"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY"
@@ -17793,7 +17831,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME"
 msgid "Research Complete"
-msgstr ""
+msgstr "Forskning Færdig"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.TOOLTIP"
@@ -17803,12 +17841,12 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.NAME"
 msgid "Resources melted"
-msgstr ""
+msgstr "Ressourcer smæltede"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.TOOLTIP"
 msgid "These resources have melted:"
-msgstr ""
+msgstr "Disse ressourcer er smæltede"
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY"
@@ -17871,12 +17909,12 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME"
 msgid "TIP: Stress Management"
-msgstr ""
+msgstr "TIP: Stress Styring"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.TOOLTIP"
 msgid "Learn how to keep Duplicants happy and productive"
-msgstr ""
+msgstr "Lær hvordan du holder dine Dublicanter glade og produktive"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.NAME"
@@ -17891,7 +17929,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.NAME"
 msgid "Structural damage"
-msgstr ""
+msgstr "Strukturelle skader"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP"
