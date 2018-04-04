@@ -1818,17 +1818,17 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESROLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESROLE.NAME"
 msgid "Requires {Role}"
-msgstr ""
+msgstr "Kræver {Role}"
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESROLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESROLE.TOOLTIP"
 msgid "Only Duplicants assigned to the {Role} role can work this building"
-msgstr ""
+msgstr "Kun Duplicants tildelt {Role} jobtitlen kan bruge denne bygning"
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME"
 msgid "Current <style=\"research\">Research</style>: {Tech}"
-msgstr ""
+msgstr "Nuværende <style=\"research\">Research</style>: {Tech}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP"
@@ -1838,17 +1838,17 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.NAME"
 msgid "Storing: {Stored} / {Capacity} kg"
-msgstr ""
+msgstr "Opbevarer: {Stored} / {Capacity} kg"
 
 #. STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.TOOLTIP"
 msgid "This container is storing {Stored} kg of material"
-msgstr ""
+msgstr "Denne beholder opbevarer {Stored} kg materiale"
 
 #. STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.NAME"
 msgid "Stored Charge: {0}/{1}"
-msgstr ""
+msgstr "Opbevaret Opladning: {0}/{1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.TOOLTIP"
@@ -1856,91 +1856,97 @@ msgid ""
 "This building has stored {0} out of a maximum {1}. It will consume {2} per "
 "use."
 msgstr ""
+"Denne bygning har {0} ud af et maximum af {1} opbevaret. Den vil forbruge "
+"{2} per brug."
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.NAME"
 msgid "Current Status: Charging Suit"
-msgstr ""
+msgstr "Nuværedne Status: Oplader Exosuit"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.TOOLTIP"
 msgid "This Exosuit is docked and charging"
-msgstr ""
+msgstr "Dette Exosuit er docket og oplader"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.NAME"
 msgid "Current Status: Full Charge"
-msgstr ""
+msgstr "Nuværende Status: Fuld Opladning"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.TOOLTIP"
 msgid "This Exosuit is fully charged and ready for use"
-msgstr ""
+msgstr "Dette Exosuit er fuldt opladet og klart til brug"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.NAME"
 msgid "Current Status: Needs Configuration"
-msgstr ""
+msgstr "Nuværende Status: Kræver Indstilling"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.TOOLTIP"
 msgid "Set this Dock to store an Exosuit or remain on Standby"
-msgstr ""
+msgstr "Sæt denne Dock til at opbevare Exosuit eller forblive på Standby"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.NAME"
 msgid "Current Status: No Oxygen"
-msgstr ""
+msgstr "Nuværende Status: Ingen Oxygen"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.TOOLTIP"
 msgid "This Dock is not receiving enough oxygen to refill an Exosuit"
-msgstr ""
+msgstr "Denne Dock modtager ikke nok oxygen til at genopfylde et Exosuit"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.NAME"
 msgid "Current Status: Offline"
-msgstr ""
+msgstr "Nuværende Status: Offline"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.TOOLTIP"
 msgid "This Exosuit Dock requires power"
-msgstr ""
+msgstr "Denne Exosuit Dock mangler strøm"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.NAME"
 msgid "Current Status: On Standby"
-msgstr ""
+msgstr "Nuværende Status: På Standby"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.TOOLTIP"
 msgid "This Dock is functional and ready to receive an Exosuit"
-msgstr ""
+msgstr "Denne Dock er fungerende og klar til at modtage et Exosuit"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.NAME"
 msgid "Current Status: Awaiting Delivery"
-msgstr ""
+msgstr "Nuværende Status: Afventer Levering"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.TOOLTIP"
 msgid "Waiting for a Duplicant to deliver an Exosuit"
-msgstr ""
+msgstr "Venter på at en Duplicant leverer et Exosuit"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER_NEEDS_CONFIGURATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER_NEEDS_CONFIGURATION.NAME"
 msgid "Not Configured"
-msgstr ""
+msgstr "Ikke Indstillet"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER_NEEDS_CONFIGURATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER_NEEDS_CONFIGURATION.TOOLTIP"
 msgid "Exosuit Dock settings not configured"
-msgstr ""
+msgstr "Exosuit Dock indstillinger ikke konfigureret"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALANYTIME.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALANYTIME.NAME"
 msgid "Clearance: Always Permitted"
-msgstr ""
+msgstr "Adgang: Altid Tilladt"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALANYTIME.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALANYTIME.TOOLTIP"
@@ -1950,12 +1956,17 @@ msgid ""
 "When Exosuit Docks are all full, Duplicants will unequip their suits and "
 "drop them on the floor"
 msgstr ""
+"Duplicants i Exosuits må passere selv hvis der ikke er en ledig "
+"opbevaringsplads til deres Exosuit\n"
+"------------------\n"
+"Når alle Exosuit Docks er optagede, vil Duplicants tage deres Exosuits af of "
+"efterlade dem på gulvet"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.NAME
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.NAME"
 msgid "Clearance: Vacancy Only"
-msgstr ""
+msgstr "Adgang: Kun Ved Ledig Opbevaring"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.TOOLTIP
 msgctxt ""
@@ -1964,13 +1975,17 @@ msgid ""
 "Suited Duplicants may pass only if there is room in an Exosuit Dock to store "
 "their suit"
 msgstr ""
+"Duplicants i Exosuits må kun passere hvis der er en ledig Exosuit Dock de "
+"kan aflevere deres Exosuit i"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERWRONGSIDE.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERWRONGSIDE.NAME"
 msgid "Invalid Checkpoint"
-msgstr ""
+msgstr "Invalid Checkpoint"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERWRONGSIDE.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERWRONGSIDE.TOOLTIP"
 msgid ""
 "This building has been built on the wrong side of an Exosuit Checkpoint\n"
@@ -1978,43 +1993,51 @@ msgid ""
 "Exosuit Docks must be placed beside a Checkpoint, opposite the side its "
 "checkpoint faces"
 msgstr ""
+"Denne bygning er blevet bygget på den forkerte side af et Exosuit "
+"Checkpoint\n"
+"\n"
+"Exosuit Docks skal placeres ved siden af et Checkpoint, på den modsatte side "
+"af hvad dette Checkpoint vender"
 
 #. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.NAME"
 msgid "Active"
-msgstr ""
+msgstr "Aktiv"
 
 #. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.TOOLTIP"
 msgid "This switch is currently toggled on"
-msgstr ""
+msgstr "Denne kontakt er i øjeblikket tændt"
 
 #. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.NAME"
 msgid "Inactive"
-msgstr ""
+msgstr "Inaktiv"
 
 #. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.TOOLTIP"
 msgid "This switch is currently toggled off"
-msgstr ""
+msgstr "denne kontakt er i øjeblikket slukket"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.NAME"
 msgid "{FlushesRemaining} \"Visits\" Remaining"
-msgstr ""
+msgstr "{FlushesRemaining} \"Besøg\" Tilbage"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP"
 msgid ""
 "{FlushesRemaining} more Duplicants can use this amenity before it requires "
 "maintenance"
 msgstr ""
+"{FlushesRemaining} Duplicants kan bruge denne bekvemmelighed før der kræves "
+"vedligeholdelse"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME"
 msgid "Requires Emptying"
-msgstr ""
+msgstr "Kræver Tømning"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP"
@@ -2023,32 +2046,38 @@ msgid ""
 "------------------\n"
 "Emptying it will produce <style=\"solid\">Polluted Dirt</style>"
 msgstr ""
+"Denne bekvemmelighed kan ikke bruges når den er fyldt op\n"
+"------------------\n"
+"At tømme den vil producere <style=\"solid\">Forurenet Jord</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILETS_OUTSIDE_RANGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETS_OUTSIDE_RANGE.NAME"
 msgid "Unreachable restroom"
-msgstr ""
+msgstr "Utilgængeligt badeværelse"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILETS_OUTSIDE_RANGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETS_OUTSIDE_RANGE.TOOLTIP"
 msgid "Recuperating Duplicants must have toilets available within {0} cells"
-msgstr ""
+msgstr "Recuperating Duplicants must have toilets available within {0} cells"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOO_COLD.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOO_COLD.NAME"
 msgid "Too Cold"
-msgstr ""
+msgstr "For Kold"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOO_COLD.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOO_COLD.TOOLTIP"
 msgid ""
 "Either this building or its surrounding environment is too cold to operate"
 msgstr ""
+"Enten denne bygning eller dens omkringliggende miljø er for koldt til at "
+"betjenes"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.NAME"
 msgid "Output Blocked"
-msgstr ""
+msgstr "Output blokeret"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.TOOLTIP"
@@ -2068,7 +2097,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME"
 msgid "Warming Up"
-msgstr ""
+msgstr "Varmer Up"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP"
@@ -18934,247 +18963,248 @@ msgstr ""
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ACIDIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ACIDIC"
 msgid "Acidic"
-msgstr ""
+msgstr "Syre-Dækkede"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ANTIGRAVITY
+#, fuzzy
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ANTIGRAVITY"
 msgid "Antigravity"
-msgstr ""
+msgstr "Antigravity"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BEAUTIFUL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BEAUTIFUL"
 msgid "Beautiful"
-msgstr ""
+msgstr "Smukke"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BESIEGED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BESIEGED"
 msgid "Besieged"
-msgstr ""
+msgstr "Belejrede"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BREATHLESS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BREATHLESS"
 msgid "Breathless"
-msgstr ""
+msgstr "Åndeløse"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BURGEONING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BURGEONING"
 msgid "Burgeoning"
-msgstr ""
+msgstr "Spirende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BUSTLING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BUSTLING"
 msgid "Bustling"
-msgstr ""
+msgstr "Travle"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CHAOTIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CHAOTIC"
 msgid "Chaotic"
-msgstr ""
+msgstr "Kaotiske"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CLONE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CLONE"
 msgid "Clone"
-msgstr ""
+msgstr "Klon"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CONTAGIOUS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CONTAGIOUS"
 msgid "Contagious"
-msgstr ""
+msgstr "Smittende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.COOL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.COOL"
 msgid "Cool"
-msgstr ""
+msgstr "Cool"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.COUGHING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.COUGHING"
 msgid "Coughing"
-msgstr ""
+msgstr "Hostende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CUTE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CUTE"
 msgid "Cute"
-msgstr ""
+msgstr "Cute"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DANGEROUS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DANGEROUS"
 msgid "Dangerous"
-msgstr ""
+msgstr "Farlige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DARKEST
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DARKEST"
 msgid "Darkest"
-msgstr ""
+msgstr "Mørkeste"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DATA
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DATA"
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEADLY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEADLY"
 msgid "Deadly"
-msgstr ""
+msgstr "Dræbende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEATH
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEATH"
 msgid "Death"
-msgstr ""
+msgstr "Døds"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DELICATE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DELICATE"
 msgid "Delicate"
-msgstr ""
+msgstr "Delikate"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DISEASED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DISEASED"
 msgid "Diseased"
-msgstr ""
+msgstr "Sygdomsbefængte"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DOOMED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DOOMED"
 msgid "Doomed"
-msgstr ""
+msgstr "Dømte"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DORKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DORKY"
 msgid "Dorky"
-msgstr ""
+msgstr "Nørdede"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DUPLICANT
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DUPLICANT"
 msgid "Duplicant"
-msgstr ""
+msgstr "Duplicant"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.FESTERING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.FESTERING"
 msgid "Festering"
-msgstr ""
+msgstr "Festering"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.FUTURE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.FUTURE"
 msgid "Future"
-msgstr ""
+msgstr "Fremtids"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GALACTIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GALACTIC"
 msgid "Galactic"
-msgstr ""
+msgstr "Galaktiske"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GOLDEN
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GOLDEN"
 msgid "Golden"
-msgstr ""
+msgstr "Gyldne"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GREAT
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GREAT"
 msgid "Great"
-msgstr ""
+msgstr "Store"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GRIMY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GRIMY"
 msgid "Grimy"
-msgstr ""
+msgstr "Beskidte"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPLESS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPLESS"
 msgid "Hapless"
-msgstr ""
+msgstr "Ulykkelige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPPY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPPY"
 msgid "Happy"
-msgstr ""
+msgstr "Glade"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HARDY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HARDY"
 msgid "Hardy"
-msgstr ""
+msgstr "Hårdføre"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HIP
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HIP"
 msgid "Hip"
-msgstr ""
+msgstr "Hippe"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HOPEFUL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HOPEFUL"
 msgid "Hopeful"
-msgstr ""
+msgstr "Håbefulde"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IDYLLIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IDYLLIC"
 msgid "Idyllic"
-msgstr ""
+msgstr "Idylliske"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ILL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ILL"
 msgid "Ill"
-msgstr ""
+msgstr "Syge"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMMUNE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMMUNE"
 msgid "Immune"
-msgstr ""
+msgstr "Immune"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMPENETRABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMPENETRABLE"
 msgid "Impenetrable"
-msgstr ""
+msgstr "Uigennemtrængelige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INCREDIBLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INCREDIBLE"
 msgid "Incredible"
-msgstr ""
+msgstr "Utrolige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INESCAPABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INESCAPABLE"
 msgid "Inescapable"
-msgstr ""
+msgstr "Uundgåelige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INSPIRING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INSPIRING"
 msgid "Inspiring"
-msgstr ""
+msgstr "Inspirerende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INTERGALACTIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INTERGALACTIC"
 msgid "Intergalactic"
-msgstr ""
+msgstr "Intergalaktiske"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INVISIBLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INVISIBLE"
 msgid "Invisible"
-msgstr ""
+msgstr "Usynlige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IRONIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IRONIC"
 msgid "Ironic"
-msgstr ""
+msgstr "Ironiske"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LAMENTABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LAMENTABLE"
 msgid "Lamentable"
-msgstr ""
+msgstr "Beklagelige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LEAKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LEAKY"
 msgid "Leaky"
-msgstr ""
+msgstr "Utætte"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LOVELIEST
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LOVELIEST"
 msgid "Loveliest"
-msgstr ""
+msgstr "Dejligste"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKLESS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKLESS"
 msgid "Luckless"
-msgstr ""
+msgstr "Uheldige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKY"
 msgid "Lucky"
-msgstr ""
+msgstr "Heldige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUNAR
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUNAR"
@@ -19184,57 +19214,57 @@ msgstr ""
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUXURY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUXURY"
 msgid "Luxury"
-msgstr ""
+msgstr "Luxus"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.MERRY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.MERRY"
 msgid "Merry"
-msgstr ""
+msgstr "Glædelige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.MESSY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.MESSY"
 msgid "Messy"
-msgstr ""
+msgstr "Rodede"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.NEEDY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.NEEDY"
 msgid "Needy"
-msgstr ""
+msgstr "Trængende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.OPTIMISTIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.OPTIMISTIC"
 msgid "Optimistic"
-msgstr ""
+msgstr "Optimistiske"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.OUTRAGEOUS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.OUTRAGEOUS"
 msgid "Outrageous"
-msgstr ""
+msgstr "Uhyrlige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PERFECT
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PERFECT"
 msgid "Perfect"
-msgstr ""
+msgstr "Perfekte"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PHELGM_COATED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PHELGM_COATED"
 msgid "Phlegm-Coated"
-msgstr ""
+msgstr "Slim-Belagte"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLAGUED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLAGUED"
 msgid "Plagued"
-msgstr ""
+msgstr "Plagede"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLUCKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLUCKY"
 msgid "Plucky"
-msgstr ""
+msgstr "Modige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PROSPEROUS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PROSPEROUS"
 msgid "Prosperous"
-msgstr ""
+msgstr "Blomstrende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.QUARANTINED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.QUARANTINED"
@@ -19244,57 +19274,57 @@ msgstr ""
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADICAL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADICAL"
 msgid "Radical"
-msgstr ""
+msgstr "Radikale"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADIOACTIVE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADIOACTIVE"
 msgid "Radioactive"
-msgstr ""
+msgstr "Radioaktive"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RAMSHACKLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RAMSHACKLE"
 msgid "Ramshackle"
-msgstr ""
+msgstr "Faldefærdige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.REGRETTABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.REGRETTABLE"
 msgid "Regrettable"
-msgstr ""
+msgstr "Fortrydelige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROCKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROCKY"
 msgid "Rocky"
-msgstr ""
+msgstr "Stenede"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROSY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROSY"
 msgid "Rosy"
-msgstr ""
+msgstr "Rosenrøde"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RUSTIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RUSTIC"
 msgid "Rustic"
-msgstr ""
+msgstr "Rustikke"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SCIENTIFIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SCIENTIFIC"
 msgid "Scientific"
-msgstr ""
+msgstr "Videnskabelige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SERENE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SERENE"
 msgid "Serene"
-msgstr ""
+msgstr "Fredfyldte"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SNEEZING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SNEEZING"
 msgid "Sneezing"
-msgstr ""
+msgstr "Nysende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACE"
 msgid "Space"
-msgstr ""
+msgstr "Space"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACEFARING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACEFARING"
@@ -19309,107 +19339,109 @@ msgstr ""
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.STARVING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.STARVING"
 msgid "Starving"
-msgstr ""
+msgstr "Sultende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.STICKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.STICKY"
 msgid "Sticky"
-msgstr ""
+msgstr "Klistrede"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUAVE
+#, fuzzy
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUAVE"
 msgid "Suave"
-msgstr ""
+msgstr "Suave"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUBTERRANEAN
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUBTERRANEAN"
 msgid "Subterranean"
-msgstr ""
+msgstr "Underjordiske"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER"
 msgid "Super"
-msgstr ""
+msgstr "Super"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER_DUPER
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER_DUPER"
 msgid "Super Duper"
-msgstr ""
+msgstr "Super Duper"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SWANKY
+#, fuzzy
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SWANKY"
 msgid "Swanky"
-msgstr ""
+msgstr "Swanky"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SYSTEMATIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SYSTEMATIC"
 msgid "Systematic"
-msgstr ""
+msgstr "Systematiske"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.TEMPORAL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.TEMPORAL"
 msgid "Temporal"
-msgstr ""
+msgstr "Tidsmæssige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRAGIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRAGIC"
 msgid "Tragic"
-msgstr ""
+msgstr "Tragiske"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRANSDIMENSIONAL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRANSDIMENSIONAL"
 msgid "Transdimensional"
-msgstr ""
+msgstr "Transdimensionelle"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ULTRA
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ULTRA"
 msgid "Ultra"
-msgstr ""
+msgstr "Ultra"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNCOMFORTABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNCOMFORTABLE"
 msgid "Uncomfortable"
-msgstr ""
+msgstr "Ubehagelige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNDERGROUND
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNDERGROUND"
 msgid "Underground"
-msgstr ""
+msgstr "Undergrunds"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNFORTUNATE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNFORTUNATE"
 msgid "Unfortunate"
-msgstr ""
+msgstr "Uheldige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNSTOPPABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNSTOPPABLE"
 msgid "Unstoppable"
-msgstr ""
+msgstr "Ustoppelige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.VIRAL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.VIRAL"
 msgid "Viral"
-msgstr ""
+msgstr "Virale"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.YUCKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.YUCKY"
 msgid "Yucky"
-msgstr ""
+msgstr "Ulækre"
 
 #. STRINGS.NAMEGEN.COLONY.FORMATS.ADJECTIVE_NOUN
 msgctxt "STRINGS.NAMEGEN.COLONY.FORMATS.ADJECTIVE_NOUN"
 msgid "{adjective} {noun}"
-msgstr ""
+msgstr "{adjective} {noun}"
 
 #. STRINGS.NAMEGEN.COLONY.FORMATS.NOUN
 msgctxt "STRINGS.NAMEGEN.COLONY.FORMATS.NOUN"
 msgid "{noun}"
-msgstr ""
+msgstr "{noun}"
 
 #. STRINGS.NAMEGEN.COLONY.FORMATS.THE_ADJECTIVE_NOUN
 msgctxt "STRINGS.NAMEGEN.COLONY.FORMATS.THE_ADJECTIVE_NOUN"
 msgid "The {adjective} {noun}"
-msgstr ""
+msgstr "Den {adjective} {noun}"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.ABODE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ABODE"
@@ -25281,17 +25313,17 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.SAVE
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.SAVE"
 msgid "Save"
-msgstr ""
+msgstr "Gem"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.SAVEAS
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.SAVEAS"
 msgid "Save As"
-msgstr ""
+msgstr "Gem Som"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.TITLE"
 msgid "PAUSED"
-msgstr ""
+msgstr "PAUSE"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.WORLD_SEED
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.WORLD_SEED"
@@ -30849,12 +30881,12 @@ msgstr "Tilsætter spande med jord..."
 #. STRINGS.UI.WORLDGEN.CONVERTTERRAINCELLSTOEDGES
 msgctxt "STRINGS.UI.WORLDGEN.CONVERTTERRAINCELLSTOEDGES"
 msgid "Hardening diamonds..."
-msgstr ""
+msgstr "Hærder diamanter..."
 
 #. STRINGS.UI.WORLDGEN.DRAWWORLDBORDER
 msgctxt "STRINGS.UI.WORLDGEN.DRAWWORLDBORDER"
 msgid "Establishing personal boundaries..."
-msgstr ""
+msgstr "Fastsætter personlige grænser..."
 
 #. STRINGS.UI.WORLDGEN.FAILED
 msgctxt "STRINGS.UI.WORLDGEN.FAILED"
