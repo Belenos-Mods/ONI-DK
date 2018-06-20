@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.7\n"
+"X-Generator: Poedit 2.0.8\n"
 "Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: da_DK\n"
@@ -46,9 +46,9 @@ msgid ""
 "------------------\n"
 "All Duplicants are permitted to pass through it until power is restored"
 msgstr ""
-"[fuzzy]Denne dør har givet tilladelser til nødadgang\n"
-"\\v------------------\n"
-"\\vAlle Duplicants må gå igennem, indtil strømmen er genoprettet"
+"Denne dør har bevilget nødadgangstilladelser\n"
+"------------------\n"
+"Alle Duplicanter har lov til at passere gennem det indtil strøm er genoprettet"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME"
@@ -942,7 +942,7 @@ msgstr "Denne pumpe er ikke aktiv"
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.NAME"
 msgid "Liquid Vent Obstructed"
-msgstr "[fuzzy]Væske Afløb Blokeret"
+msgstr "Væskeafløb Blokeret"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.TOOLTIP"
@@ -1039,7 +1039,7 @@ msgstr "Denne generator leverer strøm til strøm forbrugere"
 #. STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.NAME"
 msgid "Manually Controlled"
-msgstr "Manuelt kontrolleret "
+msgstr "Manuelt kontrolleret"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP"
@@ -1073,7 +1073,7 @@ msgstr "Bygningen mangler ressourcer"
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid "Crucial materials are unavailable or beyond reach for these buildings:"
-msgstr "Vigtige matrialer er utilgængelige eller uden for rækkevide af disse bygninger"
+msgstr "Vigtige materialer er utilgængelige eller uden for rækkevide af disse bygninger:"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.TOOLTIP"
@@ -1081,9 +1081,10 @@ msgid "Crucial materials for this building are beyond reach or unavailable"
 msgstr "Vigtige materialer er uden for rækkevide eller utilgængelig"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.LINE_ITEM
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.LINE_ITEM"
 msgid "• {0}"
-msgstr ""
+msgstr "• {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.NAME"
@@ -1112,7 +1113,7 @@ msgstr "[fuzzy]Bygnings nedsmældning"
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_TOOLTIP"
 msgid "These buildings are collapsing:"
-msgstr "Disse bygninger bryder sammen"
+msgstr "Disse bygninger bryder sammen:"
 
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.TOOLTIP"
@@ -1133,7 +1134,7 @@ msgid ""
 msgstr ""
 "Byg fliser under denne bygning\n"
 "------------------\n"
-"Fliser kan findes i <color=#833A5FFF>Base Tab</color> <color=#F44A47>[1]</color> af bygge menuen "
+"Fliser kan findes i <color=#833A5FFF>Base Tab</color> <color=#F44A47>[1]</color> af bygge menuen"
 
 #. STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME"
@@ -1272,7 +1273,7 @@ msgstr "Denne resource kan ikke mines af Duplicants værktøj"
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME"
 msgid "New Duplicants Available"
-msgstr "Nye Duplicants er tilgængelig "
+msgstr "Nye Duplicants er tilgængelige"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME"
@@ -1304,14 +1305,13 @@ msgid "<style=\"research\">Research Center</style> idle"
 msgstr "<style=\"research\">Forsknings center</style> ledig"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NOTIFICATION_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NOTIFICATION_TOOLTIP"
 msgid ""
 "These buildings cannot produce the correct <style=\"research\">Research Type</style> for the selected <style=\"research"
 "\">Research Task</style>:"
 msgstr ""
-"Denne bygning kan ikke producerer den korrekte <style=\"research\">Forsknings type</style> for den valgte <style="
-"\"research\">forsknings opgave</style>:"
+"Disse bygninger kan ikke producere den korrekte <style=\"research\">Forskningstype</style> for den valgte <style="
+"\"research\">Forskningsopgave</style>:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP"
@@ -1468,7 +1468,7 @@ msgstr "Intet transport rør forbundet"
 #. STRINGS.BUILDING.STATUSITEMS.NOTUBECONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTUBECONNECTED.TOOLTIP"
 msgid "A straight Transit Tube must be connected to the top of the launch rail for this building to function."
-msgstr "Et LIGE transport rør må være forbundet til toppen af affyrings skinnen for denne bygning til at virke"
+msgstr "Et lige transportrør skal være forbundet til toppen af startskinnen for at denne bygning kan fungere."
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.NAME"
@@ -1586,24 +1586,25 @@ msgstr ""
 #, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME"
 msgid "Toggle Switch Task Assigned"
-msgstr "Skifte kontakt opgave tildelt"
+msgstr "Skifte Kontakt-Opgave Tildelt"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.TOOLTIP
 #, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.TOOLTIP"
 msgid "Waiting for a Duplicant to toggle switch"
-msgstr "Venter på en Duplicant til at skifte kontakt "
+msgstr "Venter på en Duplicant til at skifte kontakt"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME
 #, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME"
 msgid "Uproot Task Assigned"
-msgstr "Op rive opgave tildelt "
+msgstr "Oprivningsopgave tildelt"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
 msgid "Waiting for a Duplicant to uproot"
-msgstr ""
+msgstr "Venter på en Duplicant til rodoprykning"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME"
@@ -1647,7 +1648,7 @@ msgstr "Tom"
 #. STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.NAME"
 msgid "Function Suspended"
-msgstr "Funktion suspenderet "
+msgstr "Funktion suspenderet"
 
 #. STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.TOOLTIP"
@@ -1710,10 +1711,9 @@ msgid "Releasing Pressure"
 msgstr "Frigiver tryk"
 
 #. STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.TOOLTIP"
 msgid "Pressure buildup is being safely released"
-msgstr "Opbygget tryk bliver sikkert frigjort"
+msgstr "Trykopbygning frigives uden fare"
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESMINER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESMINER.NAME"
@@ -1887,16 +1887,15 @@ msgid "Invalid Checkpoint"
 msgstr "Ugyldig checkpoint"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERWRONGSIDE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERWRONGSIDE.TOOLTIP"
 msgid ""
 "This building has been built on the wrong side of an Exosuit Checkpoint\n"
 "\n"
 "Exosuit Docks must be placed beside a Checkpoint, opposite the side its checkpoint faces"
 msgstr ""
-"Denny bygning er blevet bygget på den forkerte side af en Exosuit Checkpoint\n"
+"Denny bygning er blevet bygget på den forkerte side af et Exosuit Checkpoint\n"
 "\n"
-"Exosuit Docks skal placeres ved siden af et Checkpoint, modsat den vej som checkpoint peger"
+"Exosuit Docks skal placeres ved siden af et Checkpoint, modsat den side dets checkpoint vender mod"
 
 #. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.NAME"
@@ -1916,7 +1915,7 @@ msgstr "Inaktiv"
 #. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.TOOLTIP"
 msgid "This switch is currently toggled off"
-msgstr "denne kontakt er i øjeblikket slukket"
+msgstr "Denne kontakt er i øjeblikket slukket"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.NAME"
@@ -1924,10 +1923,9 @@ msgid "{FlushesRemaining} \"Visits\" Remaining"
 msgstr "{FlushesRemaining} \"Besøg\" Tilbage"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP"
 msgid "{FlushesRemaining} more Duplicants can use this amenity before it requires maintenance"
-msgstr "{FlushesRemaining} flere Duplicants kan bruge denne facilitet, før den kræver vedligeholdelse"
+msgstr "{FlushesRemaining} flere Duplicanter kan bruge denne bekvemmelighed før den kræver vedligeholdelse"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME"
@@ -1973,7 +1971,7 @@ msgstr "Udgang Blokeret"
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.TOOLTIP"
 msgid "This turbine's output is blocked"
-msgstr "Denne turbines udgang er blokeret "
+msgstr "Denne turbines udgang er blokeret"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.NAME"
@@ -1983,7 +1981,7 @@ msgstr "Ikke nok kapacitet"
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.TOOLTIP"
 msgid "This turbine requires {MASS} of {ELEMENT} at {TEMPERATURE} to run"
-msgstr "Denne turbine kræver {MASS} af {ELEMENT} ved {TEMPERATURE} for at virke."
+msgstr "Denne turbine kræver {MASS} af {ELEMENT} ved {TEMPERATURE} for at virke"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME"
@@ -2003,7 +2001,7 @@ msgstr "Ikke tildelt"
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.TOOLTIP"
 msgid "Assign a Duplicant to use this amenity"
-msgstr "Vælg en Duplicant til at bruge denne facilitet "
+msgstr "Tildel en Duplicant til at bruge denne bekvemmelighed"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.NAME"
@@ -2013,7 +2011,7 @@ msgstr "Under konstruktion"
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.TOOLTIP"
 msgid "This building is currently being built"
-msgstr "Denne bygning er ved at blive bygget "
+msgstr "Denne bygning er ved at blive bygget"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME"
@@ -2033,7 +2031,7 @@ msgstr "Lavt Lufttryk"
 #. STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.TOOLTIP"
 msgid "A minimum atmospheric pressure of {TargetPressure} is needed for this building to operate"
-msgstr "Et minimum atmosfærisk tryk på {TargetPressure} er nødvendig for denne bygning for at virke."
+msgstr "Et minimalt atmosfærisk tryk på {TargetPressure} er nødvendigt for at denne bygning kan fungere"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME"
@@ -2043,7 +2041,7 @@ msgstr "Virker ikke"
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP"
 msgid "This amenity requires maintenance"
-msgstr "Denne facilitet kræver vedligeholdelse "
+msgstr "Denne bekvemmelighed kræver vedligeholdelse"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.NAME"
@@ -2051,16 +2049,15 @@ msgid "Max Flow Rate: {MaxFlow}"
 msgstr "Maks Strømningshastighed: {MaxFlow}"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.TOOLTIP"
 msgid "This valve is allowing flow at a volume of {MaxFlow}"
-msgstr "Denne ventil tillader en flow hastighed på {MaxFlow}"
+msgstr "Denne ventil tillader flow i et volumen af {MaxFlow}"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.NAME
 #, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.NAME"
 msgid "Requested Flow Rate: {QueuedMaxFlow}"
-msgstr "Ønsket flow hastighed: {QueuedMaxFlow}"
+msgstr "Ønsket Flow-Fart: {QueuedMaxFlow}"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.TOOLTIP"
@@ -2155,7 +2152,7 @@ msgstr "Koloni Tabt"
 #. STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.TOOLTIP"
 msgid "All Duplicants are dead or incapacitated"
-msgstr "Alle Duplicants er døde eller bevidstløse!"
+msgstr "Alle Duplicants er døde eller uarbejdsdygtige"
 
 #. STRINGS.BUILDING.STATUSITEMS.WELL_OVERPRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WELL_OVERPRESSURE.NAME"
@@ -2163,16 +2160,14 @@ msgid "Overpressure"
 msgstr "Overtryk"
 
 #. STRINGS.BUILDING.STATUSITEMS.WELL_OVERPRESSURE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WELL_OVERPRESSURE.TOOLTIP"
 msgid "This well can no longer function due to excessive backpressure"
-msgstr "Denne brønd kan ikke længere fungere på grund af for højt tilbage tryk"
+msgstr "Denne brønd kan ikke længere fungere grundet for meget modtryk"
 
 #. STRINGS.BUILDING.STATUSITEMS.WELL_PRESSURIZING.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WELL_PRESSURIZING.NAME"
 msgid "Backpressure: {0}"
-msgstr "Tilbage tryk: {0}"
+msgstr "Modtryk: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WELL_PRESSURIZING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WELL_PRESSURIZING.TOOLTIP"
@@ -2207,7 +2202,7 @@ msgstr "Ledning afbrudt"
 #. STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.TOOLTIP"
 msgid "This wire is not connecting a power consumer to a generator"
-msgstr "Denne ledning er ikke forbundet til en "
+msgstr "Denne ledning forbinder ikke en strømforbruger til en generator"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.NAME"
@@ -2232,7 +2227,7 @@ msgstr "Den ledning er i god stand"
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.NAME"
 msgid "Nominal"
-msgstr "Nominel "
+msgstr "Nominel"
 
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP"
@@ -2242,7 +2237,7 @@ msgstr "Denne bygning virker som beregnet"
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.NAME
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.NAME"
 msgid "Disable Disinfect"
-msgstr "Deaktiver desinfektion "
+msgstr "Deaktiver desinfektion"
 
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.TOOLTIP"
@@ -2252,7 +2247,7 @@ msgstr "Desinficer ikke denne bygning automatisk"
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.NAME
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.NAME"
 msgid "Enable Disinfect"
-msgstr "Aktiver desinfektion "
+msgstr "Aktiver desinfektion"
 
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.TOOLTIP"
@@ -2262,32 +2257,32 @@ msgstr "Desinficer automatisk denne bygning, når den bliver forurenet"
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.NO_DISEASE.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.NO_DISEASE.TOOLTIP"
 msgid "This building is clean"
-msgstr "Denne bygning er ren "
+msgstr "Denne bygning er ren"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT"
 msgid "receiving an incorrect substance"
-msgstr "modtager et forkert element "
+msgstr "modtager en ukorrekt substans"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.BUILDING_OVERHEATED
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.BUILDING_OVERHEATED"
 msgid "overheating"
-msgstr "Overophedning "
+msgstr "overopheder"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.CIRCUIT_OVERLOADED
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.CIRCUIT_OVERLOADED"
 msgid "an overloaded circuit"
-msgstr "et overbelastet kredsløb "
+msgstr "et overbelastet kredsløb"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_BOILED
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_BOILED"
 msgid "pipe contents becoming too hot"
-msgstr "Rørs indhold er ved at blive for varmt "
+msgstr "rørindholdet bliver for varmt"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_FROZE
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_FROZE"
 msgid "pipe contents becoming too cold"
-msgstr "Rørs indhold er ved at blive for koldt "
+msgstr "rørindholdet bliver for koldt"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.LIQUID_PRESSURE
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.LIQUID_PRESSURE"
@@ -2297,7 +2292,7 @@ msgstr "nærliggende væsketryk"
 #. STRINGS.BUILDINGS.DAMAGESOURCES.MINION_DESTRUCTION
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.MINION_DESTRUCTION"
 msgid "an angry Duplicant. Rude!"
-msgstr "en sur Duplicant, ubehøvlet! "
+msgstr "en vred Duplicant. Ubehøvlet!"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.NOTIFICATION_TOOLTIP"
@@ -2307,27 +2302,27 @@ msgstr "En {0} tager skade fra{1}"
 #. STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.NAME
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.NAME"
 msgid "Cancel Disinfect"
-msgstr "Annuller desinfektion "
+msgstr "Annuller desinfektion"
 
 #. STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.TOOLTIP"
 msgid "Cancel this disinfect order"
-msgstr "Annuller denne desinfektions ordre "
+msgstr "Annuller denne desinfektionsordre"
 
 #. STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.NAME
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.NAME"
 msgid "Disinfect"
-msgstr "Desinficer "
+msgstr "Desinficer"
 
 #. STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.TOOLTIP"
 msgid "Mark this building for disinfection"
-msgstr "Marker denne bygning til desinfektion "
+msgstr "Marker denne bygning til desinfektion"
 
 #. STRINGS.BUILDINGS.DISINFECTABLE.NO_DISEASE.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.NO_DISEASE.TOOLTIP"
 msgid "This building is already clean"
-msgstr "Denne bygning er allerede ren "
+msgstr "Denne bygning er allerede ren"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC"
@@ -2345,39 +2340,39 @@ msgid "Super Computer"
 msgstr "Super Computer"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.DESC"
 msgid "Lures can be used to relocate flying creatures to specific locations in your base."
-msgstr "Lokkemad can blive brugt til at flytte flyvene dyr til specifikke lokationer i din base. "
+msgstr "Lokkemad kan blive brugt til at omplacere flyvene skabninger til specifikke lokationer i din base."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.EFFECT"
 msgid "Attracts airborne creatures of a single type when set with the correct bait."
-msgstr "Tiltrækker flyvene dyr af en enkelt type når sat med det korrekte lokkemad. "
+msgstr "Tiltrækker flyvende skabninger af en enkelt type når sat med den korrekte lokkemad."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.NAME
 #, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.NAME"
 msgid "Aerial Creature Lure"
-msgstr "Lokkemad til luftbårne dyr"
+msgstr "Luftbårne Skabninger-Lokkemad"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC"
 msgid "A thermo regulator doesn't remove heat, but relocates it to a new area."
-msgstr "En temperatur regulator fjerner ikke varme, men flytter det til et nyt område. "
+msgstr "En temperaturregulator fjerner ikke varme, men omplacerer det til et nyt område."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT"
 msgid ""
 "Cools the <style=\"gas\">Gas</style> piped through it, but outputs <style=\"heat\">Heat</style> in its immediate "
 "vicinity."
-msgstr "Køler<style=\"gas\">Gas</style> der sendes igennem men <style=\"heat\">Heat</style> i dens område"
+msgstr ""
+"Køler det<style=\"gas\">Gas</style> der føres gennem røret, men udsender <style=\"heat\">Hede</style> i dens direkte "
+"nærhed."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME"
 msgid "Thermo Regulator"
-msgstr "Temperatur regulator "
+msgstr "Temperaturregulator"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC"
@@ -2442,19 +2437,19 @@ msgid ""
 "\n"
 "Duplicants will not fabricate unless recipes are queued."
 msgstr ""
-"Producere <style=\"medicine\">Medicin</style> for at helbrede de mest almindelige <style=\"disease\">Sygdomme</style>.\n"
+"Producerer <style=\"medicine\">Medicin</style> til at helbrede de mest basale <style=\"disease\">Sygdomme</style>.\n"
 "\n"
-"Duplicants vil ikke producere med mindre opskrift er valgt"
+"Duplicants vil ikke fabrikere medmindre opskrifter er valgt."
 
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME"
 msgid "Apothecary"
-msgstr "Apotek "
+msgstr "Apotek"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.DESC"
 msgid "Batteries allow extra power from generators to be stored for later, rather than lost."
-msgstr "Batterier tillader ekstra strøm fra generatorer at blive gemt til senere, i stedet for tabt"
+msgstr "Batterier tillader ekstra strøm fra generatorer at blive gemt til senere, frem for tabt."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.EFFECT"
@@ -2469,7 +2464,7 @@ msgstr "Lille Batteri"
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.DESC"
 msgid "Larger batteries hold more power and keep systems running longer before recharging."
-msgstr "Store batterier holder mere strøm og kan hold systemer kørende længere før genopladning"
+msgstr "Større batterier rummer mere strøm og kan holde systemer kørende længere før genopladning."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.EFFECT"
@@ -2488,8 +2483,8 @@ msgid ""
 "Smart batteries are designed to be integrated into logic systems and will become <style=\"logic\">Active</style> if "
 "they are charged above a user specified threshold"
 msgstr ""
-"Smart batterier er designet til at blive integreret i logiske systemer og bliver <style=\"logic\">Aktiv</style>, hvis "
-"de er opladt mere end en brugerdefineret tærskel"
+"Intelligente batterier er designet til at blive integreret i logiske systemer og vil blive <style=\"logic\">Aktive</"
+"style> hvis de er opladt over en brugerdefineret tærskel"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.EFFECT
 #| msgid ""
@@ -2500,7 +2495,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.LOGIC_PORT_DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.LOGIC_PORT_DESC"
 msgid "<style=\"logic\">Active</style> if power level exceeds a threshold"
-msgstr "<style=\"logic\">Aktiv</style> hvis strøm niveau overstiger en tærskelværdi "
+msgstr "<style=\"logic\">Aktiv</style> hvis strøm niveau overstiger en tærskel"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.NAME"
@@ -2517,7 +2512,7 @@ msgstr "Automatik aktiv tærskelværdi"
 #| msgid ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.DESC"
 msgid "Duplicants without a bed will develop sore backs from sleeping on the floor."
-msgstr "Duplicants uden en seng vil få øm ryg fra at sove på gulvet "
+msgstr "Duplicants uden en seng vil få ømme rygge af at sove på gulvet."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.EFFECT"
@@ -2543,7 +2538,7 @@ msgstr "En flaske tømmers \"Element Filter\" kan bruges til at vælge områder 
 #. STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.EFFECT"
 msgid "Empties bottled <style=\"liquid\">Liquids</style> back into the world."
-msgstr "Tømmer flaskers <style=\"liquid\">Væske</style> tilbage ud i verden"
+msgstr "Tømmer flaskers <style=\"liquid\">Væsker</style> tilbage i verden."
 
 #. STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.NAME"
@@ -2568,7 +2563,7 @@ msgstr "Brænder"
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME"
 msgid "Mediocre Painting"
-msgstr "Medium god maleri "
+msgstr "Middelmådigt Maleri"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.DESC"
@@ -2604,7 +2599,7 @@ msgstr "Simpelt Maleri"
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC"
 msgid "Light reduces Duplicant stress and is required to grow certain plants."
-msgstr "Lys reducere Duplicants stres, og er krævet til nogle planter for at a de kan vokse"
+msgstr "Lys reducerer Duplicantstress, og er krævet for at gro bestemte planter."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT"
@@ -2820,9 +2815,10 @@ msgid "below"
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO.NAME"
 msgid "Auto"
-msgstr ""
+msgstr "Automatisk"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO.TOOLTIP"
@@ -2971,7 +2967,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT"
 msgid "Provides <style=\"light\">Light</style> when <style=\"power\">Powered</style>."
-msgstr ""
+msgstr "Leverer <style=\"light\">Lys</style> ved <style=\"power\">Strømforsyning</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME"
@@ -3821,7 +3817,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LOGICPOWERRELAY.LOGIC_PORT_DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPOWERRELAY.LOGIC_PORT_DESC"
 msgid "On/Off"
-msgstr "[fuzzy]Deaktiveret"
+msgstr "Tænd/Sluk"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICPOWERRELAY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPOWERRELAY.NAME"
@@ -7186,7 +7182,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DISINFECT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DISINFECT.NAME"
 msgid "Disinfect"
-msgstr ""
+msgstr "Desinficer"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.DESC"
@@ -7501,7 +7497,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.DISINFECT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DISINFECT.NAME"
 msgid "Disinfect"
-msgstr ""
+msgstr "Desinficer"
 
 #. STRINGS.DUPLICANTS.CHORES.DISINFECT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DISINFECT.STATUS"
@@ -7691,7 +7687,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.HEAL.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.STATUS"
 msgid "Healing"
-msgstr "kurere"
+msgstr "Helbredelse"
 
 #. STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.NAME"
@@ -7701,7 +7697,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.STATUS"
 msgid "Healing"
-msgstr "kurere"
+msgstr "Helbreder"
 
 #. STRINGS.DUPLICANTS.CHORES.IDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.NAME"
@@ -9816,7 +9812,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME"
 msgid "Grimy"
-msgstr "Beskidte"
+msgstr "Beskidt"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP"
@@ -9906,7 +9902,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.NAME"
 msgid "Warming Up"
-msgstr "Varmer Up"
+msgstr "Varmer Op"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.TOOLTIP"
@@ -9994,47 +9990,49 @@ msgstr ""
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_1
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_1"
 msgid "Poor"
-msgstr ""
+msgstr "Ringe"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_2
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_2"
 msgid "Terrible"
-msgstr ""
+msgstr "Elendig"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_3
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_3"
 msgid "Grisly"
-msgstr ""
+msgstr "Uhyggelig"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_1
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_1"
 msgid "Good"
-msgstr ""
+msgstr "Godt"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_2
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_2"
 msgid "Great"
-msgstr "Store"
+msgstr "Storartet"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_3
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_3"
 msgid "Superb"
-msgstr ""
+msgstr "Fortræffelig"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_4
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_4"
 msgid "Ambrosial"
-msgstr ""
+msgstr "Ambrosisk"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.ZERO
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.ZERO"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.BAD_FOOD_MOD
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.BAD_FOOD_MOD"
 msgid "Food Quality"
-msgstr ""
+msgstr "Madkvalitet"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_TOOLTIP"
@@ -10043,6 +10041,9 @@ msgid ""
 "This Duplicant desires {0} or better food, and becomes <style=\"stress\">Stressed</style> when they eat meals of lower "
 "quality."
 msgstr ""
+"Hver Duplicant har en minimal kvalitet af <style=\"food\">Mad</style> som de vil tolerere at spise.\n"
+"Denne Duplicant ønsker {0} eller bedre mad, og bliver <style=\"stress\">Stresset</style> når de spiser mad af lavere "
+"kvalitet."
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY"
@@ -10050,6 +10051,8 @@ msgid ""
 "\n"
 "Food Quality Score of {0}"
 msgstr ""
+"\n"
+"Madkvalitetsscore på {0}"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY_EXPECTATION
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY_EXPECTATION"
@@ -12386,22 +12389,23 @@ msgstr ""
 #. STRINGS.DUPLICANTS.THOUGHTS.HAPPY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.HAPPY.TOOLTIP"
 msgid "Happy"
-msgstr "Glade"
+msgstr "Glad"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.HOT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.HOT.TOOLTIP"
 msgid "Hot"
-msgstr ""
+msgstr "Varm"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.NOISY.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.NOISY.TOOLTIP"
 msgid "Loud Area"
-msgstr ""
+msgstr "Støjende område"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.POOR_FOOD_QUALITY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.POOR_FOOD_QUALITY.TOOLTIP"
 msgid "Lousy Meal"
-msgstr ""
+msgstr "Elendigt måltid"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.POORDECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.POORDECOR.TOOLTIP"
@@ -14506,7 +14510,7 @@ msgstr "Vakuum"
 #. STRINGS.ELEMENTS.VOID.DESC
 msgctxt "STRINGS.ELEMENTS.VOID.DESC"
 msgid "Cold, infinite nothingness."
-msgstr "Kold, uendelig intethed"
+msgstr "Kold, uendelig intethed."
 
 #. STRINGS.ELEMENTS.VOID.NAME
 msgctxt "STRINGS.ELEMENTS.VOID.NAME"
@@ -14621,7 +14625,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.DESC"
 msgid "Don't sweat it!"
-msgstr "Ta det roligt"
+msgstr "Tag det roligt!"
 
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.EFFECT"
@@ -15396,7 +15400,7 @@ msgstr "Grav"
 #. STRINGS.INPUT_BINDINGS.ROOT.DISINFECT
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.DISINFECT"
 msgid "Disinfect"
-msgstr ""
+msgstr "Desinficer"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.HARVEST
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.HARVEST"
@@ -15601,7 +15605,7 @@ msgstr ""
 #. STRINGS.INPUT_BINDINGS.TOOL.NAME
 msgctxt "STRINGS.INPUT_BINDINGS.TOOL.NAME"
 msgid "Tool"
-msgstr "værktøj"
+msgstr "Værktøj"
 
 #. STRINGS.INPUT_BINDINGS.TOOL.ROTATEBUILDING
 msgctxt "STRINGS.INPUT_BINDINGS.TOOL.ROTATEBUILDING"
@@ -16314,7 +16318,7 @@ msgstr "Koloni Tabt"
 #. STRINGS.MISC.NOTIFICATIONS.COLONYLOST.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.COLONYLOST.TOOLTIP"
 msgid "All Duplicants are dead or incapacitated"
-msgstr ""
+msgstr "Alle Duplicanter er døde eller uarbejdsdygtige"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.NAME"
@@ -16652,7 +16656,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.HEALING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALING.NAME"
 msgid "Healing"
-msgstr "kurere"
+msgstr "Herlbreder"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALING.TOOLTIP"
@@ -16789,7 +16793,7 @@ msgstr "Manglende materialer"
 #. STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.TOOLTIP"
 msgid "These resources are not available:"
-msgstr "Disse ressourcer er ikke tilgængelige"
+msgstr "Disse ressourcer er ikke tilgængelige:"
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY"
@@ -16858,7 +16862,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME"
 msgid "Colony requires beds"
-msgstr "kolonien mangler senge"
+msgstr "Koloni kræver senge"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP"
@@ -16998,7 +17002,7 @@ msgstr "Ressourcer smæltede"
 #. STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.TOOLTIP"
 msgid "These resources have melted:"
-msgstr "Disse ressourcer er smæltede"
+msgstr "Disse ressourcer har smeltet:"
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY"
@@ -17584,7 +17588,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME"
 msgid "Harvest Task Assigned"
-msgstr ""
+msgstr "Høstopgave Tildelt"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP"
@@ -17594,7 +17598,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME"
 msgid "Uproot Task Assigned"
-msgstr ""
+msgstr "Rodoprykningsopgave Tildelt"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
@@ -19683,7 +19687,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.GRAVE.EPITAPHS.GO_ON_WITHOUT_ME
 msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.GO_ON_WITHOUT_ME"
 msgid "\"Go on without me.\""
-msgstr "[fuzzy]Fra mig"
+msgstr "\"Fortsæt uden mig.\""
 
 #. STRINGS.NAMEGEN.GRAVE.EPITAPHS.GONE_BUT_NOT_FORGOTTEN
 msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.GONE_BUT_NOT_FORGOTTEN"
@@ -20458,9 +20462,10 @@ msgid ""
 msgstr ""
 
 #. STRINGS.ROOMS.DETAILS.ASSIGNED_TO.UNASSIGNED
+#, fuzzy
 msgctxt "STRINGS.ROOMS.DETAILS.ASSIGNED_TO.UNASSIGNED"
 msgid "Unassigned"
-msgstr ""
+msgstr "Ikke tildelt"
 
 #. STRINGS.ROOMS.DETAILS.AVERAGE_ATMO_MASS.NAME
 msgctxt "STRINGS.ROOMS.DETAILS.AVERAGE_ATMO_MASS.NAME"
@@ -21833,7 +21838,7 @@ msgstr "Tanken er lav"
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.OWNSMATERIALS
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.OWNSMATERIALS"
 msgid "No resources available"
-msgstr "Ingen ressourcer tilgængelige:"
+msgstr "Ingen ressourcer tilgængelige"
 
 #. STRINGS.UI.CONTEXTSCREEN.UNAVAILABLE
 msgctxt "STRINGS.UI.CONTEXTSCREEN.UNAVAILABLE"
@@ -21908,20 +21913,21 @@ msgid ""
 "\n"
 "You're making our game better, one crash at a time."
 msgstr ""
-"Mange tak!!\n"
+"Mange tak!\n"
 "\n"
 "Du gør vores spil bedre, et nedbrud af gangen."
 
 #. STRINGS.UI.CRASHSCREEN.TITLE
+#, fuzzy
 msgctxt "STRINGS.UI.CRASHSCREEN.TITLE"
 msgid ""
 "Whoops! We're sorry, but it seems your game has encountered an error.\n"
 "It's okay though - these errors are how we find and fix problems to make our game more fun for everyone.\n"
 "If you use the box below to submit a crash report to us, we can use this information to get the issue sorted out."
 msgstr ""
-"Ups! We're sorry, but it seems your game has encountered an error.\n"
-"It's okay though - these errors are how we find and fix problems to make our game more fun for everyone.\n"
-"If you use the box below to submit a crash report to us, we can use this information to get the issue sorted out."
+"Ups! Vi er kede af det, men det ladet til at dit spil er stødt på en fejl.\n"
+"Det er dog okay - Disse fejl er hvordan vi finder og reparerer problemer for at gøre vores spil mere sjovt for alle.\n"
+"Hvis du bruger nedenstående boks til at indsende en crash-rapport, kan vi bruge denne information til at løse problemet."
 
 #. STRINGS.UI.CRASHSCREEN.UPLOADINFO
 msgctxt "STRINGS.UI.CRASHSCREEN.UPLOADINFO"
@@ -22770,9 +22776,10 @@ msgid "View this Duplicant's personal amenities"
 msgstr ""
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED
+#, fuzzy
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED"
 msgid "Unassigned"
-msgstr ""
+msgstr "Ikke tildelt"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED_TOOLTIP"
@@ -23683,7 +23690,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS.DEFAULT.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS.DEFAULT.NAME"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS.DEFAULT.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS.DEFAULT.TOOLTIP"
@@ -23834,7 +23841,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADING
 msgctxt "STRINGS.UI.FRONTEND.LOADING"
 msgid "Loading..."
-msgstr "Indlæser"
+msgstr "Indlæser..."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
@@ -23848,7 +23855,7 @@ msgid ""
 "You cannot undo this action."
 msgstr ""
 "Er du sikker på at du vil slette {0}?\n"
-"Du kan ikke fortryde denne handling"
+"Du kan ikke fortryde denne handling."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE"
@@ -25343,7 +25350,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND8
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND8"
 msgid "Underpowered"
-msgstr ""
+msgstr "Under-strømforsynet"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.NAME
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.NAME"
@@ -26697,7 +26704,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.DISINFECT.NAME
 msgctxt "STRINGS.UI.TOOLS.DISINFECT.NAME"
 msgid "Disinfect"
-msgstr ""
+msgstr "Desinficer"
 
 #. STRINGS.UI.TOOLS.DISINFECT.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DISINFECT.TOOLACTION"
@@ -27616,9 +27623,10 @@ msgid "Assigned to {0}"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.UNASSIGNED
+#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.UNASSIGNED"
 msgid "Unassigned"
-msgstr ""
+msgstr "Ikke tildelt"
 
 #. STRINGS.UI.UISIDESCREENS.CAPACITY_CONTROL_SIDE_SCREEN.MAX_LABEL
 msgctxt "STRINGS.UI.UISIDESCREENS.CAPACITY_CONTROL_SIDE_SCREEN.MAX_LABEL"
@@ -27763,9 +27771,10 @@ msgid "Equip {0}"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.UNASSIGNED
+#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.UNASSIGNED"
 msgid "Unassigned"
-msgstr ""
+msgstr "Ikke tildelt"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CALS
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CALS"
@@ -29795,7 +29804,7 @@ msgstr "Fylder å'er..."
 #. STRINGS.UI.WORLDGEN.RESTARTING
 msgctxt "STRINGS.UI.WORLDGEN.RESTARTING"
 msgid "Rebooting..."
-msgstr "Genstarter"
+msgstr "Genstarter..."
 
 #. STRINGS.UI.WORLDGEN.RETRYCOUNT
 msgctxt "STRINGS.UI.WORLDGEN.RETRYCOUNT"
