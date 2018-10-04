@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.1.1\n"
 "Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: da_DK\n"
@@ -295,7 +295,7 @@ msgstr "Automatiseret Checkpoint er på Standby, forhindrer Duplicants i at pass
 #. STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.NAME"
 msgid "Medical building outside Med Bay"
-msgstr ""
+msgstr "Medicinsk bygning udenfor Med Bay"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.TOOLTIP"
@@ -672,7 +672,7 @@ msgstr "{0} sekunder til detonering"
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.DUPE_DANGER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.DUPE_DANGER.NAME"
 msgid "Duplicant Preservation Override"
-msgstr ""
+msgstr "Duplicant Bevarelses Overstyring"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.DUPE_DANGER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.DUPE_DANGER.TOOLTIP"
@@ -985,6 +985,9 @@ msgid ""
 "\n"
 "Feedback loops occur when the Output of an automated building connects back to its own Input through the Automation grid"
 msgstr ""
+"[fuzzy] Feedback loops forhindrer Automation Grid fra at fungere\n"
+"\n"
+"Feedback loops opstår når Outputtet af en automatisk bygning forbinder gennem dets egen Input gennem Automation Griddet"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.NAME"
@@ -1081,7 +1084,6 @@ msgid "Crucial materials for this building are beyond reach or unavailable"
 msgstr "Vigtige materialer er uden for rækkevide eller utilgængelig"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.LINE_ITEM
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.LINE_ITEM"
 msgid "• {0}"
 msgstr "• {0}"
@@ -1316,7 +1318,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP"
 msgid "This building cannot produce the correct research type for the selected research task"
-msgstr ""
+msgstr "[fuzzy] Denne bygning kan ikke producere den korrekte forsknings type til det valgte forsknings opgave"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.NAME"
@@ -1595,13 +1597,11 @@ msgid "Waiting for a Duplicant to toggle switch"
 msgstr "Venter på en Duplicant til at skifte kontakt"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME"
 msgid "Uproot Task Assigned"
 msgstr "Oprivningsopgave tildelt"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
 msgid "Waiting for a Duplicant to uproot"
 msgstr "Venter på en Duplicant til rodoprykning"
