@@ -8,8 +8,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.1.1\n"
-"Last-Translator: \n"
+"X-Generator: Poedit 2.2.3\n"
+"Last-Translator: Chano Klinck Andersen <translations@chanoandersen.dk>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: da_DK\n"
 "X-Poedit-Bookmarks: -1,-1,210,-1,-1,-1,-1,-1,-1,-1\n"
@@ -305,7 +305,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME"
 msgid "Pipe Blocked"
-msgstr "Rør Blokeret"
+msgstr "Blokeret Rør"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP"
@@ -947,12 +947,12 @@ msgstr "Væskeafløb Blokeret"
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.TOOLTIP"
 msgid "A pipe has been obstructed and is preventing liquid flow to this vent"
-msgstr "[fuzzy]Et rør er blevet blokeret og forhindrer gasstrømning til denne udluftning"
+msgstr "Et rør er blevet blokeret og forhindrer gasstrømning til denne udblæsning"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.NAME"
 msgid "Liquid Vent Overpressure"
-msgstr "[fuzzy]Væske Afløb Overtryk"
+msgstr "Overtryk ved Væske Afløb"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.TOOLTIP"
@@ -966,7 +966,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.LOGIC.LOGIC_CONTROLLED_DISABLED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOGIC.LOGIC_CONTROLLED_DISABLED"
 msgid "Disabled by Automation Grid"
-msgstr "[fuzzy]Deaktiveret af Automatiserings netværk"
+msgstr "Deaktiveret af Automatiserings netværk"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOGIC.LOGIC_CONTROLLED_ENABLED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOGIC.LOGIC_CONTROLLED_ENABLED"
@@ -976,7 +976,7 @@ msgstr "Aktiveret af Automation netværk"
 #. STRINGS.BUILDING.STATUSITEMS.LOGIC_FEEDBACK_LOOP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOGIC_FEEDBACK_LOOP.NAME"
 msgid "Feedback Loop"
-msgstr ""
+msgstr "Feedback Loop"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOGIC_FEEDBACK_LOOP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOGIC_FEEDBACK_LOOP.TOOLTIP"
@@ -985,9 +985,10 @@ msgid ""
 "\n"
 "Feedback loops occur when the Output of an automated building connects back to its own Input through the Automation grid"
 msgstr ""
-"[fuzzy] Feedback loops forhindrer Automation Grid fra at fungere\n"
+"Feedback loops forhindrer Automation Grid fra at fungere\n"
 "\n"
-"Feedback loops opstår når Outputtet af en automatisk bygning forbinder gennem dets egen Input gennem Automation Griddet"
+"Feedback loops opstår når Outputtet af en automatisk bygning forbinder gennem dets egen Input gennem "
+"Automatiseringsnetværket"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.NAME"
@@ -1105,22 +1106,22 @@ msgstr "Denne bygning vil snart skulle bruge matrialer der er utilgængelige"
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NAME"
 msgid "Melting Down"
-msgstr "[fuzzy]Nedsmælter"
+msgstr "Nedsmelter"
 
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_NAME"
 msgid "Building meltdown"
-msgstr "[fuzzy]Bygnings nedsmældning"
+msgstr "Bygningsnedsmeltning"
 
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_TOOLTIP"
 msgid "These buildings are collapsing:"
-msgstr "Disse bygninger bryder sammen:"
+msgstr "Disse bygninger falder sammen:"
 
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.TOOLTIP"
 msgid "This building is collapsing"
-msgstr "Denne bygning bryder sammen"
+msgstr "Denne bygning falder sammen"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME"
@@ -1141,7 +1142,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME"
 msgid "Unreachable Mop"
-msgstr ""
+msgstr "Utilgængelig optørring"
 
 #. STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.TOOLTIP"
@@ -1165,7 +1166,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME"
 msgid "No Gas Intake"
-msgstr "[fuzzy]Intet gas indtag"
+msgstr "Intet gas indtag"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP"
@@ -1175,7 +1176,7 @@ msgstr "Denne bygning har ingen steder at få gas fra"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME"
 msgid "No Gas Output"
-msgstr "[fuzzy]Intet gas udtag"
+msgstr "Ingen gasudblæsning"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.TOOLTIP"
@@ -1185,7 +1186,7 @@ msgstr "Denne bygning her ingen steder at sende gas til"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME"
 msgid "No Liquid Intake"
-msgstr "[fuzzy]Intet væske indtag"
+msgstr "Intet væske indtag"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP"
@@ -1195,7 +1196,7 @@ msgstr "Denne bygning har ingen steder at få væske fra"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME"
 msgid "No Liquid Output"
-msgstr "[fuzzy]Intet væske udtag"
+msgstr "Intet væske udtag"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP"
@@ -1225,7 +1226,7 @@ msgstr "Alle forbudne strøm kilder har mistet opladning"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.NAME"
 msgid "Resource Required"
-msgstr "[fuzzy]Ressource tilgængelig"
+msgstr "Ressource kræves"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.TOOLTIP"
@@ -1260,7 +1261,7 @@ msgstr "Gyldig region krævet"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSVALIDREGION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSVALIDREGION.TOOLTIP"
 msgid "This building region has not yet met its requirements"
-msgstr "Denne bygning region har ikke mødt dens krav"
+msgstr "Denne bygnings region har ikke mødt dens krav"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME"
@@ -1275,7 +1276,7 @@ msgstr "Denne resource kan ikke mines af Duplicants værktøj"
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME"
 msgid "New Duplicants Available"
-msgstr "Nye Duplicants er tilgængelige"
+msgstr "Nye Duplicanter er tilgængelige"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME"
@@ -1288,13 +1289,13 @@ msgid ""
 "The Printing Pod <color=#F44A47>[H]</color> is ready to print a new Duplicant.\n"
 "Please select a DNA blueprint:"
 msgstr ""
-"[fuzzy]Nye Dublicanter er tilgængelige\n"
-"Please select a DNA blueprint:"
+"Nye Dublicanter er tilgængelige\n"
+"Vælg et DNA blueprint:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP"
 msgid "A new colony member is ready to be printed"
-msgstr "Et nut koloni medlem er klar til at blive printet"
+msgstr "Et nyt koloni medlem er klar til at blive printet"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NAME"
@@ -1318,7 +1319,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP"
 msgid "This building cannot produce the correct research type for the selected research task"
-msgstr "[fuzzy] Denne bygning kan ikke producere den korrekte forsknings type til det valgte forsknings opgave"
+msgstr "Denne bygning kan ikke producere den korrekte forsknings type til det valgte forsknings opgave"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.NAME"
@@ -1338,7 +1339,7 @@ msgstr "Intet filter valgt"
 #. STRINGS.BUILDING.STATUSITEMS.NOFILTERELEMENTSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOFILTERELEMENTSELECTED.TOOLTIP"
 msgid "Select a resource to filter"
-msgstr "Vælg en resource til filter"
+msgstr "Vælg en ressource til filter"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOFISHABLEWATERBELOW.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOFISHABLEWATERBELOW.NAME"
@@ -1363,7 +1364,7 @@ msgstr "Denne pumpe skal nedsænkes i gas for at virke"
 #. STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.NAME"
 msgid "Pump Not In Liquid"
-msgstr "Pumpe ikke i væske"
+msgstr "Pumpe er ikke i væske"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.TOOLTIP"
@@ -1450,7 +1451,7 @@ msgstr "Intet checkpoint"
 #. STRINGS.BUILDING.STATUSITEMS.NOSUITMARKER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSUITMARKER.TOOLTIP"
 msgid "Docks must be placed beside an Exosuit Checkpoint, opposite the side its checkpoint faces"
-msgstr ""
+msgstr "Dokke skal placeres ved et Exodragt Checkpoint, modsat udgangen"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTENOUGHPOWER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTENOUGHPOWER.NAME"
@@ -1480,7 +1481,7 @@ msgstr "Intet gyldigt landings område"
 #. STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.TOOLTIP"
 msgid "Dupes can exit a transit tube if there is a spot to land within 2 tiles of the tube's end."
-msgstr "Dupes can komme ud af et transport rør hvis der er et sted at lande inden for 2 fliser af transport rørets ende."
+msgstr "Dupes kan komme ud af et transport rør hvis der er et sted at lande inden for 2 fliser af transport rørets ende."
 
 #. STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.NAME"
@@ -1543,12 +1544,12 @@ msgstr "Denne bygning tager skade og vil smelte ned, hvis den ikke afkøles"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME"
 msgid "Deconstruction Task Assigned"
-msgstr ""
+msgstr "Nedbrydningsopgave tildelt"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP"
 msgid "Waiting for a Duplicant to deconstruct this building"
-msgstr ""
+msgstr "Venter på en Duplicant til at fjerne denne bygning"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME"
@@ -1585,16 +1586,14 @@ msgstr ""
 "Modtaget skade {DamageInfo}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME"
 msgid "Toggle Switch Task Assigned"
-msgstr "Skifte Kontakt-Opgave Tildelt"
+msgstr "Kontaktbetjeningsopgave Tildelt"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.TOOLTIP"
 msgid "Waiting for a Duplicant to toggle switch"
-msgstr "Venter på en Duplicant til at skifte kontakt"
+msgstr "Venter på en Duplicant til at betjene kontakt"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME"
@@ -1604,7 +1603,7 @@ msgstr "Oprivningsopgave tildelt"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
 msgid "Waiting for a Duplicant to uproot"
-msgstr "Venter på en Duplicant til rodoprykning"
+msgstr "Venter på en Duplicant til oprivning"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME"
@@ -1624,12 +1623,12 @@ msgstr "Indeholder: {Contents}"
 #. STRINGS.BUILDING.STATUSITEMS.PIPE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPE.TOOLTIP"
 msgid "This pipe is delivering {Contents}"
-msgstr "Dette rør leverer: {Contents}"
+msgstr "Dette rør leverer {Contents}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.CONTENTS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.CONTENTS"
 msgid "{0} of {1} at {2}"
-msgstr "{0} ud {1} af {2}"
+msgstr "{0} af {1} på {2}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.CONTENTS_WITH_DISEASE
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.CONTENTS_WITH_DISEASE"
@@ -1678,12 +1677,12 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.NAME"
 msgid "Average Flow Rate: {FlowRate}"
-msgstr "Gennemsnitlig strømnings hastighed: {FlowRate}"
+msgstr "Gennemsnitlig strømningshastighed: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.TOOLTIP"
 msgid "This building is pumping an average volume of {FlowRate}"
-msgstr "Denne bygning pumper et gennemsnitslig volume af{FlowRate}"
+msgstr "Denne bygning pumper en gennemsnitslig volume af {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PUMPINGSTATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGSTATION.NAME"
@@ -1718,12 +1717,12 @@ msgstr "Trykopbygning frigives uden fare"
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESMINER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESMINER.NAME"
 msgid "Requires Miner"
-msgstr "Kræver miner"
+msgstr "Kræver Minearbejder"
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESMINER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESMINER.TOOLTIP"
 msgid "Only Duplicants assigned to one of the Miner roles can dig this tile"
-msgstr "Kun Duplicants tildelt en Miner roller kan grave denne flise"
+msgstr "Kun Duplicants tildelt en minearbejder rolle kan grave denne flise"
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESRESEARCHER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESRESEARCHER.NAME"
@@ -1768,22 +1767,22 @@ msgstr "Denne beholder opbevarer {Stored} kg materiale"
 #. STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.NAME"
 msgid "Stored Charge: {0}/{1}"
-msgstr "Opbevaret Opladning: {0}/{1}"
+msgstr "Opbevaret energi: {0}/{1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.TOOLTIP"
 msgid "This building has stored {0} out of a maximum {1}. It will consume {2} per use."
-msgstr ""
+msgstr "Denne bygning har et lager på {0} ud af højst {1}. Den bruger {2} ved hver anvendelse"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.NAME"
 msgid "Current Status: Charging Suit"
-msgstr "Nuværedne Status: Oplader Exosuit"
+msgstr "Nuværedne Status: Oplader Dragt"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.TOOLTIP"
 msgid "This Exosuit is docked and charging"
-msgstr "Dette Exosuit er docket og oplader"
+msgstr "Denne  Exosuit er docket og oplader"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.NAME"
@@ -1808,12 +1807,12 @@ msgstr "Sæt denne Dock til at opbevare Exosuit eller forblive på Standby"
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.NAME"
 msgid "Current Status: No Oxygen"
-msgstr ""
+msgstr "Nuværende Status: Ingen ilt"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.TOOLTIP"
 msgid "This Dock is not receiving enough oxygen to refill an Exosuit"
-msgstr ""
+msgstr "Denne dok får ikke ilt nok til at genopfylde en Exodragt"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.NAME"
@@ -1833,7 +1832,7 @@ msgstr "Nuværende Status: På Standby"
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.TOOLTIP"
 msgid "This Dock is functional and ready to receive an Exosuit"
-msgstr "Denne Dock er fungerende og klar til at modtage et Exosuit"
+msgstr "Denne Dock er funktionel og klar til at modtage en Exodragt"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.NAME"
@@ -1843,7 +1842,7 @@ msgstr "Nuværende Status: Afventer Levering"
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.TOOLTIP"
 msgid "Waiting for a Duplicant to deliver an Exosuit"
-msgstr ""
+msgstr "Afventer en Duplicant leverer en Exodragt"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER_NEEDS_CONFIGURATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER_NEEDS_CONFIGURATION.NAME"
@@ -1858,7 +1857,7 @@ msgstr "Exosuit Dock indstillinger ikke konfigureret"
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALANYTIME.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALANYTIME.NAME"
 msgid "Clearance: Always Permitted"
-msgstr ""
+msgstr "Adgang: Altid tilladt"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALANYTIME.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALANYTIME.TOOLTIP"
@@ -1869,7 +1868,7 @@ msgid ""
 msgstr ""
 "Duplicants i Exosuits må passere selv hvis der ikke er en ledig opbevaringsplads til deres Exosuit\n"
 "------------------\n"
-"Når alle Exosuit Docks er optagede, vil Duplicants tage deres Exosuits af of efterlade dem på gulvet"
+"Når alle Exosuit Docks er optagede, vil Duplicants tage deres Exosuits af og efterlade dem på gulvet"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.NAME"
@@ -1879,7 +1878,7 @@ msgstr "Adgang: Kun Ved Ledig Opbevaring"
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.TOOLTIP"
 msgid "Suited Duplicants may pass only if there is room in an Exosuit Dock to store their suit"
-msgstr "Duplicants i Exosuits må kun passere hvis der er en ledig Exosuit Dock de kan aflevere deres Exosuit i"
+msgstr "Duplicants i Exosuits må kun passere hvis der er en ledig Exosuit Dok de kan aflevere deres Exosuit i"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERWRONGSIDE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERWRONGSIDE.NAME"
@@ -1893,7 +1892,7 @@ msgid ""
 "\n"
 "Exosuit Docks must be placed beside a Checkpoint, opposite the side its checkpoint faces"
 msgstr ""
-"Denny bygning er blevet bygget på den forkerte side af et Exosuit Checkpoint\n"
+"Denne bygning er blevet bygget på den forkerte side af et Exosuit Checkpoint\n"
 "\n"
 "Exosuit Docks skal placeres ved siden af et Checkpoint, modsat den side dets checkpoint vender mod"
 
@@ -1976,7 +1975,7 @@ msgstr "Denne turbines udgang er blokeret"
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.NAME"
 msgid "Underpowered"
-msgstr "Ikke nok kapacitet"
+msgstr "For lidt strøm til rådighed"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.TOOLTIP"
@@ -2036,7 +2035,7 @@ msgstr "Et minimalt atmosfærisk tryk på {TargetPressure} er nødvendigt for at
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME"
 msgid "Out of Order"
-msgstr "Virker ikke"
+msgstr "Ude af drift"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP"
@@ -2054,15 +2053,14 @@ msgid "This valve is allowing flow at a volume of {MaxFlow}"
 msgstr "Denne ventil tillader flow i et volumen af {MaxFlow}"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.NAME"
 msgid "Requested Flow Rate: {QueuedMaxFlow}"
-msgstr "Ønsket Flow-Fart: {QueuedMaxFlow}"
+msgstr "Ønsket gennemstrømningshastighed: {QueuedMaxFlow}"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.TOOLTIP"
 msgid "Waiting for a Duplicant to adjust flow rate"
-msgstr "Venter på en Duplicant til at ændre flow hastighed"
+msgstr "Venter på en Duplicant til at ændre hastighed"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_MASS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_MASS"
@@ -2172,7 +2170,7 @@ msgstr "Modtryk: {0}"
 #. STRINGS.BUILDING.STATUSITEMS.WELL_PRESSURIZING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WELL_PRESSURIZING.TOOLTIP"
 msgid "Well pressure increases with each use and must be periodically relieved to prevent shutdown"
-msgstr "Brønd tryk vil stige efter hver brug, og skal periodisk aflastes for at forhindre ned lukning"
+msgstr "Brønd tryk vil stige efter hver brug, og skal periodisk aflastes for at forhindre nedlukning"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME"
@@ -2212,9 +2210,10 @@ msgstr "Maks effekt: {WireMaxWattage}"
 #. STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.TOOLTIP"
 msgid "The maximum wattage that this wire can safely sustain"
-msgstr "Den maksimale effekt denne ledning kan sikkert leverer"
+msgstr "Den maksimale effekt denne ledning kan leverer sikkert"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.NAME"
 msgid "Wire Nominal"
 msgstr "Ledning nominel/normal"
@@ -2222,7 +2221,7 @@ msgstr "Ledning nominel/normal"
 #. STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.TOOLTIP"
 msgid "This wire is in good condition"
-msgstr "Den ledning er i god stand"
+msgstr "Denne ledning er i god stand"
 
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.NAME"
@@ -2327,12 +2326,13 @@ msgstr "Denne bygning er allerede ren"
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC"
 msgid "Super computers unlock higher technology tiers than research stations alone."
-msgstr "Super computere låser op for højere technologi levels end forsker stationer alene."
+msgstr "Supercomputere låser op for højere teknologi niveauer end forsker stationer alene."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT"
 msgid "Conducts <style=\"research\">Intermediate Research</style> to unlock new technologies."
-msgstr ""
+msgstr "Fortager <style=\"research\">Mellemniveau forskning</style> for at oplåse nye teknologier."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME"
@@ -2342,7 +2342,7 @@ msgstr "Super Computer"
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.DESC"
 msgid "Lures can be used to relocate flying creatures to specific locations in your base."
-msgstr "Lokkemad kan blive brugt til at omplacere flyvene skabninger til specifikke lokationer i din base."
+msgstr "Lokkemad kan bruges til at omplacere flyvene skabninger til specifikke lokationer i din base."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.EFFECT"
@@ -2350,15 +2350,14 @@ msgid "Attracts airborne creatures of a single type when set with the correct ba
 msgstr "Tiltrækker flyvende skabninger af en enkelt type når sat med den korrekte lokkemad."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.NAME"
 msgid "Aerial Creature Lure"
-msgstr "Luftbårne Skabninger-Lokkemad"
+msgstr "Lokkemad til luftskabninger"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC"
 msgid "A thermo regulator doesn't remove heat, but relocates it to a new area."
-msgstr "En temperaturregulator fjerner ikke varme, men omplacerer det til et nyt område."
+msgstr "En temperaturregulator fjerner ikke varme, men flytter det til et nyt område."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT"
@@ -2366,7 +2365,7 @@ msgid ""
 "Cools the <style=\"gas\">Gas</style> piped through it, but outputs <style=\"heat\">Heat</style> in its immediate "
 "vicinity."
 msgstr ""
-"Køler det<style=\"gas\">Gas</style> der føres gennem røret, men udsender <style=\"heat\">Hede</style> i dens direkte "
+"Køler det<style=\"gas\">Gas</style> der føres gennem røret, men udsender <style=\"heat\">varme</style> i dens direkte "
 "nærhed."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME
@@ -2377,7 +2376,7 @@ msgstr "Temperaturregulator"
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC"
 msgid "Airborne germs travel easily through polluted oxygen, spreading contamination if unfiltered."
-msgstr "Luftbårne bakterier spredes nemt i gennem forurenet oxygen, spreder kontaminering, hvis ikke filtreret."
+msgstr "Luftbårne bakterier spredes nemt i gennem forurenet oxygen, spreder kontaminering, hvis det ikke filtreres."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT"
@@ -2387,12 +2386,12 @@ msgstr "Fjerner <style=\"gas\">Forurenet Oxygen</style>."
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME"
 msgid "Deodorizer"
-msgstr "Deodorizer"
+msgstr "Luftrenser"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC"
 msgid "Algae distillers convert disease-causing slime into algae for oxygen production."
-msgstr "Alger destillere konverterer sygdomsfremkaldende slime til alger til oxygen produktion."
+msgstr "Alge destillere konverterer sygdomsfremkaldende slim til alger for ilt produktion."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT"
@@ -2407,7 +2406,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC"
 msgid "Placing algae terrariums in well lit areas will produce more oxygen."
-msgstr "Placerer alge terrarier i godt oplyste områder vil producere mere oxygen."
+msgstr "Placerer alge terrarier i godt oplyste områder for at øge ilt produktionen."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT"
@@ -2416,7 +2415,7 @@ msgid ""
 "\n"
 "Gains a minor efficiency boost in direct <style=\"light\">Light</style>."
 msgstr ""
-"Omdanner <style=\"gas\">Kuldioxid</style> om til lidt <style=\"oxygen\">Oxygen</style>.\n"
+"Omdanner <style=\"gas\">CO2</style> til lidt <style=\"oxygen\">Oxygen</style>.\n"
 "\n"
 "Er lidt mere effektiv i direkte <style=\"light\">Lys</style>."
 
@@ -2477,7 +2476,6 @@ msgid "Battery"
 msgstr "Batteri"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.DESC"
 msgid ""
 "Smart batteries are designed to be integrated into logic systems and will become <style=\"logic\">Active</style> if "
@@ -2609,12 +2607,12 @@ msgstr "Levere <style=\"light\">Lys</style> når den har <style=\"power\">strøm
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME"
 msgid "Ceiling Light"
-msgstr ""
+msgstr "Loft lys"
 
 #. STRINGS.BUILDINGS.PREFABS.CHECKPOINT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CHECKPOINT.DESC"
 msgid "Checkpoints can be connected to automated sensors to determine when it is safe to enter."
-msgstr ""
+msgstr "Kontrolpunkter kan forbindes til automatiske sensorer, og afgøre hvornår det er sikkert at gå ind."
 
 #. STRINGS.BUILDINGS.PREFABS.CHECKPOINT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CHECKPOINT.EFFECT"
@@ -2632,12 +2630,13 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CHECKPOINT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CHECKPOINT.NAME"
 msgid "Duplicant Checkpoint"
-msgstr ""
+msgstr "Duplicant checkpoint"
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.DESC
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.DESC"
 msgid "A textile loom can be used to spin Reed Fiber into wearable Duplicant clothing."
-msgstr ""
+msgstr "En tekstilvæv kan benyttes til at væve Reed Fiber til Duplicant tøj."
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.EFFECT"
@@ -2646,46 +2645,49 @@ msgid ""
 "\n"
 "Duplicants will not fabricate unless recipes are queued."
 msgstr ""
+"Fremstiller Duplicant <style=\"equipment\">Tøj</style>.\n"
+"\n"
+"Duplicants kan ikke fremstille noget uden en valgt opskrift."
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.NAME"
 msgid "Textile Loom"
-msgstr ""
+msgstr "Tekstilvæv"
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.DESC"
 msgid "Carbon Skimmers remove large amounts of carbon dioxide, but produce no breathable air."
-msgstr ""
+msgstr "CO2 fjerneren, fjerner store mængder CO2, men producere ingen åndbar luft."
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.EFFECT"
 msgid "Filters <style=\"gas\">Carbon Dioxide</style> from the air."
-msgstr ""
+msgstr "Filtrere <style=\"gas\">CO2</style> fra luften."
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME"
 msgid "Carbon Skimmer"
-msgstr ""
+msgstr "CO2 fjerner"
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.DESC"
 msgid "Composts safely deal with biological waste and help fertilize domestic plants."
-msgstr ""
+msgstr "Kompost behandler biologisk affald sikkert, og hjælper med at gøde planter."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT"
 msgid "Breaks <style=\"solid\">Polluted Dirt</style> down into <style=\"solid\">Fertilizer</style>."
-msgstr ""
+msgstr "Nedbryder <style=\"solid\">Forurenet jord</style> til <style=\"solid\">Gødning</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.NAME"
 msgid "Compost"
-msgstr ""
+msgstr "Kompost"
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC"
 msgid "Cooking eliminates foodborne disease and produces tasty, stress-relieving meals."
-msgstr ""
+msgstr "Tilberedning fjerner sygdomme og giver lækre, afstressende måltider."
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.EFFECT"
@@ -2694,16 +2696,19 @@ msgid ""
 "\n"
 "Duplicants will not fabricate unless recipes are queued."
 msgstr ""
+"Tilbereder forbedret <style=\"food\">Mad</style> med mange ingredienser.\n"
+"\n"
+"Duplicants kan ikke lave mad, uden en valgt opskrift."
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME"
 msgid "Electric Grill"
-msgstr ""
+msgstr "Elektrisk Grill"
 
 #. STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.DESC"
 msgid "Duplicants automatically bring captured creatures to these relocation points for release."
-msgstr ""
+msgstr "Duplicants bringer automatisk fangede skabninger til disse punkter for at sætte dem fri."
 
 #. STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.EFFECT"
@@ -2712,16 +2717,20 @@ msgid ""
 "\n"
 "Can be used multiple times."
 msgstr ""
+"Sender en fanget skabning ud i verden igen.\n"
+"\n"
+"Kan anvendes flere gange."
 
 #. STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.NAME"
 msgid "Creature Relocator"
-msgstr ""
+msgstr "Skabningsrelokator"
 
 #. STRINGS.BUILDINGS.PREFABS.CREATURETRAP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATURETRAP.DESC"
 msgid "Traps do not harm the creatures they capture."
-msgstr ""
+msgstr "Fælder skader ikke de skabninger de fanger."
 
 #. STRINGS.BUILDINGS.PREFABS.CREATURETRAP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATURETRAP.EFFECT"
@@ -2730,21 +2739,24 @@ msgid ""
 "\n"
 "Single use."
 msgstr ""
+"Fanger levende skabninger til transport.\n"
+"\n"
+"Kan kun bruges en gang."
 
 #. STRINGS.BUILDINGS.PREFABS.CREATURETRAP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATURETRAP.NAME"
 msgid "Creature Trap"
-msgstr ""
+msgstr "Skabningsfælde."
 
 #. STRINGS.BUILDINGS.PREFABS.DEVGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVGENERATOR.DESC"
 msgid "Generates infinite testing power"
-msgstr ""
+msgstr "Generere uendelig test strøm"
 
 #. STRINGS.BUILDINGS.PREFABS.DEVGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVGENERATOR.EFFECT"
 msgid "Runs on coffee"
-msgstr ""
+msgstr "Drives af kaffe"
 
 #. STRINGS.BUILDINGS.PREFABS.DEVGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVGENERATOR.NAME"
@@ -2767,7 +2779,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME"
 msgid "Mess Table"
-msgstr ""
+msgstr "Spisebord"
 
 #. STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.DESC"
@@ -2785,12 +2797,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.NAME"
 msgid "Liquid Channel"
-msgstr ""
+msgstr "Væske kanal"
 
 #. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.DESC"
 msgid "Gets hot and steamy."
-msgstr ""
+msgstr "Bliver varm og dampende."
 
 #. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.EFFECT"
@@ -2807,43 +2819,42 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.DOOR.ABOVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.ABOVE"
 msgid "above"
-msgstr ""
+msgstr "over"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.BELOW
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.BELOW"
 msgid "below"
-msgstr ""
+msgstr "under"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO.NAME"
 msgid "Auto"
-msgstr "Automatisk"
+msgstr "Auto"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO.TOOLTIP"
 msgid "Duplicants open and close this door as needed"
-msgstr ""
+msgstr "Duplicants kan åbne og lukke denne dør efter behov"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE.NAME"
 msgid "Lock"
-msgstr ""
+msgstr "Lås"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE.TOOLTIP"
 msgid "Nothing may pass through"
-msgstr ""
+msgstr "Intet kan passere"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN.NAME"
 msgid "Open"
-msgstr ""
+msgstr "Åben"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN.TOOLTIP"
 msgid "This door will remain open"
-msgstr ""
+msgstr "Denne dør vil forblive åben"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.DESC"
@@ -2863,17 +2874,17 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.DOOR.LEFT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.LEFT"
 msgid "on the left"
-msgstr ""
+msgstr "til venstre"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.LOGIC_PORT_DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.LOGIC_PORT_DESC"
 msgid "Open/Close"
-msgstr ""
+msgstr "Åben/Lukke"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.NAME"
 msgid "Pneumatic Door"
-msgstr ""
+msgstr "Pneumatisk dør"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED"
@@ -2888,7 +2899,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.DOOR.RIGHT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.RIGHT"
 msgid "on the right"
-msgstr ""
+msgstr "til højre"
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC"
@@ -2967,17 +2978,18 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT"
 msgid "Provides <style=\"light\">Light</style> when <style=\"power\">Powered</style>."
-msgstr "Leverer <style=\"light\">Lys</style> ved <style=\"power\">Strømforsyning</style>."
+msgstr "Leverer <style=\"light\">Lys</style> når den forsynes med <style=\"power\">Strøm</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME"
 msgid "Lamp"
-msgstr ""
+msgstr "Lampe"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.DESC"
 msgid "Weight plates can be used to turn on amenities only when Duplicants pass by."
-msgstr ""
+msgstr "Vægtplader kan anvendes til at tænde for bekvemmeligheder når Duplicants passere."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.EFFECT"
@@ -2986,16 +2998,19 @@ msgid ""
 "\n"
 "Cannot be triggered by <style=\"gas\">Gas</style> or <style=\"liquid\">Liquids</style>."
 msgstr ""
+"Bliver <style=\"logic\">aktiv</style> når et objekt eller en Duplicant placeres på den.\n"
+"\n"
+"Kan ikke aktiveres af <style=\"gas\">gas</style> eller <style=\"liquids\">væsker</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.LOGIC_PORT_DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.LOGIC_PORT_DESC"
 msgid "<style=\"logic\">Active</style>/<style=\"logic\">Inactive</style>"
-msgstr ""
+msgstr "<style=\"logic\">Aktiv</style>/<style=\"logic\">Inaktiv</style>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.NAME"
 msgid "Weight Plate"
-msgstr ""
+msgstr "Vægt plade"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.DESC"
@@ -3013,7 +3028,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME"
 msgid "Flower Pot"
-msgstr ""
+msgstr "Urtepotte"
 
 #. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.DESC"
@@ -3047,7 +3062,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME"
 msgid "Gas Pipe"
-msgstr ""
+msgstr "Gasrør"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.DESC"
@@ -3065,7 +3080,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME"
 msgid "Gas Bridge"
-msgstr ""
+msgstr "Gasbro"
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC"
@@ -3080,7 +3095,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.NAME"
 msgid "Gas Filter"
-msgstr ""
+msgstr "Gasfilter"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.DESC"
@@ -3095,7 +3110,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.NAME"
 msgid "Gas Shutoff"
-msgstr ""
+msgstr "Gasstop"
 
 #. STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.DESC"
@@ -3113,7 +3128,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.NAME"
 msgid "Mini Gas Pump"
-msgstr ""
+msgstr "Mini Gaspumpe"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC"
@@ -3149,7 +3164,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME"
 msgid "Gas Pump"
-msgstr ""
+msgstr "Gaspumpe"
 
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.DESC"
@@ -3164,7 +3179,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.NAME"
 msgid "Gas Valve"
-msgstr ""
+msgstr "Gasventil"
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.DESC"
@@ -3179,7 +3194,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.NAME"
 msgid "Gas Vent"
-msgstr ""
+msgstr "Gas Udblæsning"
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.DESC"
@@ -3194,7 +3209,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.NAME"
 msgid "High Pressure Gas Vent"
-msgstr ""
+msgstr "Højtryk Gas Udblæsning"
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC"
@@ -3209,7 +3224,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME"
 msgid "Coal Generator"
-msgstr ""
+msgstr "Kul generator"
 
 #. STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.DESC"
@@ -3242,12 +3257,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GRAVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.NAME"
 msgid "Tasteful Memorial"
-msgstr ""
+msgstr "Smagfuldt Mindesmærke"
 
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.DESC"
 msgid "Hand sanitizers kill germs more effectively than wash basins."
-msgstr ""
+msgstr "Håndrensere dræber bakterier mere effektivt end håndvaske."
 
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.EFFECT"
@@ -3260,7 +3275,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.NAME"
 msgid "Hand Sanitizer"
-msgstr ""
+msgstr "Håndrenser"
 
 #. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.DESC"
@@ -3311,7 +3326,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.NAME"
 msgid "Hydrogen Generator"
-msgstr ""
+msgstr "Brint generator"
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.DESC"
@@ -3336,12 +3351,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.AVERAGEQUALITYNAME"
 msgid "Mediocre Ice Sculpture"
-msgstr ""
+msgstr "Middelmådig Is Skulptur"
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.DESC"
 msgid "Ice sculptures will melt over time if not kept sufficiently chilled."
-msgstr ""
+msgstr "Is skulpturer smelter over tid, hvis de ikke køles tilstrækkeligt."
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.EFFECT"
@@ -3350,21 +3365,24 @@ msgid ""
 "\n"
 "Must be sculpted by a Duplicant."
 msgstr ""
+"Forbedrer <style=\"decor\">Udsmykning</style>og formindsker <style=\"stress\">Stres</style>.\n"
+"\n"
+"Skal skulpteres af en Duplicant."
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.NAME"
 msgid "Ice Block"
-msgstr ""
+msgstr "Is Blok"
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.POORQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.POORQUALITYNAME"
 msgid "\"Abstract\" Ice Sculpture"
-msgstr ""
+msgstr "\"Abstrakt\" Is Skulptur"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.DESC"
 msgid "Pipe insulation prevents gas contents from significantly changing temperature in transit."
-msgstr ""
+msgstr "Rør isolation forhindre større temperaturændringer i den gas der transporteres."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT"
@@ -3377,12 +3395,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.NAME"
 msgid "Insulated Gas Pipe"
-msgstr ""
+msgstr "Isoleret Gasrør"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.DESC"
 msgid "Pipe insulation prevents liquid contents from significantly changing temperature in transit."
-msgstr ""
+msgstr "Rør isolation forhindre større temperaturændringer i den væske der transporteres."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT"
@@ -3395,7 +3413,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME"
 msgid "Insulated Liquid Pipe"
-msgstr ""
+msgstr "Isoleret væskerør"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.DESC"
@@ -3413,7 +3431,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.NAME"
 msgid "Insulated Wire"
-msgstr ""
+msgstr "Isoleret ledning"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.DESC"
@@ -3446,12 +3464,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.NAME"
 msgid "Insulation"
-msgstr ""
+msgstr "Isolation"
 
 #. STRINGS.BUILDINGS.PREFABS.LADDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.DESC"
 msgid "(That means they climb it.)"
-msgstr ""
+msgstr "(Det betyder de kravler op ad det.)"
 
 #. STRINGS.BUILDINGS.PREFABS.LADDER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.EFFECT"
@@ -3461,7 +3479,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LADDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.NAME"
 msgid "Ladder"
-msgstr ""
+msgstr "Stige"
 
 #. STRINGS.BUILDINGS.PREFABS.LADDERFAST.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDERFAST.DESC"
@@ -3476,7 +3494,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LADDERFAST.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDERFAST.NAME"
 msgid "Plastic Ladder"
-msgstr ""
+msgstr "Plastik Stige"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDITIONER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDITIONER.DESC"
@@ -3489,6 +3507,8 @@ msgid ""
 "Cools the <style=\"liquid\">Liquid</style> piped through it, but outputs <style=\"heat\">Heat</style> in its immediate "
 "vicinity."
 msgstr ""
+"Køler det<style=\"væske\">Væske</style> der føres gennem røret, men udsender <style=\"heat\">varme</style> i dens "
+"direkte nærhed."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDITIONER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDITIONER.NAME"
@@ -3512,12 +3532,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME"
 msgid "Liquid Pipe"
-msgstr ""
+msgstr "Væske rør"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.DESC"
 msgid "Separate pipe systems prevent mingled contents from causing building damage."
-msgstr ""
+msgstr "Adskilte rørsystemer, forhindre blandet indhold i at skade bygninger."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.EFFECT"
@@ -3530,7 +3550,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME"
 msgid "Liquid Bridge"
-msgstr ""
+msgstr "Væskebro"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC"
@@ -3563,7 +3583,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.NAME"
 msgid "Liquid Filter"
-msgstr ""
+msgstr "Væskefilter"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.DESC"
@@ -3597,7 +3617,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLOGICVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLOGICVALVE.NAME"
 msgid "Liquid Shutoff"
-msgstr ""
+msgstr "Væskestop"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDMINIPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDMINIPUMP.DESC"
@@ -3615,7 +3635,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDMINIPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDMINIPUMP.NAME"
 msgid "Mini Liquid Pump"
-msgstr ""
+msgstr "Mini Væskepumpe"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.DESC"
@@ -3633,7 +3653,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.NAME"
 msgid "Liquid Pump"
-msgstr ""
+msgstr "Væskepumpe"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMPINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMPINGSTATION.DESC"
@@ -3651,7 +3671,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMPINGSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMPINGSTATION.NAME"
 msgid "Pitcher Pump"
-msgstr ""
+msgstr "Håndpumpe"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.DESC"
@@ -3666,7 +3686,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.NAME"
 msgid "Liquid Valve"
-msgstr ""
+msgstr "Væskeventil"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.DESC"
@@ -3681,7 +3701,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.NAME"
 msgid "Liquid Vent"
-msgstr ""
+msgstr "Væskeafløb"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEAND.DESC
 #| msgid ""
@@ -3983,7 +4003,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.NAME"
 msgid "Comfy Bed"
-msgstr ""
+msgstr "Behagelig seng"
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC"
