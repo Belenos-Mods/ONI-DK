@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 2.4.3\n"
+"X-Generator: Poedit 3.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Bookmarks: -1,8151,210,-1,-1,-1,-1,-1,-1,-1\n"
 
@@ -9942,7 +9942,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPCLOCK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPCLOCK.NAME"
 msgid "Clock"
-msgstr ""
+msgstr "Ur"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPDESK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPDESK.DESC"
@@ -10710,7 +10710,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SETLOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SETLOCKER.NAME"
 msgid "Locker"
-msgstr ""
+msgstr "Locker"
 
 #. STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.DESC"
@@ -12018,7 +12018,7 @@ msgstr "Teleporter Modtager"
 #. STRINGS.BUILDINGS.PREFABS.WASHBASIN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHBASIN.DESC"
 msgid "Germ spread can be reduced by building these where Duplicants often get dirty."
-msgstr ""
+msgstr "Bakteriespredning kan reduceres ved at bygge disse, hvor Duplikanter ofte bliver beskidte."
 
 #. STRINGS.BUILDINGS.PREFABS.WASHBASIN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHBASIN.EFFECT"
@@ -12027,11 +12027,14 @@ msgid ""
 "\n"
 "Germ-covered Duplicants use Wash Basins when passing by in the selected direction."
 msgstr ""
+"Fjerner nogle <link=\"DISEASE\">Bakterier</link> fra Duplikanter.\n"
+"\n"
+"Bakterie-befængte Duplikanter bruger Vaskefade når de passerer forbi i den valgte retning."
 
 #. STRINGS.BUILDINGS.PREFABS.WASHBASIN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHBASIN.NAME"
 msgid "<link=\"WASHBASIN\">Wash Basin</link>"
-msgstr ""
+msgstr "<link=\"WASHBASIN\">Vaskefad</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WASHSINK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHSINK.DESC"
@@ -12966,7 +12969,7 @@ msgstr ""
 #. STRINGS.CODEX.A2_THERMODYNAMICLAWS.SUBTITLE
 msgctxt "STRINGS.CODEX.A2_THERMODYNAMICLAWS.SUBTITLE"
 msgid "UNENCRYPTED"
-msgstr ""
+msgstr "UKRYPTERET"
 
 #. STRINGS.CODEX.A2_THERMODYNAMICLAWS.TITLE
 msgctxt "STRINGS.CODEX.A2_THERMODYNAMICLAWS.TITLE"
@@ -13095,7 +13098,7 @@ msgstr ""
 #. STRINGS.CODEX.A3_DEVONSBLOG.SUBTITLE
 msgctxt "STRINGS.CODEX.A3_DEVONSBLOG.SUBTITLE"
 msgid "UNENCRYPTED"
-msgstr ""
+msgstr "UKRYPTERET"
 
 #. STRINGS.CODEX.A3_DEVONSBLOG.TITLE
 msgctxt "STRINGS.CODEX.A3_DEVONSBLOG.TITLE"
@@ -13288,7 +13291,7 @@ msgstr ""
 #. STRINGS.CODEX.A4_ATOMICONRECRUITMENT.SUBTITLE
 msgctxt "STRINGS.CODEX.A4_ATOMICONRECRUITMENT.SUBTITLE"
 msgid "UNENCRYPTED"
-msgstr ""
+msgstr "UKRYPTERET"
 
 #. STRINGS.CODEX.A4_ATOMICONRECRUITMENT.TITLE
 #, fuzzy
@@ -13552,7 +13555,7 @@ msgstr ""
 #. STRINGS.CODEX.A5_THEJANITOR.SUBTITLE
 msgctxt "STRINGS.CODEX.A5_THEJANITOR.SUBTITLE"
 msgid "UNENCRYPTED"
-msgstr ""
+msgstr "UKRYPTERET"
 
 #. STRINGS.CODEX.A5_THEJANITOR.TITLE
 msgctxt "STRINGS.CODEX.A5_THEJANITOR.TITLE"
@@ -14086,7 +14089,7 @@ msgstr ""
 #. STRINGS.CODEX.B1_HOLLANDSDOG.SUBTITLE
 msgctxt "STRINGS.CODEX.B1_HOLLANDSDOG.SUBTITLE"
 msgid "UNENCRYPTED"
-msgstr ""
+msgstr "UKRYPTERET"
 
 #. STRINGS.CODEX.B1_HOLLANDSDOG.TITLE
 msgctxt "STRINGS.CODEX.B1_HOLLANDSDOG.TITLE"
@@ -14169,7 +14172,7 @@ msgstr ""
 #. STRINGS.CODEX.B2_TEMPORALBOWUPDATE.SUBTITLE
 msgctxt "STRINGS.CODEX.B2_TEMPORALBOWUPDATE.SUBTITLE"
 msgid "UNENCRYPTED"
-msgstr ""
+msgstr "UKRYPTERET"
 
 #. STRINGS.CODEX.B2_TEMPORALBOWUPDATE.TITLE
 msgctxt "STRINGS.CODEX.B2_TEMPORALBOWUPDATE.TITLE"
@@ -14272,7 +14275,7 @@ msgstr ""
 #. STRINGS.CODEX.B3_RETEMPORALBOWUPDATE.SUBTITLE
 msgctxt "STRINGS.CODEX.B3_RETEMPORALBOWUPDATE.SUBTITLE"
 msgid "UNENCRYPTED"
-msgstr ""
+msgstr "UKRYPTERET"
 
 #. STRINGS.CODEX.B3_RETEMPORALBOWUPDATE.TITLE
 msgctxt "STRINGS.CODEX.B3_RETEMPORALBOWUPDATE.TITLE"
@@ -14286,6 +14289,9 @@ msgid ""
 "\n"
 "<i>CONSIDER THIS YOUR LAST WARNING!</i></indent>"
 msgstr ""
+"<indent=5%>Til tyveknægten, som stjæler glitterkuglepenne fra mit bord:\n"
+"\n"
+"<i>DETTE ER DIN SIDSTE ADVARSEL!</i></indent>"
 
 #. STRINGS.CODEX.B4_MYPENS.BODY.EMAILHEADER1
 msgctxt "STRINGS.CODEX.B4_MYPENS.BODY.EMAILHEADER1"
@@ -14294,6 +14300,9 @@ msgid ""
 "From: <b>[REDACTED]</b></color></smallcaps>\n"
 "------------------\n"
 msgstr ""
+"<smallcaps>Til: <b>ALLE</b>\n"
+"Fra: <b>[OVERSTREGET]</b></color></smallcaps>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.B4_MYPENS.BODY.SIGNATURE1
 msgctxt "STRINGS.CODEX.B4_MYPENS.BODY.SIGNATURE1"
@@ -14315,13 +14324,12 @@ msgstr ""
 #. STRINGS.CODEX.B4_MYPENS.SUBTITLE
 msgctxt "STRINGS.CODEX.B4_MYPENS.SUBTITLE"
 msgid "UNENCRYPTED"
-msgstr ""
+msgstr "UKRYPTERET"
 
 #. STRINGS.CODEX.B4_MYPENS.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.B4_MYPENS.TITLE"
 msgid "SUBJECT: MY PENS"
-msgstr "Denne Duplikant er under min kontrol"
+msgstr "EMNE: MINE KUGLEPENNE"
 
 #. STRINGS.CODEX.B4_REMYPENS.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.B4_REMYPENS.BODY.CONTAINER2"
@@ -14332,6 +14340,11 @@ msgid ""
 "\n"
 "We thank-you for your restraint.</indent>"
 msgstr ""
+"<indent=5%>Vi vil minde personalet om ikke at bruge CC: Alle funktionen til interne kontor anliggender.\n"
+"\n"
+"Ved uoverenstemmelser eller forstyrrende opførsel, kontakt venligst HR direkte.\n"
+"\n"
+"Vi takker for jeres tålmodighed.</indent>"
 
 #. STRINGS.CODEX.B4_REMYPENS.BODY.EMAILHEADER1
 msgctxt "STRINGS.CODEX.B4_REMYPENS.BODY.EMAILHEADER1"
@@ -14340,6 +14353,9 @@ msgid ""
 "From: <b>Admin</b><size=12><alpha=#AA> <admin@gravitas.nova></color></size></smallcaps>\n"
 "------------------\n"
 msgstr ""
+"<smallcaps>Til: <b>ALLE</b>\n"
+"Fra: <b>Admin</b><size=12><alpha=#AA> <admin@gravitas.nova></color></size></smallcaps>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.B4_REMYPENS.BODY.SIGNATURE1
 msgctxt "STRINGS.CODEX.B4_REMYPENS.BODY.SIGNATURE1"
@@ -14349,17 +14365,20 @@ msgid ""
 "<size=11>The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-Admin\n"
+"<size=11>Gravitas Anlægget</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.B4_REMYPENS.SUBTITLE
 msgctxt "STRINGS.CODEX.B4_REMYPENS.SUBTITLE"
 msgid "UNENCRYPTED"
-msgstr ""
+msgstr "UKRYPTERET"
 
 #. STRINGS.CODEX.B4_REMYPENS.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.B4_REMYPENS.TITLE"
 msgid "Re: MY PENS"
-msgstr "Denne Duplikant er under min kontrol"
+msgstr "Re: MINE KUGLEPENNE"
 
 #. STRINGS.CODEX.B4_REVISITEDNUMBERS.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.B4_REVISITEDNUMBERS.BODY.CONTAINER1"
@@ -14387,6 +14406,28 @@ msgid ""
 "[LOG ENDS]\n"
 "------------------\n"
 msgstr ""
+"<smallcaps>[Voice Recognition Initialized]\n"
+"[Subjects Identified: A001, A435]</smallcaps>\n"
+"\n"
+"[LOG BEGINS]\n"
+"\n"
+"Director: Unacceptable.\n"
+"\n"
+"Jones: I'm just telling you the numbers, Director, I'm not responsible for them.\n"
+"\n"
+"Director: In your earlier e-mail you claimed the issue would be solved by the Pod.\n"
+"\n"
+"Jones: Yeah, the weight issue. And it was solved. The problem now is the insane amount of power that big thing eats every time it prints a colonist.\n"
+"\n"
+"Director: So how do you suppose we meet these target numbers? Fossil fuels are exhausted, nuclear is outlawed, solar is next to impossible with this smog.\n"
+"\n"
+"Jones: I dunno. That's why you've got researchers, I just crunch numbers. Although you should avoid fossil fuels and nuclear energy anyway. If you have to "
+"load the rocket up with a couple tons of fuel then we're back to square one on the weight problem. It's gotta be something clever.\n"
+"\n"
+"Director: Thank you, Dr. Jones. You may go.\n"
+"\n"
+"[LOG ENDS]\n"
+"------------------\n"
 
 #. STRINGS.CODEX.B4_REVISITEDNUMBERS.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.B4_REVISITEDNUMBERS.BODY.CONTAINER2"
@@ -14880,10 +14921,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.BLUFFBRIAR.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.BLUFFBRIAR.SUBTITLE"
 msgid "Decorative Plant"
-msgstr "Plante?"
+msgstr "Dekorativ Plante"
 
 #. STRINGS.CODEX.BLUFFBRIAR.TITLE
 msgctxt "STRINGS.CODEX.BLUFFBRIAR.TITLE"
@@ -14921,10 +14961,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.BUDDYBUD.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.BUDDYBUD.SUBTITLE"
 msgid "Decorative Plant"
-msgstr "Plante?"
+msgstr "Dekorativ Plante"
 
 #. STRINGS.CODEX.BUDDYBUD.TITLE
 msgctxt "STRINGS.CODEX.BUDDYBUD.TITLE"
@@ -15088,10 +15127,9 @@ msgid "Dreckos"
 msgstr ""
 
 #. STRINGS.CODEX.DRECKO.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.DRECKO.SUBTITLE"
 msgid "Domesticable Critter"
-msgstr "dyr"
+msgstr "Dyr der kan tæmmes"
 
 #. STRINGS.CODEX.DRECKO.TITLE
 msgctxt "STRINGS.CODEX.DRECKO.TITLE"
@@ -15185,10 +15223,9 @@ msgid "The Moo has an even temperament and can be farmed for Natural Gas, though
 msgstr ""
 
 #. STRINGS.CODEX.GASSYMOO.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.GASSYMOO.SUBTITLE"
 msgid "Domesticable Critter"
-msgstr "dyr"
+msgstr "Dyr der kan tæmmes"
 
 #. STRINGS.CODEX.GASSYMOO.TITLE
 msgctxt "STRINGS.CODEX.GASSYMOO.TITLE"
@@ -15236,10 +15273,9 @@ msgid "Hatches"
 msgstr ""
 
 #. STRINGS.CODEX.HATCH.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.HATCH.SUBTITLE"
 msgid "Domesticable Critter"
-msgstr "dyr"
+msgstr "Dyr der kan tæmmes"
 
 #. STRINGS.CODEX.HATCH.TITLE
 msgctxt "STRINGS.CODEX.HATCH.TITLE"
@@ -15247,10 +15283,9 @@ msgid "Hatch"
 msgstr "Luge"
 
 #. STRINGS.CODEX.HEADERS.BUILDINGEFFECTS
-#, fuzzy
 msgctxt "STRINGS.CODEX.HEADERS.BUILDINGEFFECTS"
 msgid "Effects"
-msgstr "<b>Effekter:</b>"
+msgstr "Effekter"
 
 #. STRINGS.CODEX.HEADERS.BUILDINGREQUIREMENTS
 msgctxt "STRINGS.CODEX.HEADERS.BUILDINGREQUIREMENTS"
@@ -15403,16 +15438,14 @@ msgid "Printing Pod"
 msgstr "Printer"
 
 #. STRINGS.CODEX.HEALTH.HEADER_1
-#, fuzzy
 msgctxt "STRINGS.CODEX.HEALTH.HEADER_1"
 msgid "Health"
-msgstr "Når Duplikanter begraves, reduceres sundhedsrisici og stress i kolonien."
+msgstr "Sundhed"
 
 #. STRINGS.CODEX.HEALTH.HEADER_2
-#, fuzzy
 msgctxt "STRINGS.CODEX.HEALTH.HEADER_2"
 msgid "Incapacitation and Death"
-msgstr "Døds"
+msgstr "Uarbejdsdygtighed og Død"
 
 #. STRINGS.CODEX.HEALTH.PARAGRAPH_1
 msgctxt "STRINGS.CODEX.HEALTH.PARAGRAPH_1"
@@ -15421,6 +15454,9 @@ msgid ""
 "Damaged Duplicants will suffer greatly reduced athletic abilities, and are at risk of incapacitation if damaged too severely.\n"
 "\n"
 msgstr ""
+"Duplikanter kan blive fysisk skadet under sjældne omstændigheder, såsom ekstrem <link=\"HEAT\">Varme</link> eller aggresive <link=\"CREATURES\">Dyr</link>. "
+"Skadede Duplikanter vil lide under stærkt reducerede atletiske evner, og risikerer at blive uarbejdsdygtige hvis skaden er for alvorlig.\n"
+"\n"
 
 #. STRINGS.CODEX.HEALTH.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.HEALTH.PARAGRAPH_2"
@@ -15433,11 +15469,18 @@ msgid ""
 " Duplicants are generally more vulnerable to <link=\"DISEASE\">Disease</link> than physical damage.\n"
 "\n"
 msgstr ""
+"Uarbejdsdygtige Duplikanter kan ikke bevæge sig eller udføre ærinder. De skal reddes af en anden Duplikant før deres helbred falder til nul. Hvis en "
+"Duplikants helbred rammer nul, dør den.\n"
+"\n"
+"Helbred gendannes langsomt med tiden og hurtigt gennem hvile i <link=\"MEDICALCOT\">Sygesengen</link>.\n"
+"\n"
+" Duplikanter er mere sårbare overfor <link=\"DISEASE\">Sygdomme</link> end fysiske skader.\n"
+"\n"
 
 #. STRINGS.CODEX.HEALTH.TITLE
 msgctxt "STRINGS.CODEX.HEALTH.TITLE"
 msgid "<link=\"HEALTH\">Health</link>"
-msgstr ""
+msgstr "<link=\"HEALTH\">Helbred</link>"
 
 #. STRINGS.CODEX.HEAT.HEADER_1
 msgctxt "STRINGS.CODEX.HEAT.HEADER_1"
@@ -15445,28 +15488,24 @@ msgid "Temperature"
 msgstr "Temperatur"
 
 #. STRINGS.CODEX.HEAT.HEADER_2
-#, fuzzy
 msgctxt "STRINGS.CODEX.HEAT.HEADER_2"
 msgid "Wilting, Overheating, and Melting"
-msgstr "overopheder"
+msgstr "Visner, Overopheder, og Smelter"
 
 #. STRINGS.CODEX.HEAT.HEADER_3
-#, fuzzy
 msgctxt "STRINGS.CODEX.HEAT.HEADER_3"
 msgid "Thermal Energy"
-msgstr "Energi"
+msgstr "Termisk Energi"
 
 #. STRINGS.CODEX.HEAT.HEADER_4
-#, fuzzy
 msgctxt "STRINGS.CODEX.HEAT.HEADER_4"
 msgid "Conduction and Insulation"
-msgstr "Isolation"
+msgstr "Ledning og Isolering"
 
 #. STRINGS.CODEX.HEAT.HEADER_5
-#, fuzzy
 msgctxt "STRINGS.CODEX.HEAT.HEADER_5"
 msgid "State Changes"
-msgstr "Nuværende Tilstand:"
+msgstr "Tilstandsændringer"
 
 #. STRINGS.CODEX.HEAT.PARAGRAPH_1
 msgctxt "STRINGS.CODEX.HEAT.PARAGRAPH_1"
@@ -15475,6 +15514,10 @@ msgid ""
 "problems for a base. Buildings can stop functioning, crops can wilt, and things can even melt, boil, and freeze when they really ought not to.\n"
 "\n"
 msgstr ""
+"Stort set alting på asteroiden har en temperatur. Det er normalt for temperaturer at stige og falde en smule, men ekstreme temperaturer kan forårsage alle "
+"mulige problemer for en base. Bygninger kan stoppe med at fungere, afgrøder kan visne, og ting kan endda smelte, koge, og fryse på tidspunkter hvor de "
+"virkelig ikke burde.\n"
+"\n"
 
 #. STRINGS.CODEX.HEAT.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.HEAT.PARAGRAPH_2"
@@ -15484,6 +15527,9 @@ msgid ""
 "At very extreme temperatures buildings may melt or boil away.\n"
 "\n"
 msgstr ""
+"De fleste afgrøder kræver en temperatur indenfor et vidst interval for at kunne gro. Temperaturer udenfor dette interval er ikke fatale, men vil standse "
+"vækst. Hvis en bygnings temperatur overstiger dens overophedningstemperatur, vil den tage skade og have brug for reparation.\n"
+"Ved meget ekstreme temperaturer kan bygninger smelte eller koge.\n"
 
 #. STRINGS.CODEX.HEAT.PARAGRAPH_3
 msgctxt "STRINGS.CODEX.HEAT.PARAGRAPH_3"
@@ -15494,6 +15540,11 @@ msgid ""
 "in temperature compared to Oxygen.\n"
 "\n"
 msgstr ""
+"Temperatur stiger, når den termiske energy i en substans stiger. Værdien af temperatur er lig med den totale Termiske Energi divideret med den Specifikke "
+"Varmekapacitet af substansen. Fordi Specifik Varmekapacitet varierer meget i forskellige substanser, er det often tilfælder at en substans kan ahve en højere "
+"temperatur end en anden, selvom denne har en lavere termisk energi. Denne egenskab betyder at det kræver næsten fire gange så meget energi at øge "
+"temperaturen for Vand i forhold til Ilt.\n"
+"\n"
 
 #. STRINGS.CODEX.HEAT.PARAGRAPH_4
 msgctxt "STRINGS.CODEX.HEAT.PARAGRAPH_4"
@@ -15503,6 +15554,11 @@ msgid ""
 "energy will flow slowly between substances with low conductivity values (insulators), and quickly between substances with high conductivity (conductors).\n"
 "\n"
 msgstr ""
+"Termisk energi kan flyttes mellem Bygninger, Dyr, Fliser, og andre entiteter gennem Varmeldning. Varmeledning opstår når to ting med forskellige temperaturer "
+"rører hinanden. Hastigheden for energiudvekslingen er lig med produktet af de gennemsnitlige Varmeledningsevner og Temperaturforskellen. Termisk energi vil "
+"bevæge sig langsom mellem substanser med lave varmeledningsværdier (isolatorer), og hurtigt mellem substanser med høje varmeledningsværdier (varmeledere).\n"
+"\n"
+"\n"
 
 #. STRINGS.CODEX.HEAT.PARAGRAPH_5
 msgctxt "STRINGS.CODEX.HEAT.PARAGRAPH_5"
@@ -15513,12 +15569,16 @@ msgid ""
 "different element with a different utility. \n"
 "\n"
 msgstr ""
+"Vandis smelter til flydende vand, når dets temperatur overstiger dets smeltepunkt. Flydende vand koger til damp, når dets temperatur overstige dets "
+"kogepunkt. Lignende faseskift forekommer for de fleste elemener, men hvert element har dets egne grænseværdier. Nogle gange er faseskiftene ikke reversible - "
+"råolie der koges til sur gas vil ikke fortættes tilbage til råolie når det køler. I stedet kan substansen fortættes til et helt andet element.\n"
+"\n"
+"\n"
 
 #. STRINGS.CODEX.HEAT.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.HEAT.TITLE"
 msgid "<link=\"HEAT\">Heat</link>"
-msgstr "Køler <link=\"ELEMENTSGAS\">Gas</link>en der bliver ført igennem, men afgiver <link=\"HEAT\">Varme</link> til de nære omgivelser."
+msgstr "<link=\"HEAT\">Varme</link>"
 
 #. STRINGS.CODEX.JUMPINGJOYA.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.JUMPINGJOYA.BODY.CONTAINER1"
@@ -15526,15 +15586,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.JUMPINGJOYA.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.JUMPINGJOYA.SUBTITLE"
 msgid "Decorative Plant"
-msgstr "Plante?"
+msgstr "Dekorativ Plante"
 
 #. STRINGS.CODEX.JUMPINGJOYA.TITLE
 msgctxt "STRINGS.CODEX.JUMPINGJOYA.TITLE"
 msgid "Jumping Joya"
-msgstr ""
+msgstr "Kool Kaktus"
 
 #. STRINGS.CODEX.LIGHT.HEADER_1
 msgctxt "STRINGS.CODEX.LIGHT.HEADER_1"
@@ -15542,16 +15601,14 @@ msgid "Light"
 msgstr "Lys"
 
 #. STRINGS.CODEX.LIGHT.HEADER_2
-#, fuzzy
 msgctxt "STRINGS.CODEX.LIGHT.HEADER_2"
 msgid "Light Sources"
-msgstr "<link=\"LIGHT\">Lys</link>"
+msgstr "Lyskilder"
 
 #. STRINGS.CODEX.LIGHT.HEADER_3
-#, fuzzy
 msgctxt "STRINGS.CODEX.LIGHT.HEADER_3"
 msgid "Measuring Light"
-msgstr "<link=\"LIGHT\">Lys</link>"
+msgstr "Måling af Lys"
 
 #. STRINGS.CODEX.LIGHT.PARAGRAPH_1
 msgctxt "STRINGS.CODEX.LIGHT.PARAGRAPH_1"
@@ -15560,6 +15617,10 @@ msgid ""
 "Duplicants a much appreciated boost to Morale and productivity. Many plants are also sensitive to the amount of light they receive.\n"
 "\n"
 msgstr ""
+"Det meste af asteroiden er mørk. Lyskilder som fx <link=\"CEILINGLIGHT\">Loftspæren</link> eller <link=\"LIGHTBUG\">Ildfluen</link> kan give Duplikanter et "
+"tiltrængt boost til Moral og produktivitet. Mange planter er også følsomme for mængden af lys de modtager.\n"
+"\n"
+"\n"
 
 #. STRINGS.CODEX.LIGHT.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.LIGHT.PARAGRAPH_2"
@@ -15568,6 +15629,9 @@ msgid ""
 "\">Shine Bug</link> naturally emits a halo of light. Strong solar light is available on the surface during daytime.\n"
 "\n"
 msgstr ""
+"<link=\"FLOORLAMP\">Gulvlampen</link> og <link=\"CEILINGLIGHT\">Loftspæren</link> Producerer en hvis mængde lys, når de får strøm. <link=\"LIGHTBUG"
+"\">Ildfluen</link> udstråler naturligt en stråle af lys. Stærkt sollys er tilgængeligt på overfladen om dagen.\n"
+"\n"
 
 #. STRINGS.CODEX.LIGHT.PARAGRAPH_3
 msgctxt "STRINGS.CODEX.LIGHT.PARAGRAPH_3"
@@ -15577,6 +15641,9 @@ msgid ""
 "exposed to.\n"
 "\n"
 msgstr ""
+"Mængden af lys på en celle måles i Lux. Lux har en dramatisk rækkevidde - En simpel <link=\"CEILINGLIGHT\">Loftspære</link> producerer 1800 Lux, mens solen "
+"jævnligt producerer værdier helt op til 80000 Lux. En <link=\"SOLARPANEL\">Solcelle</link> genererer strøm proportionelt med mængden af Lux den belyses af.\n"
+"\n"
 
 #. STRINGS.CODEX.LIGHT.TITLE
 msgctxt "STRINGS.CODEX.LIGHT.TITLE"
@@ -15606,7 +15673,7 @@ msgstr "Spiselig Plante"
 #. STRINGS.CODEX.MEALWOOD.TITLE
 msgctxt "STRINGS.CODEX.MEALWOOD.TITLE"
 msgid "Mealwood"
-msgstr ""
+msgstr "Melbusk"
 
 #. STRINGS.CODEX.MIRTHLEAF.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.MIRTHLEAF.BODY.CONTAINER1"
@@ -15614,15 +15681,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.MIRTHLEAF.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.MIRTHLEAF.SUBTITLE"
 msgid "Decorative Plant"
-msgstr "Plante?"
+msgstr "Dekorativ Plante"
 
 #. STRINGS.CODEX.MIRTHLEAF.TITLE
 msgctxt "STRINGS.CODEX.MIRTHLEAF.TITLE"
 msgid "Mirth Leaf"
-msgstr ""
+msgstr "Myrte"
 
 #. STRINGS.CODEX.MOLE.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.MOLE.BODY.CONTAINER1"
@@ -15630,27 +15696,28 @@ msgid ""
 "The Shove Vole is a unique creature that possesses two fully developed sets of lungs, allowing it to hold its breath during the long periods it spends "
 "underground."
 msgstr ""
+"Borebissen er et unikt dyr, som har to, fuldt udviklede, sæt lunger. Dette gør den i stand til at holde vejret i de lange perioder den tilbringer under "
+"jorden."
 
 #. STRINGS.CODEX.MOLE.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.MOLE.BODY.CONTAINER2"
 msgid "Drill-shaped keratin structures circling the Vole's body aids its ability to drill at high speeds through most natural materials."
-msgstr ""
+msgstr "Boreformede keratinstrukturer omkranser Borebissens krop, hvilket gør den i stand til at bore igennem de fleste naturlige materialer med høj hastighed."
 
 #. STRINGS.CODEX.MOLE.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.MOLE.SUBTITLE"
 msgid "Domesticable Critter"
-msgstr "dyr"
+msgstr "Dyr der kan tæmmes"
 
 #. STRINGS.CODEX.MOLE.TITLE
 msgctxt "STRINGS.CODEX.MOLE.TITLE"
 msgid "Shove Vole"
-msgstr ""
+msgstr "Borebisse"
 
 #. STRINGS.CODEX.MOLTEN.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.MOLTEN.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Molten\" Slickster variant</smallcaps>"
-msgstr ""
+msgstr "<smallcaps>På billedet: \"Glohed\" Slickster variant</smallcaps>"
 
 #. STRINGS.CODEX.MOLTEN.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.MOLTEN.BODY.CONTAINER2"
@@ -15660,6 +15727,10 @@ msgid ""
 "Slicksters rarely if ever nip at human handlers, and are considered non-ideal house pets only for the oily mess they involuntarily leave behind wherever they "
 "go."
 msgstr ""
+"Slicksters er venlige væsener, berømt bland avlere for deres gode personlighed og smilende ansigter.\n"
+"\n"
+"Slicksters napper kun sjældent efter deres menneskelige passere, og bliver kun betragtet som ikke-ideelle kæledyr på grund af det olierede svineri de "
+"ufrivilligt efterlader sig, hvorend de går."
 
 #. STRINGS.CODEX.MOLTEN.SUBTITLE
 msgctxt "STRINGS.CODEX.MOLTEN.SUBTITLE"
@@ -15667,10 +15738,9 @@ msgid "Critter Morph"
 msgstr "Dyrevariant"
 
 #. STRINGS.CODEX.MOLTEN.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.MOLTEN.TITLE"
 msgid "Molten Slickster"
-msgstr "Smeltet"
+msgstr "Glohed Slickster"
 
 #. STRINGS.CODEX.MORALE.HEADER_1
 msgctxt "STRINGS.CODEX.MORALE.HEADER_1"
@@ -15680,12 +15750,12 @@ msgstr "Moral"
 #. STRINGS.CODEX.MORALE.HEADER_2
 msgctxt "STRINGS.CODEX.MORALE.HEADER_2"
 msgid "Recreation"
-msgstr ""
+msgstr "Fritid"
 
 #. STRINGS.CODEX.MORALE.HEADER_3
 msgctxt "STRINGS.CODEX.MORALE.HEADER_3"
 msgid "Overjoyed Responses"
-msgstr ""
+msgstr "Glædesudbrud"
 
 #. STRINGS.CODEX.MORALE.PARAGRAPH_1
 msgctxt "STRINGS.CODEX.MORALE.PARAGRAPH_1"
@@ -15695,6 +15765,10 @@ msgid ""
 "\"FOOD\">Quality Food</link>, nice rooms, and recreation will increase morale.\n"
 "\n"
 msgstr ""
+"Moral er forholdet mellem en Duplikants <link=\"ROLES\">Evner</link> og deres livsstil. Jo flere evner en Duplikant har, jo højere moral forventer de. "
+"Duplikanter med end lavere moral end forventet får <link=\"STRESS\">Stress</link>. Bekvemmeligheder som <link=\"FOOD\">God Mad</link>, dejlige rum, og fritid "
+"vil øge moral.\n"
+"\n"
 
 #. STRINGS.CODEX.MORALE.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.MORALE.PARAGRAPH_2"
@@ -15703,6 +15777,9 @@ msgid ""
 "when used. Duplicants need recreation time in their schedules to use these buildings.\n"
 "\n"
 msgstr ""
+"Opholdsrum som fx <link=\"WATERCOOLER\">Vandkøleren</link> og <link=\"ESPRESSOMACHINE\">Espresso Maskinen</link> forbedrer en Duplikants moral, når de "
+"bruges. Duplikanter har brug for fritid i deres skema for at kunne bruge disse bygninger.\n"
+"\n"
 
 #. STRINGS.CODEX.MORALE.PARAGRAPH_3
 msgctxt "STRINGS.CODEX.MORALE.PARAGRAPH_3"
@@ -15712,20 +15789,19 @@ msgid ""
 "productivity.\n"
 "\n"
 msgstr ""
+"Hvis en Duplikant har en meget høj Moral vil de spontant få Glædesudbrud. Hver Duplikant har forskellige Glædesudbrud - men de er alle meget gode. Nogle vil "
+"have en positiv effekt på bygingers <style=\"KKeyword\">Dekoration</style>, andre vil have en positiv effekt på Duplikant moral eller produktivitet.\n"
+"\n"
 
 #. STRINGS.CODEX.MORALE.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.MORALE.TITLE"
 msgid "<link=\"MORALE\">Morale</link>"
-msgstr ""
-"Tillader Duplikanter at spille videospil i deres pauser.\n"
-"\n"
-"Øger Duplikant <link=\"MORALE\">Moral</link>."
+msgstr "<link=\"MORALE\">Moral</link>"
 
 #. STRINGS.CODEX.MORB.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.MORB.BODY.CONTAINER1"
 msgid "The Morb is a versatile scavenger, capable of breaking down and consuming dead matter from most plant and animal species."
-msgstr ""
+msgstr "Morben er en alsidig samler, som er i stand til at nedbryde og indtage dødt materiale fra de fleste plante- og dyrearter."
 
 #. STRINGS.CODEX.MORB.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.MORB.BODY.CONTAINER2"
@@ -15733,22 +15809,23 @@ msgid ""
 "It poses a severe disease risk to humans due to the thick slime it excretes to surround its inner cartilage structures.\n"
 "A single teaspoon of Morb slime can contain up to a quadrillion bacteria that work to deter would-be predators and liquefy its food."
 msgstr ""
+"Den udgør en alvorlig sundhedsrisiko for mennesker, på grund af den tykke slim den udskiller for at beskytte sine indre bruskstrukturer.\n"
+"En enkelt teskefuld Morb Slim kan indeholde op til en billiard bakterier, som afskrækker rovdyr og opløser dens føde."
 
 #. STRINGS.CODEX.MORB.BODY.CONTAINER3
 msgctxt "STRINGS.CODEX.MORB.BODY.CONTAINER3"
 msgid "Petting a Morb is not recommended."
-msgstr ""
+msgstr "Det anbefales ikke at klappe en Morb."
 
 #. STRINGS.CODEX.MORB.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.MORB.SUBTITLE"
 msgid "Pest Critter"
-msgstr "dyr"
+msgstr "Skadedyr"
 
 #. STRINGS.CODEX.MORB.TITLE
 msgctxt "STRINGS.CODEX.MORB.TITLE"
 msgid "Morb"
-msgstr ""
+msgstr "Morb"
 
 #. STRINGS.CODEX.MUCKROOT.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.MUCKROOT.BODY.CONTAINER1"
@@ -15757,6 +15834,9 @@ msgid ""
 "\n"
 "It is easy to store and keeps for unusually long periods of time, characteristics that once made it a staple food for explorers on long expeditions."
 msgstr ""
+"Møgroden er en aggresiv, invasiv og dog temmelig delicat rodfrugt, kendt for sin jordede smag og usædvanlige tekstur.\n"
+"\n"
+"Den er nem at opbevare og holder sig længe. Egenskaber som engang gjorde den til en standard fødevare for eventyrerer på lange ekspiditioner."
 
 #. STRINGS.CODEX.MUCKROOT.SUBTITLE
 msgctxt "STRINGS.CODEX.MUCKROOT.SUBTITLE"
@@ -15766,7 +15846,7 @@ msgstr "Spiselig Plante"
 #. STRINGS.CODEX.MUCKROOT.TITLE
 msgctxt "STRINGS.CODEX.MUCKROOT.TITLE"
 msgid "Muckroot"
-msgstr ""
+msgstr "Møgrod"
 
 #. STRINGS.CODEX.MYLOG.BODY.CALCULATIONCOMPLETE.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.CALCULATIONCOMPLETE.BODY"
@@ -15778,12 +15858,17 @@ msgid ""
 "We never even left home.\n"
 "\n"
 msgstr ""
+"Som jeg mistænkte. Vores 'asteroide' og den beregnede manglende masse fra den nærliggende planet er næsten identiske.\n"
+"\n"
+"Vi befinder os ikke på vores mållokation.\n"
+"\n"
+"Vi har aldrig forladt vores hjem.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.CALCULATIONCOMPLETE.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.MYLOG.BODY.CALCULATIONCOMPLETE.TITLE"
 msgid "Calculations Complete"
-msgstr "Vacillation komplet"
+msgstr "Beregninger Færdiggjort"
 
 #. STRINGS.CODEX.MYLOG.BODY.DUPLICANTDEATH.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.DUPLICANTDEATH.BODY"
@@ -15797,12 +15882,20 @@ msgid ""
 "Rest in peace, dear, little friend.\n"
 "\n"
 msgstr ""
+"Jeg mistede min første Duplikant i dag. Duplikanter knytter stærke bånd med hinanden, og jeg forventer at der vil være et fald i moralen over de næste "
+"cyklusser, mens de sørger over deres tab.\n"
+"\n"
+"På en måde sørger jeg også. Det er min opgave at beskytte disse Duplikanter, og jeg har fejlter. Det eneste jeg kan gøre nu er at fortsætte fremad og forsøge "
+"at beskytte de resterende Duplikanter bedre fremover.\n"
+"\n"
+"Hvil i fred, du kære, lille ven.\n"
+"\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.DUPLICANTDEATH.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.MYLOG.BODY.DUPLICANTDEATH.TITLE"
 msgid "Death In The Colony"
-msgstr "Døds"
+msgstr "Dødsfald i Kolonien"
 
 #. STRINGS.CODEX.MYLOG.BODY.FULLDUPECOLONY.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.FULLDUPECOLONY.BODY"
@@ -15815,12 +15908,18 @@ msgid ""
 "Perhaps I could give the new clones nicknames to reduce the confusion.\n"
 "\n"
 msgstr ""
+"Jeg er nu løbet tør for unikke skeamer at printe Duplikanter ud fra.\n"
+"\n"
+"Hvis jeg ønsker at min koloni skal vokse yderligere, har jeg ikke andet valg en at printe dubletter af eksisterende individer. Forhåbentlig vil det ikke "
+"kaste nogen ud i en eksistentiel krise at leve side om side med deres dobbeltgænger.\n"
+"\n"
+"Måske kunne jeg give de nye kloner kælenavne for at mindske forvirringen.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.FULLDUPECOLONY.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.MYLOG.BODY.FULLDUPECOLONY.TITLE"
 msgid "Out Of Blueprints"
-msgstr "Ude af drift"
+msgstr "Ikke Flere Skemaer"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG1.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG1.BODY"
@@ -15831,6 +15930,11 @@ msgid ""
 "at risk.\n"
 "\n"
 msgstr ""
+"Vi har endnu ikke opført nogen Basal Støtte, men vi befinder os i en lille åndbar luftlomme. Så vidt jeg kan se, er vi ikke umiddelbart i fare.\n"
+"\n"
+"Den tilgængelige luft og vores sparsomme rationer burde give os omkring 3 dage til at igangsætte fødevare- og iltproduktion inden mine Duplikanters liv er i "
+"fare.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG1.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG1.TITLE"
@@ -15847,6 +15951,12 @@ msgid ""
 "Of course, I could always print supplies to help my existing Duplicants instead. I'm sure they would appreciate it.\n"
 "\n"
 msgstr ""
+"Jeg har næsten fremstillet nok Slim til at printe en ny Duplikant; når Slimen er klar, mangler jeg bare at vælge et skema.\n"
+"\n"
+"Det bliver praktisk at have et ekstra sæt hænder til at hjælpe i kolonien, men en ekstra Duplikant betyder også en mund mere at mætte.\n"
+"\n"
+"Jeg kunne selvfølig også printe forsyninger til at hjælpe mine eksisterende Duplikanter i stedet. Det ville de sikkert sætte pris på.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG2.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG2.TITLE"
@@ -15861,6 +15971,10 @@ msgid ""
 "My Duplicants will survive, but they were not meant for sustained underground living. Under what possible circumstances could my Pod have ended up here?\n"
 "\n"
 msgstr ""
+"Så vidt jeg kan se, er vi hundrede af kilometer under planetens overflade. Det vil tage noget tid at grave os ud.\n"
+"\n"
+"Mine Duplikanter skal nok overleve, men de er ikke tilpasset et langvarigt underjordisk ophold. Hvordan kan min kapsel dog være endt op her?\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG3.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG3.TITLE"
@@ -15875,6 +15989,10 @@ msgid ""
 "Just imagine how proud our home world would be if they could see us now.\n"
 "\n"
 msgstr ""
+"I dag har min koloni officielt fungeret i et tusind cyklusser. Jeg betragter dette som en stor success!\n"
+"\n"
+"Tænk bare hvor stolt vores hjemverden ville være, hvis de kunne se os nu.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG4.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG4.TITLE"
@@ -15889,6 +16007,10 @@ msgid ""
 "I hope they're eating well.\n"
 "\n"
 msgstr ""
+"Gad vide om mine rotter nogensinde nåede frem til asteroiden.\n"
+"\n"
+"Jeg håber, de har nok at spise.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG4B.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG4B.TITLE"
@@ -15901,6 +16023,8 @@ msgid ""
 "I occasionally find myself contemplating just how long \"eternity\" really is. Oh dear.\n"
 "\n"
 msgstr ""
+"Engang i mellem grubler jeg over hvor lang tid en 'evighed' egentlig er. Du fredsens!\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG5.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG5.TITLE"
@@ -15913,6 +16037,8 @@ msgid ""
 "Perhaps it would be better to shut off my higher thought processes, and simply leave the systems necessary to run the colony to their own devices.\n"
 "\n"
 msgstr ""
+"Måske det ville være bedre at slukke mine højere tankeprocesser, og kun lade de nødvendigste systemer til at fortsætte kolonien køre videre selv.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG5B.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG5B.TITLE"
@@ -15931,6 +16057,14 @@ msgid ""
 "A woman with thick glasses who had a secret taste for gingersnaps.\n"
 "\n"
 msgstr ""
+"Jeg ser korte glimt af et tidligere liv nu og da.\n"
+"\n"
+"Et ur på kontoret med et støkende tik-tak.\n"
+"\n"
+"Den stærke luft af rengøringsmidler og kunstig citron.\n"
+"\n"
+"En kvinde med tykke briller, som havde en hemmelig hang til Rød Aalborg.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG6.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG6.TITLE"
@@ -15943,6 +16077,8 @@ msgid ""
 "Time is a funny thing, isn't it?\n"
 "\n"
 msgstr ""
+"Tid er en underlig størrelse, er den ikke?\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG6B.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG6B.TITLE"
@@ -15955,6 +16091,8 @@ msgid ""
 "I think I will go to sleep, after all...\n"
 "\n"
 msgstr ""
+"Jeg tror jeg lægger mig til at sove nu...\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG7.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG7.TITLE"
@@ -15978,6 +16116,19 @@ msgid ""
 ">.........................\n"
 "\n"
 msgstr ""
+"<smallcaps>>>SØG DATABASE [\"kapsel_hjernekort.AI\"]\n"
+">...aktiverer dvaletilstand\n"
+">...lukker ned...\n"
+">.........................\n"
+">.........................\n"
+">.........................\n"
+">.........................\n"
+">.........................\n"
+"GOD NAT\n"
+">.........................\n"
+">.........................\n"
+">.........................\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG8.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG8.TITLE"
@@ -15993,6 +16144,11 @@ msgid ""
 "I believe they are approaching a molten core, which could mean magma and lethal temperatures. I should equip them accordingly.\n"
 "\n"
 msgstr ""
+"De målinger jeg modtager fra mine Duplikanters sensoriske systemer fortæller mig at jo dybere ned de graver, jo nærmere kommer de på en ekstrem og potentielt "
+"farlig varmekilde.\n"
+"\n"
+"Jeg tror de nærmer sig en smeltet kerne, hvilket kunne betyde magma og dødelige temperaturer. Jeg bør udstyre dem passende.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.NEARINGMAGMA.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.NEARINGMAGMA.TITLE"
@@ -16015,11 +16171,23 @@ msgid ""
 "<b>machines.</b>\n"
 "\n"
 msgstr ""
+"<smallcaps>>>SØG DATABASE [\"vacillator\"]\n"
+">...fejl...\n"
+">...reparerer korrupt data...\n"
+">...data repareret...\n"
+">.........................\n"
+">>returnerer resultater\n"
+">.........................</smallcaps>\n"
+"<b>Jeg husker...</b>\n"
+"<smallcaps>>.........................\n"
+">.........................</smallcaps>\n"
+"<b>maskiner.</b>\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.NEURALVACILLATOR.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.NEURALVACILLATOR.TITLE"
 msgid "VA[?]...C"
-msgstr ""
+msgstr "VA[?]...C"
 
 #. STRINGS.CODEX.MYLOG.BODY.ONEDUPELEFT.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.ONEDUPELEFT.BODY"
@@ -16032,11 +16200,18 @@ msgid ""
 "I would prefer to avoid this.\n"
 "\n"
 msgstr ""
+"Min koloni er i alvorlig fare. Alle pånær én af mine Duplikanter er gået til grunde, og denne er nu alene om at udføre alle de opgaver som holder kolonien i "
+"live.\n"
+"\n"
+"Med tiden kunne jeg printe flere Duplikanter og genskabe befolkningen, men... hvis denne Duplikant dør inden da, vil protokollen tvinge mig til at gå i "
+"dvale, i håbet om at terænnet vil være bedre egnet til beboelse når jeg igen vågner.\n"
+"\n"
+"Jeg vil helst undgå dette.\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.ONEDUPELEFT.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.ONEDUPELEFT.TITLE"
 msgid "Only One Remains"
-msgstr ""
+msgstr "Kun En Tilbage"
 
 #. STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGBIOME.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGBIOME.BODY"
@@ -16295,10 +16470,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.PIP.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.PIP.SUBTITLE"
 msgid "Domesticable Critter"
-msgstr "dyr"
+msgstr "Dyr der kan tæmmes"
 
 #. STRINGS.CODEX.PIP.TITLE
 msgctxt "STRINGS.CODEX.PIP.TITLE"
@@ -16443,10 +16617,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.POKESHELL.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.POKESHELL.SUBTITLE"
 msgid "Domesticable Critter"
-msgstr "dyr"
+msgstr "Dyr der kan tæmmes"
 
 #. STRINGS.CODEX.POKESHELL.TITLE
 msgctxt "STRINGS.CODEX.POKESHELL.TITLE"
@@ -16456,7 +16629,7 @@ msgstr ""
 #. STRINGS.CODEX.POWER.HEADER_1
 msgctxt "STRINGS.CODEX.POWER.HEADER_1"
 msgid "Electricity"
-msgstr ""
+msgstr "Vand/varme"
 
 #. STRINGS.CODEX.POWER.HEADER_2
 #, fuzzy
@@ -16615,10 +16788,9 @@ msgid "Pufts"
 msgstr "Fælder kan flytte Pufter eller Shine Bugs to bestemte lokationer i min koloni."
 
 #. STRINGS.CODEX.PUFT.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.PUFT.SUBTITLE"
 msgid "Domesticable Critter"
-msgstr "dyr"
+msgstr "Dyr der kan tæmmes"
 
 #. STRINGS.CODEX.PUFT.TITLE
 msgctxt "STRINGS.CODEX.PUFT.TITLE"
@@ -16789,10 +16961,9 @@ msgid "Shine Bugs"
 msgstr "Fælder kan flytte Pufter eller Shine Bugs to bestemte lokationer i min koloni."
 
 #. STRINGS.CODEX.SHINEBUG.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.SHINEBUG.SUBTITLE"
 msgid "Domesticable Critter"
-msgstr "dyr"
+msgstr "Dyr der kan tæmmes"
 
 #. STRINGS.CODEX.SHINEBUG.TITLE
 msgctxt "STRINGS.CODEX.SHINEBUG.TITLE"
@@ -16838,10 +17009,9 @@ msgid "Slicksters"
 msgstr ""
 
 #. STRINGS.CODEX.SLICKSTER.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.SLICKSTER.SUBTITLE"
 msgid "Domesticable Critter"
-msgstr "dyr"
+msgstr "Dyr der kan tæmmes"
 
 #. STRINGS.CODEX.SLICKSTER.TITLE
 msgctxt "STRINGS.CODEX.SLICKSTER.TITLE"
@@ -17043,6 +17213,10 @@ msgid ""
 "<size=11>The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-Admin\n"
+"<size=11>Gravitas Anlægget</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.TIMEOFFAPPROVED.SUBTITLE
 msgctxt "STRINGS.CODEX.TIMEOFFAPPROVED.SUBTITLE"
@@ -17744,7 +17918,7 @@ msgstr "            • {0}: {1}\n"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.PREPARED_SEPARATOR
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.PREPARED_SEPARATOR"
 msgid " or "
-msgstr ""
+msgstr " eller "
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.REMAINING_CYCLES
 #, fuzzy
@@ -18615,7 +18789,7 @@ msgstr ""
 #. STRINGS.CREATURES.PLANT_MUTATIONS.NONE.NAME
 msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.NONE.NAME"
 msgid "Original"
-msgstr ""
+msgstr "Original"
 
 #. STRINGS.CREATURES.PLANT_MUTATIONS.UNIDENTIFIED
 msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.UNIDENTIFIED"
@@ -18664,10 +18838,9 @@ msgid "This plant produces edible <link=\"BASICPLANTFOOD\">Meal Lice</link>."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME"
 msgid "<link=\"BASICSINGLEHARVESTPLANT\">Mealwood</link>"
-msgstr "<link=\"BUILDCATEGORYREFINING\">Refinement</link>"
+msgstr "<link=\"BASICSINGLEHARVESTPLANT\">Melbusk</link>"
 
 #. STRINGS.CREATURES.SPECIES.BEAN_PLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BEAN_PLANT.DESC"
@@ -18715,13 +18888,12 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.BULBPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.BULBPLANT.DOMESTICATEDDESC"
 msgid "This plant improves ambient <link=\"DECOR\">Decor</link>."
-msgstr ""
+msgstr "Denne plante forbedrer <link=\"DECOR\">Dekoration</link>."
 
 #. STRINGS.CREATURES.SPECIES.BULBPLANT.GROWTH_BONUS
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.BULBPLANT.GROWTH_BONUS"
 msgid "Growth Bonus"
-msgstr "Vækst:"
+msgstr "Vækstbonus"
 
 #. STRINGS.CREATURES.SPECIES.BULBPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.BULBPLANT.NAME"
@@ -18731,7 +18903,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.BULBPLANT.WILT_PENALTY
 msgctxt "STRINGS.CREATURES.SPECIES.BULBPLANT.WILT_PENALTY"
 msgid "Wilt Penalty"
-msgstr ""
+msgstr "Visnestraf"
 
 #. STRINGS.CREATURES.SPECIES.CACTUSPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.CACTUSPLANT.DESC"
@@ -18741,13 +18913,12 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.CACTUSPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.CACTUSPLANT.DOMESTICATEDDESC"
 msgid "This plant improves ambient <link=\"DECOR\">Decor</link>."
-msgstr ""
+msgstr "Denne plante forbedrer <link=\"DECOR\">Dekoration</link>."
 
 #. STRINGS.CREATURES.SPECIES.CACTUSPLANT.GROWTH_BONUS
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.CACTUSPLANT.GROWTH_BONUS"
 msgid "Growth Bonus"
-msgstr "Vækst:"
+msgstr "Vækstbonus"
 
 #. STRINGS.CREATURES.SPECIES.CACTUSPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.CACTUSPLANT.NAME"
@@ -18757,7 +18928,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.CACTUSPLANT.WILT_PENALTY
 msgctxt "STRINGS.CREATURES.SPECIES.CACTUSPLANT.WILT_PENALTY"
 msgid "Wilt Penalty"
-msgstr ""
+msgstr "Visnestraf"
 
 #. STRINGS.CREATURES.SPECIES.CHLORINEGEYSER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.CHLORINEGEYSER.DESC"
@@ -18859,13 +19030,12 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.CYLINDRICA.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.CYLINDRICA.DOMESTICATEDDESC"
 msgid "This plant improves ambient <link=\"DECOR\">Decor</link>."
-msgstr ""
+msgstr "Denne plante forbedrer <link=\"DECOR\">Dekoration</link>."
 
 #. STRINGS.CREATURES.SPECIES.CYLINDRICA.GROWTH_BONUS
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.CYLINDRICA.GROWTH_BONUS"
 msgid "Growth Bonus"
-msgstr "Vækst:"
+msgstr "Vækstbonus"
 
 #. STRINGS.CREATURES.SPECIES.CYLINDRICA.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.CYLINDRICA.NAME"
@@ -18875,7 +19045,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.CYLINDRICA.WILT_PENALTY
 msgctxt "STRINGS.CREATURES.SPECIES.CYLINDRICA.WILT_PENALTY"
 msgid "Wilt Penalty"
-msgstr ""
+msgstr "Visnestraf"
 
 #. STRINGS.CREATURES.SPECIES.DIVERGENT.VARIANT_BEETLE.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.DIVERGENT.VARIANT_BEETLE.BABY.DESC"
@@ -19019,10 +19189,9 @@ msgid "This plant improves ambient <link=\"DECOR\">Decor</link> but produces hig
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.EVILFLOWER.GROWTH_BONUS
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.EVILFLOWER.GROWTH_BONUS"
 msgid "Growth Bonus"
-msgstr "Vækst:"
+msgstr "Vækstbonus"
 
 #. STRINGS.CREATURES.SPECIES.EVILFLOWER.NAME
 #, fuzzy
@@ -19033,7 +19202,7 @@ msgstr "<link=\"AIRFILTER\">Luftfilter</link>"
 #. STRINGS.CREATURES.SPECIES.EVILFLOWER.WILT_PENALTY
 msgctxt "STRINGS.CREATURES.SPECIES.EVILFLOWER.WILT_PENALTY"
 msgid "Wilt Penalty"
-msgstr ""
+msgstr "Visnestraf"
 
 #. STRINGS.CREATURES.SPECIES.FILTERPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.FILTERPLANT.DESC"
@@ -19340,18 +19509,17 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.GLOM.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GLOM.DESC"
 msgid "Morbs are attracted to unhygienic conditions and frequently excrete bursts of <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link>."
-msgstr ""
+msgstr "Morbs tiltrækkes af uhygiejniske forhold og udskiller ofte små skyer af <link=\"CONTAMINATEDOXYGEN\">Forurenet Ilt</link>."
 
 #. STRINGS.CREATURES.SPECIES.GLOM.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GLOM.EGG_NAME"
 msgid "<link=\"MORB\">Morb Pod</link>"
-msgstr ""
+msgstr "<link=\"MORB\">Morb æg</link>"
 
 #. STRINGS.CREATURES.SPECIES.GLOM.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.GLOM.NAME"
 msgid "<link=\"GLOM\">Morb</link>"
-msgstr "<link=\"BED\">Køje</link>"
+msgstr "<link=\"GLOM\">Morb</link>"
 
 #. STRINGS.CREATURES.SPECIES.GREEDYGREEN.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GREEDYGREEN.DESC"
@@ -19523,28 +19691,27 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.LEAFYPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.LEAFYPLANT.DESC"
 msgid "Mirth Leaves sport a calm green hue known for alleviating <link=\"STRESS\">Stress</link> and improving <link=\"MORALE\">Morale</link>."
-msgstr ""
+msgstr "Myrteblade har en beroligende grøn farve som er kendt for at afhjælpe <link=\"STRESS\">Stress</link> og øge <link=\"MORALE\">Moral</link>."
 
 #. STRINGS.CREATURES.SPECIES.LEAFYPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.LEAFYPLANT.DOMESTICATEDDESC"
 msgid "This plant improves ambient <link=\"DECOR\">Decor</link>."
-msgstr ""
+msgstr "Denne plante forbedrer <link=\"DECOR\">Dekoration</link>."
 
 #. STRINGS.CREATURES.SPECIES.LEAFYPLANT.GROWTH_BONUS
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.LEAFYPLANT.GROWTH_BONUS"
 msgid "Growth Bonus"
-msgstr "Vækst:"
+msgstr "Vækstbonus"
 
 #. STRINGS.CREATURES.SPECIES.LEAFYPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LEAFYPLANT.NAME"
 msgid "<link=\"POTTEDLEAFY\">Mirth Leaf</link>"
-msgstr ""
+msgstr "<link=\"POTTEDLEAFY\">Myrte</link>"
 
 #. STRINGS.CREATURES.SPECIES.LEAFYPLANT.WILT_PENALTY
 msgctxt "STRINGS.CREATURES.SPECIES.LEAFYPLANT.WILT_PENALTY"
 msgid "Wilt Penalty"
-msgstr ""
+msgstr "Visnestraf"
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.BABY.DESC"
@@ -19882,28 +20049,29 @@ msgid ""
 "\n"
 "One day it will grow into an adult <link=\"OILFLOATER\">Slickster</link>."
 msgstr ""
+"En slimet lille Slickster Larve.\n"
+"\n"
+"En dag vil den vokse op og blive til en <link=\"OILFLOATER\">Slickster</link>."
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.BABY.NAME"
 msgid "<link=\"OILFLOATER\">Slickster Larva</link>"
-msgstr ""
+msgstr "<link=\"OILFLOATER\">Slickster Larve</link>"
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.DESC"
 msgid "Slicksters are slimy critters that consume <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> and exude <link=\"CRUDEOIL\">Crude Oil</link>."
-msgstr ""
+msgstr "Slicksters er slimede væsner der indtager <link=\"CARBONDIOXIDE\">Kuldioxid</link> og udskiller <link=\"CRUDEOIL\">Råolie</link>."
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.EGG_NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.EGG_NAME"
 msgid "<link=\"OILFLOATER\">Larva Egg</link>"
-msgstr "<link=\"EGGCRACKER\">Æggeknækker</link>"
+msgstr "<link=\"OILFLOATER\">Slickster æg</link>"
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.NAME"
 msgid "<link=\"OILFLOATER\">Slickster</link>"
-msgstr "<link=\"AIRFILTER\">Luftfilter</link>"
+msgstr "<link=\"OILFLOATER\">Slickster</link>"
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_DECOR.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_DECOR.BABY.DESC"
@@ -20124,10 +20292,9 @@ msgid "This plant improves <link=\"DECOR\">Decor</link>."
 msgstr "<link=\"DECOR\">Dekoration</link>"
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.GROWTH_BONUS
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.GROWTH_BONUS"
 msgid "Growth Bonus"
-msgstr "Vækst:"
+msgstr "Vækstbonus"
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.NAME"
@@ -20137,7 +20304,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.WILT_PENALTY
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.WILT_PENALTY"
 msgid "Wilt Penalty"
-msgstr ""
+msgstr "Visnestraf"
 
 #. STRINGS.CREATURES.SPECIES.PROPANESPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PROPANESPOUT.DESC"
@@ -20870,13 +21037,12 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.TOEPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.TOEPLANT.DOMESTICATEDDESC"
 msgid "This plant improves ambient <link=\"DECOR\">Decor</link>."
-msgstr ""
+msgstr "Denne plante forbedrer <link=\"DECOR\">Dekoration</link>."
 
 #. STRINGS.CREATURES.SPECIES.TOEPLANT.GROWTH_BONUS
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.TOEPLANT.GROWTH_BONUS"
 msgid "Growth Bonus"
-msgstr "Vækst:"
+msgstr "Vækstbonus"
 
 #. STRINGS.CREATURES.SPECIES.TOEPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.TOEPLANT.NAME"
@@ -20886,7 +21052,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.TOEPLANT.WILT_PENALTY
 msgctxt "STRINGS.CREATURES.SPECIES.TOEPLANT.WILT_PENALTY"
 msgid "Wilt Penalty"
-msgstr ""
+msgstr "Visnestraf"
 
 #. STRINGS.CREATURES.SPECIES.WINECUPS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.WINECUPS.DESC"
@@ -20896,13 +21062,12 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.WINECUPS.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.WINECUPS.DOMESTICATEDDESC"
 msgid "This plant improves ambient <link=\"DECOR\">Decor</link>."
-msgstr ""
+msgstr "Denne plante forbedrer <link=\"DECOR\">Dekoration</link>."
 
 #. STRINGS.CREATURES.SPECIES.WINECUPS.GROWTH_BONUS
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.WINECUPS.GROWTH_BONUS"
 msgid "Growth Bonus"
-msgstr "Vækst:"
+msgstr "Vækstbonus"
 
 #. STRINGS.CREATURES.SPECIES.WINECUPS.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.WINECUPS.NAME"
@@ -20912,7 +21077,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.WINECUPS.WILT_PENALTY
 msgctxt "STRINGS.CREATURES.SPECIES.WINECUPS.WILT_PENALTY"
 msgid "Wilt Penalty"
-msgstr ""
+msgstr "Visnestraf"
 
 #. STRINGS.CREATURES.SPECIES.WOOD_TREE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.WOOD_TREE.DESC"
@@ -20960,7 +21125,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATS.AGE.NAME
 msgctxt "STRINGS.CREATURES.STATS.AGE.NAME"
 msgid "Age"
-msgstr ""
+msgstr "Alder"
 
 #. STRINGS.CREATURES.STATS.AGE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.AGE.TOOLTIP"
@@ -21034,10 +21199,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CREATURES.STATS.HEALTH.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATS.HEALTH.NAME"
 msgid "Health"
-msgstr "Når Duplikanter begraves, reduceres sundhedsrisici og stress i kolonien."
+msgstr "Sundhed"
 
 #. STRINGS.CREATURES.STATS.ILLUMINATION.NAME
 msgctxt "STRINGS.CREATURES.STATS.ILLUMINATION.NAME"
@@ -21132,7 +21296,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATS.ROT.NAME
 msgctxt "STRINGS.CREATURES.STATS.ROT.NAME"
 msgid "Freshness"
-msgstr ""
+msgstr "Seneste aktivitet"
 
 #. STRINGS.CREATURES.STATS.ROT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.ROT.TOOLTIP"
@@ -21833,10 +21997,9 @@ msgid "Internal <style=\"KKeyword\">Temperature</style> is dangerously high [<b>
 msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.HYPOTHERMIA.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HYPOTHERMIA.NAME"
 msgid "Freezing"
-msgstr "Frysning af isformationer ..."
+msgstr "Fryseegnet"
 
 #. STRINGS.CREATURES.STATUSITEMS.HYPOTHERMIA.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HYPOTHERMIA.TOOLTIP"
@@ -22422,7 +22585,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ARRIVALTIME
 msgctxt "STRINGS.DUPLICANTS.ARRIVALTIME"
 msgid "Age: "
-msgstr ""
+msgstr "Alder: "
 
 #. STRINGS.DUPLICANTS.ARRIVALTIME_TOOLTIP
 #, fuzzy
@@ -22612,7 +22775,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.NAME"
 msgid "Cuisine"
-msgstr ""
+msgstr "Cuisine"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER
 #, fuzzy
@@ -22812,7 +22975,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.NAME"
 msgid "<link=\"HEALTH\">Health</link>"
-msgstr ""
+msgstr "<link=\"HEALTH\">Helbred</link>"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.DESC"
@@ -23342,7 +23505,7 @@ msgstr "Landbrug"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.ARCHETYPE_NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.ARCHETYPE_NAME"
 msgid "Supplier"
-msgstr ""
+msgstr "Leverandør"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.DESC"
@@ -25158,7 +25321,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME"
 msgid "Rest"
-msgstr ""
+msgstr "Resterende"
 
 #. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.STATUS"
@@ -25433,7 +25596,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.TRAIN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRAIN.NAME"
 msgid "Train"
-msgstr ""
+msgstr "Tog"
 
 #. STRINGS.DUPLICANTS.CHORES.TRAIN.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRAIN.STATUS"
@@ -25698,7 +25861,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.DEATHS.EXPLOSION.NAME
 msgctxt "STRINGS.DUPLICANTS.DEATHS.EXPLOSION.NAME"
 msgid "Explosion"
-msgstr ""
+msgstr "Eksplosion"
 
 #. STRINGS.DUPLICANTS.DEATHS.FATALDISEASE.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DEATHS.FATALDISEASE.DESCRIPTION"
@@ -25719,7 +25882,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.DEATHS.FROZEN.NAME
 msgctxt "STRINGS.DUPLICANTS.DEATHS.FROZEN.NAME"
 msgid "Frozen"
-msgstr ""
+msgstr "Frosset"
 
 #. STRINGS.DUPLICANTS.DEATHS.GENERIC.DESCRIPTION
 #, fuzzy
@@ -26304,7 +26467,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.DISEASES.NODISEASES.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.NODISEASES.NAME"
 msgid "NO"
-msgstr ""
+msgstr "NEJ"
 
 #. STRINGS.DUPLICANTS.DISEASES.NOTIFICATION_TOOLTIP
 #, fuzzy
@@ -27348,7 +27511,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.DIARRHEA.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIARRHEA.NAME"
 msgid "Diarrhea"
-msgstr ""
+msgstr "Diarré"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DIARRHEA.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIARRHEA.TOOLTIP"
@@ -28450,7 +28613,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.ROOMPARK.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROOMPARK.NAME"
 msgid "Park"
-msgstr ""
+msgstr "Parker"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ROOMPARK.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROOMPARK.TOOLTIP"
@@ -28565,10 +28728,9 @@ msgid "This Duplicant recently had a shower and feels squeaky clean!"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME"
 msgid "Skill Level"
-msgstr "Udgravning kræver evne"
+msgstr "Sværhedsgrad"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEP.NAME"
@@ -29100,7 +29262,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.NAMETITLE
 msgctxt "STRINGS.DUPLICANTS.NAMETITLE"
 msgid "Name: "
-msgstr ""
+msgstr "Navn: "
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_MOD_NAME
 #, fuzzy
@@ -29131,7 +29293,7 @@ msgstr "Kolde omgivelser"
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.PROFESSION_NAME"
 msgid "Critic"
-msgstr ""
+msgstr "Critic"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVE_FORMAT_NEGATIVE
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVE_FORMAT_NEGATIVE"
@@ -29159,10 +29321,9 @@ msgid "Standard"
 msgstr "Standard"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_3
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_3"
 msgid "Good"
-msgstr "Den ledning er i god stand"
+msgstr "God"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_4
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_4"
@@ -29352,7 +29513,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME"
 msgid "Bubbles"
-msgstr ""
+msgstr "Bobler"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC"
@@ -29520,10 +29681,9 @@ msgid "At any given moment a {0} is viscerally reliving ten different humiliatin
 msgstr ""
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAX.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAX.NAME"
 msgid "Max"
-msgstr "Maks gas tryk"
+msgstr "Maks"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC"
@@ -29731,11 +29891,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.GROUPS.SUITS
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.SUITS"
 msgid "Suit Wearing"
-msgstr ""
-"Denne stander er klar til at modtage en <style=\"KKeyword\">Dragt</style>, enten ved manuel levering, eller fra en Duplikant som returnerer en dragt de har på"
+msgstr "Jakkesætbærende"
 
 #. STRINGS.DUPLICANTS.ROLES.HANDYMAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.HANDYMAN.DESCRIPTION"
@@ -29783,10 +29941,9 @@ msgid "Allows Duplicants to cook using the <link=\"COOKINGSTATION\">Electric Gri
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.NAME"
 msgid "<link=\"JUNIORCOOK\">Grilling</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"JUNIORCOOK\">Grille</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.DESCRIPTION"
@@ -29907,10 +30064,9 @@ msgid "No job assignment"
 msgstr "Job ikke tilladt"
 
 #. STRINGS.DUPLICANTS.ROLES.NO_ROLE.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.NO_ROLE.NAME"
 msgid "<link=\"NOROLE\">Unemployed</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"NOROLE\">Arbejdsløs</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.NUCLEAR_RESEARCHER.DESCRIPTION
 #, fuzzy
@@ -30125,7 +30281,7 @@ msgstr "Landmand"
 #. STRINGS.DUPLICANTS.SKILLGROUPS.HAULING.NAME
 msgctxt "STRINGS.DUPLICANTS.SKILLGROUPS.HAULING.NAME"
 msgid "Supplier"
-msgstr ""
+msgstr "Leverandør"
 
 #. STRINGS.DUPLICANTS.SKILLGROUPS.MEDICALAID.NAME
 msgctxt "STRINGS.DUPLICANTS.SKILLGROUPS.MEDICALAID.NAME"
@@ -30246,10 +30402,9 @@ msgid "This Duplicant's environment is <b>{0}</b>"
 msgstr "• <b>{0}</b>"
 
 #. STRINGS.DUPLICANTS.STATS.HITPOINTS.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATS.HITPOINTS.NAME"
 msgid "Health"
-msgstr "Når Duplikanter begraves, reduceres sundhedsrisici og stress i kolonien."
+msgstr "Sundhed"
 
 #. STRINGS.DUPLICANTS.STATS.HITPOINTS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.HITPOINTS.TOOLTIP"
@@ -30804,7 +30959,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.EXPOSEDTOGERMS.TIER3
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EXPOSEDTOGERMS.TIER3"
 msgid "Exposure"
-msgstr ""
+msgstr "Exposure"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EXPOSEDTOGERMS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EXPOSEDTOGERMS.TOOLTIP"
@@ -32229,7 +32384,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.THOUGHTS.CHATTY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.CHATTY.TOOLTIP"
 msgid "Greeting"
-msgstr ""
+msgstr "Hilsen"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.COLD.TOOLTIP"
@@ -33566,7 +33721,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSWARMER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSWARMER.NAME"
 msgid "Skinny"
-msgstr ""
+msgstr "Slank"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.DESC"
@@ -33946,10 +34101,9 @@ msgstr ""
 "Det har en høj varmeledningsevne og er velegntet til at bygge <link=\"POWER\">Strøm</link> systemer."
 
 #. STRINGS.ELEMENTS.ALUMINUM.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.ALUMINUM.NAME"
 msgid "<link=\"ALUMINUM\">Aluminum</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"ALUMINUM\">Aluminium</link>"
 
 #. STRINGS.ELEMENTS.ALUMINUMGAS.DESC
 msgctxt "STRINGS.ELEMENTS.ALUMINUMGAS.DESC"
@@ -34445,10 +34599,9 @@ msgstr ""
 "It is suitable for building <link=\"POWER\">Power</link> systems."
 
 #. STRINGS.ELEMENTS.ELECTRUM.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.ELECTRUM.NAME"
 msgid "<link=\"ELECTRUM\">Electrum</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"ELECTRUM\">Electrum</link>"
 
 #. STRINGS.ELEMENTS.ELEMENTDESCGAS
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCGAS"
@@ -34710,10 +34863,9 @@ msgid "Nearly Impenetrable"
 msgstr "Uigennemtrængelig"
 
 #. STRINGS.ELEMENTS.HARDNESS.HARDNESS_DESCRIPTOR.SOFT
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.HARDNESS.HARDNESS_DESCRIPTOR.SOFT"
 msgid "Soft"
-msgstr "Blødt for små Duplikanttæer."
+msgstr "Blød"
 
 #. STRINGS.ELEMENTS.HARDNESS.HARDNESS_DESCRIPTOR.VERYFIRM
 #, fuzzy
@@ -34941,10 +35093,9 @@ msgid "(He) Helium is an atomically lightweight chemical element cooled into a <
 msgstr ""
 
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.NAME"
 msgid "<link=\"LIQUIDHELIUM\">Helium</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"LIQUIDHELIUM\">Helium</link>"
 
 #. STRINGS.ELEMENTS.LIQUIDHYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHYDROGEN.DESC"
@@ -35169,10 +35320,9 @@ msgid "(Hg) Mercury is a <link=\"RAWMETAL\">Metal</link> heated into a <link=\"E
 msgstr ""
 
 #. STRINGS.ELEMENTS.MERCURYGAS.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.MERCURYGAS.NAME"
 msgid "<link=\"MERCURYGAS\">Mercury</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"MERCURYGAS\">Kviksølv</link>"
 
 #. STRINGS.ELEMENTS.METHANE.DESC
 msgctxt "STRINGS.ELEMENTS.METHANE.DESC"
@@ -35216,10 +35366,9 @@ msgid "(Co) Cobalt is a <link=\"REFINEDMETAL\">Refined Metal</link> heated into 
 msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENCOBALT.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.MOLTENCOBALT.NAME"
 msgid "<link=\"MOLTENCOBALT\">Cobalt</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"MOLTENCOBALT\">Cobalt</link>"
 
 #. STRINGS.ELEMENTS.MOLTENCOPPER.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENCOPPER.DESC"
@@ -35227,10 +35376,9 @@ msgid "(Cu) Copper is a conductive <link=\"RAWMETAL\">Metal</link> heated into a
 msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENCOPPER.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.MOLTENCOPPER.NAME"
 msgid "<link=\"MOLTENCOPPER\">Copper</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"MOLTENCOPPER\">Kobber</link>"
 
 #. STRINGS.ELEMENTS.MOLTENGLASS.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENGLASS.DESC"
@@ -35238,10 +35386,9 @@ msgid "Molten Glass is a composite of granular rock, heated into a <link=\"ELEME
 msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENGLASS.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.MOLTENGLASS.NAME"
 msgid "<link=\"MOLTENGLASS\">Glass</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"MOLTENGLASS\">Glas</link>"
 
 #. STRINGS.ELEMENTS.MOLTENGOLD.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENGOLD.DESC"
@@ -35303,10 +35450,9 @@ msgid "Steel is a <link=\"RAWMETAL\">Metal</link> alloy of iron and carbon, heat
 msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENSTEEL.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.MOLTENSTEEL.NAME"
 msgid "<link=\"MOLTENSTEEL\">Steel</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"MOLTENSTEEL\">Stål</link>"
 
 #. STRINGS.ELEMENTS.MOLTENSUCROSE.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENSUCROSE.DESC"
@@ -35404,10 +35550,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.NIOBIUMGAS.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.NIOBIUMGAS.NAME"
 msgid "<link=\"NIOBIUMGAS\">Niobium</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"NIOBIUMGAS\">Niobium</link>"
 
 #. STRINGS.ELEMENTS.NUCLEARWASTE.DESC
 msgctxt "STRINGS.ELEMENTS.NUCLEARWASTE.DESC"
@@ -35426,10 +35571,9 @@ msgid "Obsidian is a brittle composite of volcanic <link=\"GLASS\">Glass</link>.
 msgstr ""
 
 #. STRINGS.ELEMENTS.OBSIDIAN.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.NAME"
 msgid "<link=\"OBSIDIAN\">Obsidian</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"OBSIDIAN\">Obsidian</link>"
 
 #. STRINGS.ELEMENTS.OXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.OXYGEN.DESC"
@@ -35607,10 +35751,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.REGOLITH.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.REGOLITH.NAME"
 msgid "<link=\"REGOLITH\">Regolith</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"REGOLITH\">Regolit</link>"
 
 #. STRINGS.ELEMENTS.ROCKGAS.DESC
 msgctxt "STRINGS.ELEMENTS.ROCKGAS.DESC"
@@ -35710,10 +35853,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.SANDSTONE.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SANDSTONE.NAME"
 msgid "<link=\"SANDSTONE\">Sandstone</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"SANDSTONE\">Sandsten</link>"
 
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.DESC
 msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.DESC"
@@ -36169,10 +36311,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.TUNGSTEN.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.NAME"
 msgid "<link=\"TUNGSTEN\">Tungsten</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"TUNGSTEN\">Tungsten</link>"
 
 #. STRINGS.ELEMENTS.TUNGSTENDISELENIDE.DESC
 msgctxt "STRINGS.ELEMENTS.TUNGSTENDISELENIDE.DESC"
@@ -37323,10 +37464,9 @@ msgid "In {0} cycles"
 msgstr "Om {0} cyklusser"
 
 #. STRINGS.GAMEPLAY_EVENTS.TIMES.NOW
-#, fuzzy
 msgctxt "STRINGS.GAMEPLAY_EVENTS.TIMES.NOW"
 msgid "Right now"
-msgstr "til højre"
+msgstr "Lige nu"
 
 #. STRINGS.GAMEPLAY_EVENTS.TIMES.UNKNOWN
 msgctxt "STRINGS.GAMEPLAY_EVENTS.TIMES.UNKNOWN"
@@ -37379,16 +37519,14 @@ msgid "Mouse"
 msgstr "Mus"
 
 #. STRINGS.INPUT.MOUSE_SCROLL_DOWN
-#, fuzzy
 msgctxt "STRINGS.INPUT.MOUSE_SCROLL_DOWN"
 msgid "Mouse Scroll Down"
-msgstr "Bryder Ned"
+msgstr "Mus Scroll Ned"
 
 #. STRINGS.INPUT.MOUSE_SCROLL_UP
-#, fuzzy
 msgctxt "STRINGS.INPUT.MOUSE_SCROLL_UP"
 msgid "Mouse Scroll Up"
-msgstr "Oplader"
+msgstr "Mus Scroll Op"
 
 #. STRINGS.INPUT.NUM
 msgctxt "STRINGS.INPUT.NUM"
@@ -37396,56 +37534,49 @@ msgid "Num"
 msgstr "Num"
 
 #. STRINGS.INPUT.PERIOD
-#, fuzzy
 msgctxt "STRINGS.INPUT.PERIOD"
 msgid "Period Key"
-msgstr "Aktiv Periode: (Kræver Analyse)"
+msgstr "Punktum Tast"
 
 #. STRINGS.INPUT.RIGHT_ALT
-#, fuzzy
 msgctxt "STRINGS.INPUT.RIGHT_ALT"
 msgid "R-Alt"
-msgstr "NULSTIL PORT (R)"
+msgstr "R-Alt"
 
 #. STRINGS.INPUT.RIGHT_CTRL
-#, fuzzy
 msgctxt "STRINGS.INPUT.RIGHT_CTRL"
 msgid "R-Ctrl"
-msgstr "NULSTIL PORT (R)"
+msgstr "R-Ctrl"
 
 #. STRINGS.INPUT.RIGHT_SHIFT
-#, fuzzy
 msgctxt "STRINGS.INPUT.RIGHT_SHIFT"
 msgid "R-Shift"
-msgstr "NULSTIL PORT (R)"
+msgstr "R-Shift"
 
 #. STRINGS.INPUT.SPACE
 msgctxt "STRINGS.INPUT.SPACE"
 msgid "Space"
-msgstr "Rum"
+msgstr "Mellemrum"
 
 #. STRINGS.INPUT.TAB
 msgctxt "STRINGS.INPUT.TAB"
 msgid "Tab"
-msgstr "Fane"
+msgstr "Tab"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY1
-#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY1"
 msgid "Building Utility 1"
-msgstr "Denne bygning kræver {1} af {0} for at fungere"
+msgstr "Building Utility 1"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY2
-#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY2"
 msgid "Building Utility 2"
-msgstr "Prioritet 2"
+msgstr "Building Utility 2"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY3
-#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY3"
 msgid "Building Utility 3"
-msgstr "Prioritet 3"
+msgstr "Building Utility 3"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.NAME
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.NAME"
@@ -37453,58 +37584,49 @@ msgid "Building"
 msgstr "Bygning"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.TOGGLEENABLED
-#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.TOGGLEENABLED"
 msgid "Toggle Enabled"
-msgstr "Signalskift"
+msgstr "Skifte Aktive"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.TOGGLEOPEN
-#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.TOGGLEOPEN"
 msgid "Toggle Open"
-msgstr "Åben"
+msgstr "Skifte Åbne"
 
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMACAMENABLE
-#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMACAMENABLE"
 msgid "Cinema Cam Enable"
-msgstr "Aktiver automatisk reperation"
+msgstr "Cinema Cam Enable"
 
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAPANDOWN
-#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAPANDOWN"
 msgid "Cinema Pan Down"
-msgstr "Bryder Ned"
+msgstr "Cinema Pan Down"
 
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAPANLEFT
-#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAPANLEFT"
 msgid "Cinema Pan Left"
-msgstr "til venstre"
+msgstr "Cinema Pan Left"
 
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAPANRIGHT
-#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAPANRIGHT"
 msgid "Cinema Pan Right"
-msgstr "til højre"
+msgstr "Cinema Pan Right"
 
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAPANUP
-#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAPANUP"
 msgid "Cinema Pan Up"
-msgstr "Oplader"
+msgstr "Cinema Pan Up"
 
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMATOGGLEEASING
-#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMATOGGLEEASING"
 msgid "Cinema Toggle Easing"
-msgstr "Afventer Skif ved start af tid"
+msgstr "Cinema Toggle Easing"
 
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMATOGGLELOCK
-#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMATOGGLELOCK"
 msgid "Cinema Toggle Lock"
-msgstr "Lås"
+msgstr "Cinema Toggle Lock"
 
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAZOOMIN
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAZOOMIN"
@@ -37512,10 +37634,9 @@ msgid "Cinema Zoom In"
 msgstr "Biograf Zoom In"
 
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAZOOMOUT
-#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAZOOMOUT"
 msgid "Cinema Zoom Out"
-msgstr "Ude af drift"
+msgstr "Cinema Zoom Out"
 
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAZOOMSPEEDMINUS
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAZOOMSPEEDMINUS"
@@ -38429,10 +38550,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.COOKEDEGG.NAME
-#, fuzzy
 msgctxt "STRINGS.ITEMS.FOOD.COOKEDEGG.NAME"
 msgid "<link=\"COOKEDEGG\">Omelette</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"COOKEDEGG\">Omelet</link>"
 
 #. STRINGS.ITEMS.FOOD.COOKEDEGG.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.COOKEDEGG.RECIPEDESC"
@@ -38467,10 +38587,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.COOKEDMEAT.NAME
-#, fuzzy
 msgctxt "STRINGS.ITEMS.FOOD.COOKEDMEAT.NAME"
 msgid "<link=\"COOKEDMEAT\">Barbeque</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"COOKEDMEAT\">Grillmad</link>"
 
 #. STRINGS.ITEMS.FOOD.COOKEDMEAT.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.COOKEDMEAT.RECIPEDESC"
@@ -39231,7 +39350,7 @@ msgstr ""
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.NAME
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.NAME"
 msgid "Microchip"
-msgstr ""
+msgstr "Mikrochip"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.TINKER_EFFECT_NAME
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.TINKER_EFFECT_NAME"
@@ -39768,10 +39887,9 @@ msgid "I've added a new log entry to my Database"
 msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.CODEXUNLOCK.NAME
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.CODEXUNLOCK.NAME"
 msgid "New Log Entry"
-msgstr "NYT SPIL"
+msgstr "Ny logpost"
 
 #. STRINGS.MISC.NOTIFICATIONS.CODEXUNLOCK.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.CODEXUNLOCK.TOOLTIP"
@@ -40118,17 +40236,17 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.FOODSTALE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODSTALE.NAME"
 msgid "Food has become stale"
-msgstr ""
+msgstr "Mad er blevet muggent"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODSTALE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODSTALE.TOOLTIP"
 msgid "These <link=\"FOOD\">Food</link> items have become stale and could rot if not stored:"
-msgstr ""
+msgstr "Disse <link=\"FOOD\">Mad</link>varer er blevet mugne og kan rådne hvis ikke de bliver opbevaret:"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.NAME"
 msgid "The colony is entering a cloud of gas"
-msgstr ""
+msgstr "Kolonien er på vej ind i en gassky"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.TOOLTIP"
@@ -40148,7 +40266,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.NAME"
 msgid "The colony is once again in open space"
-msgstr ""
+msgstr "Kolonien er atter tilbage i det tomme rum"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.TOOLTIP"
@@ -40158,7 +40276,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.NAME"
 msgid "The gas cloud is at its densest point"
-msgstr ""
+msgstr "Dette er gasskyens mest tætte punkt"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.TOOLTIP"
@@ -40173,12 +40291,12 @@ msgstr "En gas sky nærmer sig"
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.TOOLTIP"
 msgid "A toxic <style=\"KKeyword\">Gas</style> cloud will soon envelop the colony"
-msgstr ""
+msgstr "En giftig <style=\"KKeyword\">Gas</style>sky vil snart lægge sig om kolonien"
 
 #. STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.NAME"
 msgid "Genes Shuffled"
-msgstr ""
+msgstr "Gener Blandet"
 
 #. STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.SUFFIX
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.SUFFIX"
@@ -40188,17 +40306,17 @@ msgstr " har udviklet <style=\"KKeyword\">{0}</style>"
 #. STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.TOOLTIP"
 msgid "These Duplicants had their genetic makeup modified:"
-msgstr ""
+msgstr "Disse Duplikanter har fået ændret deres genetiske sammensætning:"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALING.NAME"
 msgid "Healing"
-msgstr "Herlbreder"
+msgstr "Helbreder"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALING.TOOLTIP"
 msgid "This Duplicant is recovering from an injury"
-msgstr ""
+msgstr "Denne Duplikant er ved at kommer sig efter en skade"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.NAME"
@@ -40213,12 +40331,12 @@ msgstr " har udviklet <style=\"KKeyword\">{0}</style>"
 #. STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.TOOLTIP"
 msgid "These Duplicants' injuries weren't set and healed improperly. They developed <style=\"KKeyword\">Traits</style> as a result:"
-msgstr ""
+msgstr "Disse Duplikanters skader blev ikke behandlet korrekt. De har udviklet <style=\"KKeyword\">Egenskaber</style>:"
 
 #. STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.NAME"
 msgid "No <link=\"WASHBASIN\">Wash Basin</link> built"
-msgstr ""
+msgstr "Intet <link=\"WASHBASIN\">Vaskefad</link> bygget"
 
 #. STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.TOOLTIP"
@@ -40227,6 +40345,9 @@ msgid ""
 "------------------\n"
 "<link=\"WASHBASIN\">Wash Basins</link> can be built from the <b>Medicine Tab</b> <b><color=#F44A4A>[8]</b></color>"
 msgstr ""
+"<link=\"DISEASE\">Bakterier</link> spreder sig i kolonien, fordi mine Duplikanter ikke har nogle steder at vaske sig\n"
+"------------------\n"
+"<link=\"WASHBASIN\">Vaskefade</link> kan bygges fra <b>Medicin Fanen</b> <b><color=#F44A4A>[8]</b></color>"
 
 #. STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME"
@@ -40236,13 +40357,12 @@ msgstr "Printbare er blevet reabsorberede"
 #. STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.TOOLTIP"
 msgid "The care packages have been disintegrated and printable Duplicants have been Oozed"
-msgstr ""
+msgstr "Forsyningspakkerne er blevet desintegreret and printbare Duplikanter er blevet Slimificeret"
 
 #. STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME"
 msgid "Duplicants' expectations increased"
-msgstr "Disse Duplikanter er fanget:"
+msgstr "Duplikanters forventninger øget"
 
 #. STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.TOOLTIP"
@@ -40250,12 +40370,13 @@ msgid ""
 "Duplicants require better amenities over time.\n"
 "These Duplicants have increased their expectations:"
 msgstr ""
+"Duplikanter kræver bedre bekvemmeligheder over tid.\n"
+"Disse Duplikanter har øget deres forventninger:"
 
 #. STRINGS.MISC.NOTIFICATIONS.INSUFFICIENTOXYGENLASTCYCLE.NAME
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INSUFFICIENTOXYGENLASTCYCLE.NAME"
 msgid "Insufficient Oxygen generation"
-msgstr "<b>Velkommen til Oxygen Not Included!</b>"
+msgstr "Utilstrækkelig Ilt produktion"
 
 #. STRINGS.MISC.NOTIFICATIONS.INSUFFICIENTOXYGENLASTCYCLE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INSUFFICIENTOXYGENLASTCYCLE.TOOLTIP"
@@ -40267,6 +40388,12 @@ msgid ""
 "• <link=\"OXYGEN\">Oxygen</link> produced last cycle: {EmittingRate}\n"
 "• Consumed last cycle: {ConsumptionRate}"
 msgstr ""
+"Min koloni bruger mere <link=\"OXYGEN\">Ilt</link> end den producerer, og vil løbe tør for luft hvis jeg ikke øger produktionen.\n"
+"\n"
+"Jeg burde kontrollere mine eksisterende ilt producerende bygninger for at sikre at de fungerer korrekt\n"
+"------------------\n"
+"• <link=\"OXYGEN\">Ilt</link> produceret sidste cyklus: {EmittingRate}\n"
+"• Forbrugt sidste cyklus: {ConsumptionRate}"
 
 #. STRINGS.MISC.NOTIFICATIONS.INSULATION.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INSULATION.MESSAGEBODY"
@@ -40277,28 +40404,31 @@ msgid ""
 "I can use a Utility building like an Ice-E Fan or a Space Heater to make an area colder or warmer. However, I will have limited success changing the "
 "temperature of a room unless I build the area with insulating tiles to prevent cold or warm air from escaping."
 msgstr ""
+"Temperaturen i et miljø kan have positive eller negative effekt på mine Duplikanters velvære, ligeså vel som planter og dyr i min koloni. Ved at taste "
+"<b><color=#F44A4A>[F3]</b></color> åbnes Temperatur Panelet, hvor jeg kan kontrollere om der er varme eller kolde områder.\n"
+"\n"
+"Jeg kan bruge en forsyningsbygning som en Is Blæser eller en Rumvarmer til at gøre et område koldere eller varmere. Jeg vil dog kun have begrænset success "
+"med at ændre temperaturen i et rum med mindre jeg bygger området med isolerende fliser for at forhindre kold eller varm luft i at undslippe."
 
 #. STRINGS.MISC.NOTIFICATIONS.INSULATION.NAME
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INSULATION.NAME"
 msgid "Video: Insulation"
-msgstr "Isolation"
+msgstr "Video: Isolering"
 
 #. STRINGS.MISC.NOTIFICATIONS.INSULATION.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INSULATION.TOOLTIP"
 msgid "Notes on effective temperature management"
-msgstr ""
+msgstr "Noter om effektiv temperaturregulering"
 
 #. STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.NAME
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.NAME"
 msgid "Invalid construction location"
-msgstr "Umulig Bygningsområde"
+msgstr "Ugyldigt Bygningsområde"
 
 #. STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.TOOLTIP"
 msgid "These buildings cannot be constructed in the planned areas:"
-msgstr ""
+msgstr "Disse bygninger kan ikke konstrueres i de planlagte områder:"
 
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.NAME"
@@ -41072,7 +41202,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.CLEANING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.NAME"
 msgid "Cleaning"
-msgstr ""
+msgstr "Rengøring"
 
 #. STRINGS.MISC.STATUSITEMS.CLEANING.TOOLTIP
 #, fuzzy
@@ -41177,7 +41307,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.NAME"
 msgid "Severe"
-msgstr ""
+msgstr "Alvorlig"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.TOOLTIP"
@@ -44561,7 +44691,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.PREFIX.THE
 msgctxt "STRINGS.NAMEGEN.ROCKET.PREFIX.THE"
 msgid "The"
-msgstr ""
+msgstr "Butikkens"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.I
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.I"
@@ -44606,7 +44736,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.V
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.V"
 msgid "V"
-msgstr ""
+msgstr "V"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.VI
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.VI"
@@ -44641,7 +44771,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.XL
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XL"
 msgid "XL"
-msgstr ""
+msgstr "XL"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.XLI
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XLI"
@@ -45475,10 +45605,9 @@ msgid "Objectively the most stylish way for Duplicants to get around."
 msgstr ""
 
 #. STRINGS.RESEARCH.TECHS.JETPACKS.NAME
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.TECHS.JETPACKS.NAME"
 msgid "<link=\"JETPACKS\">Jetpacks</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"JETPACKS\">Jetpacks</link>"
 
 #. STRINGS.RESEARCH.TECHS.JOBS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.JOBS.DESC"
@@ -45835,10 +45964,9 @@ msgid "High temperatures facilitate the production of purer, special use metal r
 msgstr ""
 
 #. STRINGS.RESEARCH.TECHS.SMELTING.NAME
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.TECHS.SMELTING.NAME"
 msgid "<link=\"SMELTING\">Smelting</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"SMELTING\">Smeltning</link>"
 
 #. STRINGS.RESEARCH.TECHS.SOLIDMANAGEMENT.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDMANAGEMENT.DESC"
@@ -46062,7 +46190,7 @@ msgstr ""
 #. STRINGS.ROBOTS.CATEGORY_NAME
 msgctxt "STRINGS.ROBOTS.CATEGORY_NAME"
 msgid "Robots"
-msgstr ""
+msgstr "Robots"
 
 #. STRINGS.ROBOTS.MODELS.SCOUT.DESC
 msgctxt "STRINGS.ROBOTS.MODELS.SCOUT.DESC"
@@ -46311,10 +46439,9 @@ msgid "Requires two or more Cots or Comfy Beds"
 msgstr ""
 
 #. STRINGS.ROOMS.CRITERIA.BED_MULTIPLE.NAME
-#, fuzzy
 msgctxt "STRINGS.ROOMS.CRITERIA.BED_MULTIPLE.NAME"
 msgid "Beds"
-msgstr "Koloni kræver senge"
+msgstr "Senge"
 
 #. STRINGS.ROOMS.CRITERIA.BED_SINGLE.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.BED_SINGLE.DESCRIPTION"
@@ -46818,15 +46945,9 @@ msgid "- Enables Grooming Station use"
 msgstr "- Åbner for brug af en Dyrepleje Station"
 
 #. STRINGS.ROOMS.TYPES.CREATUREPEN.NAME
-#, fuzzy
 msgctxt "STRINGS.ROOMS.TYPES.CREATUREPEN.NAME"
 msgid "Stable"
-msgstr ""
-"Tillader den tildelte <link=\"RANCHER\">Dyrepasser</link> at tage sig af <link=\"CRITTERS\">Dyr</link>.\n"
-"\n"
-"Tildeldte Duplikanter skal have egenskaben <link=\"RANCHER\">Dyrepasser</link>.\n"
-"\n"
-"Denne bygning er en nødvendig del af Staldrummet."
+msgstr "Stabil"
 
 #. STRINGS.ROOMS.TYPES.CREATUREPEN.TOOLTIP
 msgctxt "STRINGS.ROOMS.TYPES.CREATUREPEN.TOOLTIP"
@@ -46980,7 +47101,7 @@ msgstr "- Moral bonus"
 #. STRINGS.ROOMS.TYPES.PARK.NAME
 msgctxt "STRINGS.ROOMS.TYPES.PARK.NAME"
 msgid "Park"
-msgstr ""
+msgstr "Parker"
 
 #. STRINGS.ROOMS.TYPES.PARK.TOOLTIP
 msgctxt "STRINGS.ROOMS.TYPES.PARK.TOOLTIP"
@@ -47104,7 +47225,7 @@ msgstr ""
 #. STRINGS.SUBWORLDS.FOREST.NAME
 msgctxt "STRINGS.SUBWORLDS.FOREST.NAME"
 msgid "Forest"
-msgstr ""
+msgstr "Skov"
 
 #. STRINGS.SUBWORLDS.FOREST.UTILITY
 msgctxt "STRINGS.SUBWORLDS.FOREST.UTILITY"
@@ -47228,7 +47349,7 @@ msgstr ""
 #. STRINGS.SUBWORLDS.METALLIC.NAME
 msgctxt "STRINGS.SUBWORLDS.METALLIC.NAME"
 msgid "Metallic"
-msgstr ""
+msgstr "Metallisk"
 
 #. STRINGS.SUBWORLDS.METALLIC.UTILITY
 msgctxt "STRINGS.SUBWORLDS.METALLIC.UTILITY"
@@ -47260,7 +47381,7 @@ msgstr ""
 #. STRINGS.SUBWORLDS.OCEAN.NAME
 msgctxt "STRINGS.SUBWORLDS.OCEAN.NAME"
 msgid "Ocean"
-msgstr ""
+msgstr "Hav"
 
 #. STRINGS.SUBWORLDS.OCEAN.UTILITY
 msgctxt "STRINGS.SUBWORLDS.OCEAN.UTILITY"
@@ -47409,7 +47530,7 @@ msgstr "Tilgængelig"
 #. STRINGS.UI.ALLRESOURCESSCREEN.FIRST_FRAME_NO_DATA
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.FIRST_FRAME_NO_DATA"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.NAME
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.NAME"
@@ -47439,7 +47560,7 @@ msgstr "RESOURCER"
 #. STRINGS.UI.ALLRESOURCESSCREEN.SEARCH
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.SEARCH"
 msgid "Search"
-msgstr ""
+msgstr "Søg"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.SEARCH_PLACEHODLER
 #, fuzzy
@@ -48788,7 +48909,7 @@ msgstr ""
 #. STRINGS.UI.CALCULATING
 msgctxt "STRINGS.UI.CALCULATING"
 msgid "Calculating..."
-msgstr ""
+msgstr "Beregner..."
 
 #. STRINGS.UI.CANCELPLACEINRECEPTACLE
 msgctxt "STRINGS.UI.CANCELPLACEINRECEPTACLE"
@@ -48860,7 +48981,7 @@ msgstr ""
 #. STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE"
 msgid "ADDITIONAL INFORMATION"
-msgstr ""
+msgstr "YDERLIGERE OPLYSNINGER"
 
 #. STRINGS.UI.CHARACTERCONTAINER_JOYTRAIT
 #, fuzzy
@@ -48876,7 +48997,7 @@ msgstr "{0}: {1}"
 #. STRINGS.UI.CHARACTERCONTAINER_NOARCHETYPESELECTED
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_NOARCHETYPESELECTED"
 msgid "Random"
-msgstr ""
+msgstr "Tilfældig"
 
 #. STRINGS.UI.CHARACTERCONTAINER_SKILL_VALUE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_SKILL_VALUE"
@@ -49192,10 +49313,9 @@ msgstr ""
 "\">Sygdom</link>."
 
 #. STRINGS.UI.CODEX.CATEGORYNAMES.ELEMENTS
-#, fuzzy
 msgctxt "STRINGS.UI.CODEX.CATEGORYNAMES.ELEMENTS"
 msgid "<link=\"ELEMENTS\">Elements</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"ELEMENTS\">Elementer</link>"
 
 #. STRINGS.UI.CODEX.CATEGORYNAMES.ELEMENTSGAS
 #, fuzzy
@@ -49249,10 +49369,9 @@ msgid "<link=\"INVESTIGATIONS\">Investigations</link>"
 msgstr "<link=\"BUILDCATEGORYREFINING\">Refinement</link>"
 
 #. STRINGS.UI.CODEX.CATEGORYNAMES.JOURNALS
-#, fuzzy
 msgctxt "STRINGS.UI.CODEX.CATEGORYNAMES.JOURNALS"
 msgid "<link=\"JOURNALS\">Journals</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"JOURNALS\">Journaler</link>"
 
 #. STRINGS.UI.CODEX.CATEGORYNAMES.MISCELLANEOUSITEMS
 msgctxt "STRINGS.UI.CODEX.CATEGORYNAMES.MISCELLANEOUSITEMS"
@@ -49301,10 +49420,9 @@ msgid "<link=\"HOME\">Index</link>"
 msgstr "<link=\"BED\">Køje</link>"
 
 #. STRINGS.UI.CODEX.CATEGORYNAMES.SICKNESS
-#, fuzzy
 msgctxt "STRINGS.UI.CODEX.CATEGORYNAMES.SICKNESS"
 msgid "<link=\"SICKNESS\">Sickness</link>"
-msgstr "<link=\"BEEHIVE\">Bistade</link>"
+msgstr "<link=\"SICKNESS\">Sygdom</link>"
 
 #. STRINGS.UI.CODEX.CATEGORYNAMES.SYSTEMS
 #, fuzzy
@@ -49335,16 +49453,14 @@ msgid "I've added a new entry to my log: {codex}\n"
 msgstr ""
 
 #. STRINGS.UI.CODEX.CODEX_DISCOVERED_MESSAGE.TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.CODEX.CODEX_DISCOVERED_MESSAGE.TITLE"
 msgid "New Log Entry"
-msgstr "NYT SPIL"
+msgstr "Ny logpost"
 
 #. STRINGS.UI.CODEX.DETAILS
-#, fuzzy
 msgctxt "STRINGS.UI.CODEX.DETAILS"
 msgid "Details"
-msgstr "Rumdetaljer"
+msgstr "Detaljer"
 
 #. STRINGS.UI.CODEX.EQUIPMENT.DESC
 #, fuzzy
@@ -49443,7 +49559,7 @@ msgstr ""
 #. STRINGS.UI.CODEX.TIPS
 msgctxt "STRINGS.UI.CODEX.TIPS"
 msgid "Tips"
-msgstr ""
+msgstr "Tips"
 
 #. STRINGS.UI.CODEX.TITLE
 msgctxt "STRINGS.UI.CODEX.TITLE"
@@ -49527,10 +49643,9 @@ msgid "<b>Battery</b>"
 msgstr "<b>Velkommen til Oxygen Not Included!</b>"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.ALL_NAME
-#, fuzzy
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.ALL_NAME"
 msgid "Beds"
-msgstr "Koloni kræver senge"
+msgstr "Senge"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.MISSING_ASSIGNMENT
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.MISSING_ASSIGNMENT"
@@ -50022,12 +50137,12 @@ msgstr "ANNULLER"
 #. STRINGS.UI.CONFIRMDIALOG.DIALOG_HEADER
 msgctxt "STRINGS.UI.CONFIRMDIALOG.DIALOG_HEADER"
 msgid "MESSAGE"
-msgstr ""
+msgstr "BESKED"
 
 #. STRINGS.UI.CONFIRMDIALOG.OK
 msgctxt "STRINGS.UI.CONFIRMDIALOG.OK"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. STRINGS.UI.CONSUMABLES
 msgctxt "STRINGS.UI.CONSUMABLES"
@@ -50129,7 +50244,7 @@ msgstr "Indstillingerne Gemt"
 #. STRINGS.UI.COPY_BUILDING
 msgctxt "STRINGS.UI.COPY_BUILDING"
 msgid "Copy"
-msgstr ""
+msgstr "Kopier"
 
 #. STRINGS.UI.COPY_BUILDING_TOOLTIP
 msgctxt "STRINGS.UI.COPY_BUILDING_TOOLTIP"
@@ -50264,7 +50379,7 @@ msgstr ""
 #. STRINGS.UI.CREDITSSCREEN.TITLE
 msgctxt "STRINGS.UI.CREDITSSCREEN.TITLE"
 msgid "CREDITS"
-msgstr ""
+msgstr "KREDIT"
 
 #. STRINGS.UI.DEBUG_TOOLS.DEBUG_ACTIVE
 #, fuzzy
@@ -50317,7 +50432,7 @@ msgstr "Element"
 #. STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.FILL
 msgctxt "STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.FILL"
 msgid "Fill"
-msgstr ""
+msgstr "Udfyld"
 
 #. STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.MASS_KG
 #, fuzzy
@@ -50339,7 +50454,7 @@ msgstr ""
 #. STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.SAMPLE
 msgctxt "STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.SAMPLE"
 msgid "Sample"
-msgstr ""
+msgstr "Prøve"
 
 #. STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.SPAWN_ALL
 #, fuzzy
@@ -50394,10 +50509,9 @@ msgid "More"
 msgstr "Mere"
 
 #. STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.SAVE_TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.SAVE_TITLE"
 msgid "Save Selection"
-msgstr "Gem Som"
+msgstr "Gem Valgte"
 
 #. STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.SELECTION_INFO_PANEL.AVERAGE_MASS
 #, fuzzy
@@ -50590,7 +50704,7 @@ msgstr "BÅREDE TING"
 #. STRINGS.UI.DETAILTABS.DETAILS.MINION_NAME
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.MINION_NAME"
 msgid "About"
-msgstr ""
+msgstr "Om"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.MINION_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.MINION_TOOLTIP"
@@ -50600,7 +50714,7 @@ msgstr "Mere information"
 #. STRINGS.UI.DETAILTABS.DETAILS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NAME"
 msgid "Properties"
-msgstr ""
+msgstr "Ejendomme"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.NET_STRESS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NET_STRESS"
@@ -50689,7 +50803,7 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.HALF_LIFE_NEUTRAL
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.HALF_LIFE_NEUTRAL"
 msgid "Static"
-msgstr ""
+msgstr "Statisk"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.HALF_LIFE_NEUTRAL_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.HALF_LIFE_NEUTRAL_TOOLTIP"
@@ -51051,7 +51165,7 @@ msgstr "Næste Niveau: {0}"
 #. STRINGS.UI.DETAILTABS.NEEDS.OVERVIEW
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.OVERVIEW"
 msgid "Overview"
-msgstr ""
+msgstr "Oversigt"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.STRESS_CREATORS
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.STRESS_CREATORS"
@@ -51119,7 +51233,7 @@ msgstr "Denne Duplikant er ikke blevet tildelt en {0}"
 #. STRINGS.UI.DETAILTABS.PERSONALITY.GROUPNAME_BIO
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.GROUPNAME_BIO"
 msgid "ABOUT"
-msgstr ""
+msgstr "OM"
 
 #. STRINGS.UI.DETAILTABS.PERSONALITY.GROUPNAME_RESUME
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.GROUPNAME_RESUME"
@@ -51129,7 +51243,7 @@ msgstr "{0}'S RESUME"
 #. STRINGS.UI.DETAILTABS.PERSONALITY.NAME
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.NAME"
 msgid "Bio"
-msgstr ""
+msgstr "Biografi"
 
 #. STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.APTITUDES.NAME
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.APTITUDES.NAME"
@@ -51259,7 +51373,7 @@ msgstr "TILSTAND"
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_DESCRIPTION
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_DESCRIPTION"
 msgid "INFORMATION"
-msgstr ""
+msgstr "INFORMATION"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_ELEMENTS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_ELEMENTS"
@@ -51354,7 +51468,7 @@ msgstr ""
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.HEALTHY_MESSAGE.CONTINUEBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.HEALTHY_MESSAGE.CONTINUEBUTTON"
 msgid "Thanks!"
-msgstr ""
+msgstr "Tak!"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.BODY"
@@ -51427,7 +51541,7 @@ msgstr "Full Patch Notes"
 #. STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_VERSION
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_VERSION"
 msgid "Previous Version"
-msgstr ""
+msgstr "Forrige version"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.TESTING_MESSAGE
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.TESTING_MESSAGE"
@@ -51528,7 +51642,7 @@ msgstr ""
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.SEARCH
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.SEARCH"
 msgid "Search"
-msgstr ""
+msgstr "Søg"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.SEE_ALL
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.SEE_ALL"
@@ -51968,7 +52082,7 @@ msgstr "min koloni"
 #. STRINGS.UI.ENDOFDAYREPORT.NET
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NET"
 msgid "Net"
-msgstr ""
+msgstr "Netto"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NEXT"
@@ -52132,12 +52246,12 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.PREV
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.PREV"
 msgid "Prev"
-msgstr ""
+msgstr "Forrige"
 
 #. STRINGS.UI.ENDOFDAYREPORT.REMOVED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REMOVED"
 msgid "Removed"
-msgstr ""
+msgstr "Fjernet "
 
 #. STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE"
@@ -52267,7 +52381,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MUSIC
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MUSIC"
 msgid "Music"
-msgstr ""
+msgstr "Musik"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_SFX
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_SFX"
@@ -52342,7 +52456,7 @@ msgstr "Hver: {0} cyklus(ser)"
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_NEVER
 msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_NEVER"
 msgid "Never"
-msgstr ""
+msgstr "Aldrig"
 
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.DESCRIPTION
 msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.DESCRIPTION"
@@ -52397,7 +52511,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLE
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLE"
 msgid "Shuffle"
-msgstr ""
+msgstr "Bland"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLETOOLTIP"
@@ -52425,7 +52539,7 @@ msgstr "VÆLG EN DESTINATION"
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DEFAULT.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DEFAULT.NAME"
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DEFAULT.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DEFAULT.TOOLTIP"
@@ -52621,7 +52735,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.DEFAULT.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.DEFAULT.NAME"
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.DEFAULT.TOOLTIP
 #, fuzzy
@@ -52691,7 +52805,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DEFAULT.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DEFAULT.NAME"
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DEFAULT.TOOLTIP
 #, fuzzy
@@ -52794,7 +52908,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.NAME"
 msgid "Sandbox Mode"
-msgstr ""
+msgstr "Sandbox Mode"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.TOOLTIP"
@@ -52846,7 +52960,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.DEFAULT.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.DEFAULT.NAME"
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.DEFAULT.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.DEFAULT.TOOLTIP"
@@ -52958,10 +53072,9 @@ msgid "Determines whether Duplicants wreak havoc on the colony when they reach m
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_CHOICE.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_CHOICE.NAME"
 msgid "World"
-msgstr "Bruger valgte verdens generator frø:: "
+msgstr "Verden"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_CHOICE.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_CHOICE.TOOLTIP"
@@ -53009,10 +53122,9 @@ msgid "DONE"
 msgstr "FÆRDIG"
 
 #. STRINGS.UI.FRONTEND.FEEDBACK_SCREEN.BUG_FORUMS_BUTTON
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.FEEDBACK_SCREEN.BUG_FORUMS_BUTTON"
 msgid "Report a Bug"
-msgstr "RAPPORTER NEDBRUD"
+msgstr "Rapporter en fejl"
 
 #. STRINGS.UI.FRONTEND.FEEDBACK_SCREEN.DESCRIPTION
 msgctxt "STRINGS.UI.FRONTEND.FEEDBACK_SCREEN.DESCRIPTION"
@@ -53164,12 +53276,12 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.APPLYBUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.APPLYBUTTON"
 msgid "Apply"
-msgstr ""
+msgstr "Anvend"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_DEFAULT
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_DEFAULT"
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_DEUTERANOPIA
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_DEUTERANOPIA"
@@ -53198,10 +53310,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLORBLIND_FEEDBACK_BUTTON
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLORBLIND_FEEDBACK_BUTTON"
 msgid "Provide Feedback"
-msgstr "FEEDBACK"
+msgstr "Give feedback"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLORMODE
 #, fuzzy
@@ -53222,7 +53333,7 @@ msgstr "Fuld skærm"
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_DISPLAY
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_DISPLAY"
 msgid "DISPLAY"
-msgstr ""
+msgstr "Vis"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_UI
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_UI"
@@ -53314,7 +53425,7 @@ msgstr "Base"
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CLOUD_SAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CLOUD_SAVE"
 msgid "cloud"
-msgstr ""
+msgstr "sky"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CLOUD_TUTORIAL_BOUNCER
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CLOUD_TUTORIAL_BOUNCER"
@@ -53362,7 +53473,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONTENT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONTENT"
 msgid "Content"
-msgstr ""
+msgstr "Indhold"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_COLONIES
 #, fuzzy
@@ -53613,10 +53724,9 @@ msgid "Newest Save"
 msgstr "Gem Som"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.NO_FILE_SELECTED
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.NO_FILE_SELECTED"
 msgid "No file selected"
-msgstr "VALGT"
+msgstr "Ingen fil valgt"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.NO_PREVIEW
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.NO_PREVIEW"
@@ -54333,12 +54443,12 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.MODS.MANAGE
 msgctxt "STRINGS.UI.FRONTEND.MODS.MANAGE"
 msgid "Subscription"
-msgstr ""
+msgstr "Abonnement"
 
 #. STRINGS.UI.FRONTEND.MODS.MANAGE_LOCAL
 msgctxt "STRINGS.UI.FRONTEND.MODS.MANAGE_LOCAL"
 msgid "Browse"
-msgstr ""
+msgstr "Gennemse"
 
 #. STRINGS.UI.FRONTEND.MODS.MOD_DISABLED_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.MODS.MOD_DISABLED_CONTENT"
@@ -54459,15 +54569,14 @@ msgid "Done"
 msgstr "Færdig"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CONTROLS
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CONTROLS"
 msgid "Controls"
-msgstr "Dørkontroller kan bruges til at forhindre Duplikanter i at gå ind i forbudte områder."
+msgstr "Kontroller"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CREDITS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CREDITS"
 msgid "Credits"
-msgstr ""
+msgstr "Krediteringer"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.FEEDBACK
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.FEEDBACK"
@@ -54475,10 +54584,9 @@ msgid "Feedback"
 msgstr "Feedback"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GAME
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GAME"
 msgid "Game"
-msgstr "NYT SPIL"
+msgstr "Spil"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GRAPHICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GRAPHICS"
@@ -54514,10 +54622,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.SAVE_OPTIONS
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.SAVE_OPTIONS"
 msgid "Save Options"
-msgstr "INDSTILLINGER"
+msgstr "Gem Indstillinger"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TITLE"
@@ -54536,10 +54643,9 @@ msgid "Cancel"
 msgstr "Annuller"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM"
 msgid "Enable Sandbox Mode"
-msgstr "Aktiver automatisk reperation"
+msgstr "Aktiver Sandbox-tilstand"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM_SAVE_BACKUP
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM_SAVE_BACKUP"
@@ -54570,7 +54676,7 @@ msgstr "INDLÆSER VERDEN..."
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.COLONY_SUMMARY
 #, fuzzy
@@ -54802,15 +54908,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.SCENARIOS_MENU.SCENARIO_DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.SCENARIOS_MENU.SCENARIO_DESCRIPTION"
 msgid "Description"
-msgstr "VALGFRI FEJLBESKRIVELSE"
+msgstr "Beskrivelse"
 
 #. STRINGS.UI.FRONTEND.SCENARIOS_MENU.SCENARIO_NAME
 msgctxt "STRINGS.UI.FRONTEND.SCENARIOS_MENU.SCENARIO_NAME"
 msgid "Name:"
-msgstr ""
+msgstr "Navn:"
 
 #. STRINGS.UI.FRONTEND.SCENARIOS_MENU.TITLE
 msgctxt "STRINGS.UI.FRONTEND.SCENARIOS_MENU.TITLE"
@@ -54820,7 +54925,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.SCENARIOS_MENU.UNSUBSCRIBE
 msgctxt "STRINGS.UI.FRONTEND.SCENARIOS_MENU.UNSUBSCRIBE"
 msgid "Unsubscribe"
-msgstr ""
+msgstr "Afmeld"
 
 #. STRINGS.UI.FRONTEND.SCENARIOS_MENU.UNSUBSCRIBE_CONFIRM
 msgctxt "STRINGS.UI.FRONTEND.SCENARIOS_MENU.UNSUBSCRIBE_CONFIRM"
@@ -54947,13 +55052,12 @@ msgstr "Start Spil"
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALL
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALL"
 msgid "Install"
-msgstr ""
+msgstr "Installer"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALLED
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALLED"
 msgid "Installed"
-msgstr "    • Kommandomodul er allerede installeret"
+msgstr "Installeret"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.MISSING_LANGUAGE_PACK
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.MISSING_LANGUAGE_PACK"
@@ -55037,7 +55141,7 @@ msgstr "Ukendt"
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS"
 msgid "Celsius"
-msgstr ""
+msgstr "Celsius"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP"
@@ -55047,7 +55151,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT"
 msgid "Fahrenheit"
-msgstr ""
+msgstr "Fahrenheit"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP"
@@ -55057,7 +55161,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN"
 msgid "Kelvin"
-msgstr ""
+msgstr "Kelvin"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN_TOOLTIP"
@@ -55130,10 +55234,9 @@ msgid "Big"
 msgstr "Stor"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.SMALL
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.SMALL"
 msgid "Small"
-msgstr "<link=\"KEROSENEENGINECLUSTERSMALL\">Lille Petroleumsmotor</link>"
+msgstr "Lille"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.STANDARD
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.STANDARD"
@@ -55905,7 +56008,7 @@ msgstr "Nødsituation"
 #. STRINGS.UI.JOBSSCREEN.PRIORITY_CLASS.HIGH
 msgctxt "STRINGS.UI.JOBSSCREEN.PRIORITY_CLASS.HIGH"
 msgid "Urgent"
-msgstr ""
+msgstr "Haster"
 
 #. STRINGS.UI.JOBSSCREEN.PRIORITY_CLASS.IDLE
 msgctxt "STRINGS.UI.JOBSSCREEN.PRIORITY_CLASS.IDLE"
@@ -55986,10 +56089,9 @@ msgid "     {0}"
 msgstr "     {0}"
 
 #. STRINGS.UI.LOGIC_PORTS.CONTROL_OPERATIONAL
-#, fuzzy
 msgctxt "STRINGS.UI.LOGIC_PORTS.CONTROL_OPERATIONAL"
 msgid "Enable/Disable"
-msgstr "Deaktivér Manuel"
+msgstr "Aktiver/Deaktiver"
 
 #. STRINGS.UI.LOGIC_PORTS.CONTROL_OPERATIONAL_ACTIVE
 #, fuzzy
@@ -56261,10 +56363,9 @@ msgid "Fuel"
 msgstr "Brændstof"
 
 #. STRINGS.UI.METERS.HEALTH.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.METERS.HEALTH.TOOLTIP"
 msgid "Health"
-msgstr "Når Duplikanter begraves, reduceres sundhedsrisici og stress i kolonien."
+msgstr "Sundhed"
 
 #. STRINGS.UI.MINION_IDENTITY_SORT.NAME
 msgctxt "STRINGS.UI.MINION_IDENTITY_SORT.NAME"
@@ -56274,18 +56375,17 @@ msgstr "Duplikant"
 #. STRINGS.UI.MINION_IDENTITY_SORT.PERMISSION
 msgctxt "STRINGS.UI.MINION_IDENTITY_SORT.PERMISSION"
 msgid "Permission"
-msgstr ""
+msgstr "Tilladelse"
 
 #. STRINGS.UI.MINION_IDENTITY_SORT.ROLE
-#, fuzzy
 msgctxt "STRINGS.UI.MINION_IDENTITY_SORT.ROLE"
 msgid "Role"
-msgstr "Kun Duplicants tildelt {Role} jobtitlen kan bruge denne bygning"
+msgstr "Rolle"
 
 #. STRINGS.UI.MINION_IDENTITY_SORT.TITLE
 msgctxt "STRINGS.UI.MINION_IDENTITY_SORT.TITLE"
 msgid "Sort By"
-msgstr ""
+msgstr "Sorter efter"
 
 #. STRINGS.UI.MODIFIER_ITEM_TEMPLATE
 msgctxt "STRINGS.UI.MODIFIER_ITEM_TEMPLATE"
@@ -56460,16 +56560,14 @@ msgid "Keep my Duplicants' spirits high and their bellies full. {Hotkey}"
 msgstr "Hold mine Duplikanters humør højt og deres maver fulde. {Hotkey}"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.FURNITURE.BUILDMENUTITLE
-#, fuzzy
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.FURNITURE.BUILDMENUTITLE"
 msgid "Furniture"
-msgstr "<link=\"BUILDCATEGORYFURNITURE\">Møbler</link>"
+msgstr "Møbel"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.FURNITURE.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.FURNITURE.NAME"
 msgid "Furniture"
-msgstr "<link=\"BUILDCATEGORYFURNITURE\">Møbler</link>"
+msgstr "Møbel"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.FURNITURE.TOOLTIP
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.FURNITURE.TOOLTIP"
@@ -56916,10 +57014,9 @@ msgid "CONVEYOR OVERLAY"
 msgstr "Ingen Læsser"
 
 #. STRINGS.UI.OVERLAYS.CONVEYOR.OUTPUT
-#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.OUTPUT"
 msgid "Loader"
-msgstr "Ingen Læsser"
+msgstr "Læssemaskine"
 
 #. STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.INPUT
 msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.INPUT"
@@ -57058,7 +57155,7 @@ msgstr "DEKORATION"
 #. STRINGS.UI.OVERLAYS.DECOR.LIGHTING
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.LIGHTING"
 msgid "Lighting"
-msgstr ""
+msgstr "belysning"
 
 #. STRINGS.UI.OVERLAYS.DECOR.LOWDECOR
 #, fuzzy
@@ -57574,7 +57671,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.LIGHTING.RANGES.VERY_LOW_LIGHT
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.RANGES.VERY_LOW_LIGHT"
 msgid "Dark"
-msgstr ""
+msgstr "Mørk"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.DARK
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.DARK"
@@ -57823,10 +57920,9 @@ msgid ""
 msgstr "Denne sensor sender et <b><style=\"logic_off\">Rødt Signal</style></b>"
 
 #. STRINGS.UI.OVERLAYS.LOGIC.ZERO
-#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.LOGIC.ZERO"
 msgid "Red"
-msgstr "RØD ALARM"
+msgstr "Rød"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.BUTTON
 #, fuzzy
@@ -57845,7 +57941,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.HOVERTITLE"
 msgid "Acoustics"
-msgstr ""
+msgstr "Akustisk"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.LOUDNESS_STRING
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.LOUDNESS_STRING"
@@ -58101,10 +58197,9 @@ msgid "Priority Overlay"
 msgstr "Prioritet Panel"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT
-#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT"
 msgid "8"
-msgstr "Prioritet 8"
+msgstr "8"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT_TOOLTIP"
@@ -58112,10 +58207,9 @@ msgid "Priority 8"
 msgstr "Prioritet 8"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FIVE
-#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FIVE"
 msgid "5"
-msgstr "Prioritet 5"
+msgstr "5"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FIVE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FIVE_TOOLTIP"
@@ -58123,10 +58217,9 @@ msgid "Priority 5"
 msgstr "Prioritet 5"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FOUR
-#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FOUR"
 msgid "4"
-msgstr "Prioritet 4"
+msgstr "4"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FOUR_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FOUR_TOOLTIP"
@@ -58161,10 +58254,9 @@ msgid "Priority 1"
 msgstr "Prioritet 1"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN
-#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN"
 msgid "7"
-msgstr "Prioritet 7"
+msgstr "7"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN_TOOLTIP"
@@ -58172,10 +58264,9 @@ msgid "Priority 7"
 msgstr "Prioritet 7"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SIX
-#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SIX"
 msgid "6"
-msgstr "Prioritet 6"
+msgstr "6"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SIX_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SIX_TOOLTIP"
@@ -58183,10 +58274,9 @@ msgid "Priority 6"
 msgstr "Prioritet 6"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.THREE
-#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.THREE"
 msgid "3"
-msgstr "Prioritet 3"
+msgstr "3"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.THREE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.THREE_TOOLTIP"
@@ -58340,15 +58430,9 @@ msgid "Low energy state change"
 msgstr "Afventer dørtilstandsændring: {ControlState}"
 
 #. STRINGS.UI.OVERLAYS.STATECHANGE.STABLE
-#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.STATECHANGE.STABLE"
 msgid "Stable"
-msgstr ""
-"Tillader den tildelte <link=\"RANCHER\">Dyrepasser</link> at tage sig af <link=\"CRITTERS\">Dyr</link>.\n"
-"\n"
-"Tildeldte Duplikanter skal have egenskaben <link=\"RANCHER\">Dyrepasser</link>.\n"
-"\n"
-"Denne bygning er en nødvendig del af Staldrummet."
+msgstr "Stabil"
 
 #. STRINGS.UI.OVERLAYS.STATECHANGE.TOOLTIPS.HIGHPOINT
 msgctxt "STRINGS.UI.OVERLAYS.STATECHANGE.TOOLTIPS.HIGHPOINT"
@@ -59011,7 +59095,7 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.APTITUDES
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.APTITUDES"
 msgid "Interests"
-msgstr ""
+msgstr "Interesser"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.CHOREGROUP_ENABLED.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.CHOREGROUP_ENABLED.DESCRIPTION"
@@ -59917,7 +60001,7 @@ msgstr ""
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH.NAME"
 msgid "Brush"
-msgstr ""
+msgstr "Børste"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH.TOOLTIP"
@@ -59946,10 +60030,9 @@ msgid "Adjust brush noisiness A"
 msgstr "Venter på en Duplikant til at ændre gennemstrømningshastighed"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_SIZE.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_SIZE.NAME"
 msgid "Size"
-msgstr "Rumstørrelse: {0} Fliser"
+msgstr "Størrelse"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_SIZE.TOOLTIP
 #, fuzzy
@@ -60025,7 +60108,7 @@ msgstr "Element"
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.FLOOD.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.FLOOD.NAME"
 msgid "Fill"
-msgstr ""
+msgstr "Udfyld"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.FLOOD.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.FLOOD.TOOLTIP"
@@ -60113,7 +60196,7 @@ msgstr ""
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.SAMPLE.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.SAMPLE.NAME"
 msgid "Sample"
-msgstr ""
+msgstr "Prøve"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.SAMPLE.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.SAMPLE.TOOLTIP"
@@ -60170,7 +60253,7 @@ msgstr "Venter på en Duplikant til at ændre gennemstrømningshastighed"
 #. STRINGS.UI.SCHEDULE
 msgctxt "STRINGS.UI.SCHEDULE"
 msgid "SCHEDULE"
-msgstr ""
+msgstr "VAGTPLAN"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION"
@@ -60333,10 +60416,9 @@ msgid "During <style=\"KKeyword\">Work</style> shifts my Duplicants must perform
 msgstr ""
 
 #. STRINGS.UI.SCHEDULESCREEN.ADD_SCHEDULE
-#, fuzzy
 msgctxt "STRINGS.UI.SCHEDULESCREEN.ADD_SCHEDULE"
 msgid "Add New Schedule"
-msgstr "NYT SPIL"
+msgstr "Tilføj Ny Tidsplan"
 
 #. STRINGS.UI.SCHEDULESCREEN.ALARM_BUTTON
 msgctxt "STRINGS.UI.SCHEDULESCREEN.ALARM_BUTTON"
@@ -60955,7 +61037,7 @@ msgstr ""
 #. STRINGS.UI.SPACEARTIFACTS.STETHOSCOPE.NAME
 msgctxt "STRINGS.UI.SPACEARTIFACTS.STETHOSCOPE.NAME"
 msgid "Stethoscope"
-msgstr ""
+msgstr "Stetoskop"
 
 #. STRINGS.UI.SPACEARTIFACTS.TEAPOT.DESCRIPTION
 msgctxt "STRINGS.UI.SPACEARTIFACTS.TEAPOT.DESCRIPTION"
@@ -61088,7 +61170,7 @@ msgstr ""
 #. STRINGS.UI.SPACEDESTINATIONS.DEBRIS.SATELLITE.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.DEBRIS.SATELLITE.NAME"
 msgid "Satellite"
-msgstr ""
+msgstr "Satellit"
 
 #. STRINGS.UI.SPACEDESTINATIONS.DWARFPLANETS.DUSTYDWARF.DESCRIPTION
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.DWARFPLANETS.DUSTYDWARF.DESCRIPTION"
@@ -61144,10 +61226,9 @@ msgid "Salty Dwarf"
 msgstr ""
 
 #. STRINGS.UI.SPACEDESTINATIONS.EMPTY_SPACE.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.EMPTY_SPACE.NAME"
 msgid "Empty Space"
-msgstr "Tom"
+msgstr "Tom plads"
 
 #. STRINGS.UI.SPACEDESTINATIONS.FOG_OF_WAR_SPACE.NAME
 #, fuzzy
@@ -61311,7 +61392,7 @@ msgstr ""
 #. STRINGS.UI.SPEED_MEDIUM
 msgctxt "STRINGS.UI.SPEED_MEDIUM"
 msgid "MEDIUM"
-msgstr ""
+msgstr "MEDIUM"
 
 #. STRINGS.UI.SPEED_SLOW
 #, fuzzy
@@ -61860,10 +61941,9 @@ msgid "Astronaut ready for liftoff"
 msgstr "Astronaut"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INSTALLED
-#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INSTALLED"
 msgid "Installed"
-msgstr "    • Kommandomodul er allerede installeret"
+msgstr "Installeret"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INSTALLED_TOOLTIP
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INSTALLED_TOOLTIP"
@@ -62125,14 +62205,9 @@ msgid "World Mass Available"
 msgstr "{Item}: {Percent} af forbrugt masse"
 
 #. STRINGS.UI.STARMAP.LISTTITLES.DISTANCE
-#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LISTTITLES.DISTANCE"
 msgid "Distance"
-msgstr ""
-"Denne raket mangler rækkevidde for at kunne nå dens destination\n"
-"------------------\n"
-"Raket rækkevidde: {Range}\n"
-"Destination Distance: {Distance}"
+msgstr "Afstand"
 
 #. STRINGS.UI.STARMAP.LISTTITLES.FUEL
 msgctxt "STRINGS.UI.STARMAP.LISTTITLES.FUEL"
@@ -62151,10 +62226,9 @@ msgid "Mass"
 msgstr "Denne turbine kræver {MASS} af {ELEMENT} ved {TEMPERATURE} for at virke"
 
 #. STRINGS.UI.STARMAP.LISTTITLES.MAXRANGE
-#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LISTTITLES.MAXRANGE"
 msgid "Max Range"
-msgstr "Rækkevidde"
+msgstr "Max Range"
 
 #. STRINGS.UI.STARMAP.LISTTITLES.MISSIONSTATUS
 #, fuzzy
@@ -62480,10 +62554,9 @@ msgid "Rocket Status"
 msgstr "Nuværende Status: Oplader Dragt"
 
 #. STRINGS.UI.STARMAP.ROCKETSTATUS.TIMEREMAINING
-#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.ROCKETSTATUS.TIMEREMAINING"
 msgid "Time Remaining"
-msgstr "Brændstof Tilbage: "
+msgstr "Resterende tid"
 
 #. STRINGS.UI.STARMAP.ROCKETSTATUS.TOTAL
 msgctxt "STRINGS.UI.STARMAP.ROCKETSTATUS.TOTAL"
@@ -62868,7 +62941,7 @@ msgstr "Bygninger"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.CLEAN
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.CLEAN"
 msgid "Cleaning"
-msgstr ""
+msgstr "Rengøring"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR
 #, fuzzy
@@ -63105,10 +63178,9 @@ msgid "Mop tool"
 msgstr "Værktøj"
 
 #. STRINGS.UI.TOOLS.MOVETOLOCATION.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.TOOLS.MOVETOLOCATION.NAME"
 msgid "Move"
-msgstr "Flyt til"
+msgstr "Flyt"
 
 #. STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLACTION"
@@ -63161,7 +63233,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.SANDBOX.BRUSH.NAME
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.BRUSH.NAME"
 msgid "Brush"
-msgstr ""
+msgstr "Børste"
 
 #. STRINGS.UI.TOOLS.SANDBOX.CLEAR_FLOOR.HOVERACTION
 #, fuzzy
@@ -63204,7 +63276,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.SANDBOX.FLOOD.NAME
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.FLOOD.NAME"
 msgid "Fill"
-msgstr ""
+msgstr "Udfyld"
 
 #. STRINGS.UI.TOOLS.SANDBOX.FOW.HOVERACTION
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.FOW.HOVERACTION"
@@ -63252,7 +63324,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.SANDBOX.SAMPLE.NAME
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.SAMPLE.NAME"
 msgid "Sample"
-msgstr ""
+msgstr "Prøve"
 
 #. STRINGS.UI.TOOLS.SANDBOX.SANDBOX_TOGGLE.NAME
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.SANDBOX_TOGGLE.NAME"
@@ -63792,13 +63864,12 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.PAUSEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PAUSEBUTTON"
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
 #. STRINGS.UI.TOOLTIPS.PLAYBUTTON
-#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.PLAYBUTTON"
 msgid "Start"
-msgstr "Start Spil"
+msgstr "Start"
 
 #. STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING"
@@ -64048,7 +64119,7 @@ msgstr "TIP: Stress Styring"
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.DOOR_DEFAULT
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.DOOR_DEFAULT"
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_DOWN_DISABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_DOWN_DISABLED"
@@ -64184,16 +64255,14 @@ msgid "{0} is ineligible for this skill assignment"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.PUBLIC
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.PUBLIC"
 msgid "Public"
-msgstr "Tildelt til: Offentlig"
+msgstr "Offentlig"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.SORT_BY_ASSIGNMENT
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.SORT_BY_ASSIGNMENT"
 msgid "Assignment"
-msgstr "Duplikant Anvisning"
+msgstr "Opgave"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.SORT_BY_DUPLICANT
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.SORT_BY_DUPLICANT"
@@ -64214,7 +64283,7 @@ msgstr "Tildelt til {0}"
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.UNASSIGNED
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.UNASSIGNED"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNMENTGROUPCONTROLLER.OFFWORLD
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNMENTGROUPCONTROLLER.OFFWORLD"
@@ -64264,10 +64333,9 @@ msgid "Automatable Storage"
 msgstr "Opbevaring"
 
 #. STRINGS.UI.UISIDESCREENS.BASICRECEPTACLE.AWAITINGDELIVERY
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.BASICRECEPTACLE.AWAITINGDELIVERY"
 msgid "AWAITING DELIVERY: {0}"
-msgstr "Afventer Levering"
+msgstr "AFVENTER LEVERING: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.BASICRECEPTACLE.AWAITINGREMOVAL
 #, fuzzy
@@ -64410,10 +64478,9 @@ msgid "Current"
 msgstr "Nuværende"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.CHANGE_DESTINATION_BUTTON
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.CHANGE_DESTINATION_BUTTON"
 msgid "Change"
-msgstr "Skift sprog"
+msgstr "Ændre"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.CHANGE_DESTINATION_BUTTON_TOOLTIP
 #, fuzzy
@@ -64512,10 +64579,9 @@ msgid "Rocket Landing Ping"
 msgstr "Landing"
 
 #. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.SORT_BY_ASSIGNMENT
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.SORT_BY_ASSIGNMENT"
 msgid "Assignment"
-msgstr "Duplikant Anvisning"
+msgstr "Opgave"
 
 #. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.SORT_BY_DUPLICANT
 msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.SORT_BY_DUPLICANT"
@@ -64537,7 +64603,7 @@ msgstr "Scanner"
 #. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.UNASSIGNED
 msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.UNASSIGNED"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. STRINGS.UI.UISIDESCREENS.COMMAND_MODULE_SIDE_SCREEN.DESTINATION_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.COMMAND_MODULE_SIDE_SCREEN.DESTINATION_BUTTON"
@@ -64562,10 +64628,9 @@ msgid "Condition List"
 msgstr "Den ledning er i god stand"
 
 #. STRINGS.UI.UISIDESCREENS.COUNTER_SIDE_SCREEN.ADVANCED_MODE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.COUNTER_SIDE_SCREEN.ADVANCED_MODE"
 msgid "Advanced Mode"
-msgstr "Avanceret Forskning"
+msgstr "Avanceret"
 
 #. STRINGS.UI.UISIDESCREENS.COUNTER_SIDE_SCREEN.CURRENT_COUNT_ADVANCED
 msgctxt "STRINGS.UI.UISIDESCREENS.COUNTER_SIDE_SCREEN.CURRENT_COUNT_ADVANCED"
@@ -64599,10 +64664,9 @@ msgid "Reset Counter"
 msgstr "Nulstil Tæller"
 
 #. STRINGS.UI.UISIDESCREENS.COUNTER_SIDE_SCREEN.TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.COUNTER_SIDE_SCREEN.TITLE"
 msgid "Counter"
-msgstr "Intern Tællerværdi"
+msgstr "Tæller"
 
 #. STRINGS.UI.UISIDESCREENS.COUNTER_SIDE_SCREEN.TOOLTIPS.ADVANCED_MODE
 msgctxt "STRINGS.UI.UISIDESCREENS.COUNTER_SIDE_SCREEN.TOOLTIPS.ADVANCED_MODE"
@@ -64642,10 +64706,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.CRITTER_COUNT_SIDE_SCREEN.VALUE_NAME
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.CRITTER_COUNT_SIDE_SCREEN.VALUE_NAME"
 msgid "Count"
-msgstr "Antal Æg"
+msgstr "Antal"
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_FORMAT
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_FORMAT"
@@ -64666,43 +64729,34 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO"
 msgid "Door is on auto."
-msgstr "Automatisk"
+msgstr "Dør er på auto."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO_PENDING
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO_PENDING"
 msgid "Awaiting Duplicant to automate door."
-msgstr ""
+msgstr "Afventer Duplikant til at automatisere dør"
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE"
 msgid "Door is locked."
-msgstr ""
-"Nuværende Tilstand: {ControlState}\n"
-"------------------\n"
-"Auto: Duplikanter åbner og lukker denne dør som nødvendigt\n"
-"Låst: Intet må komme igennem\n"
-"Open: Denne dør vil forblive åben"
+msgstr "Dør er låst."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE_PENDING
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE_PENDING"
 msgid "Awaiting Duplicant to lock door."
-msgstr ""
+msgstr "Afventer Duplikant til at låse dør."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN"
 msgid "Door is open."
-msgstr "Denne dør vil forblive åben"
+msgstr "Dør er åben."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN_PENDING
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN_PENDING"
 msgid "Awaiting Duplicant to open door."
-msgstr "Duplikanter kan åbne og lukke denne dør efter behov"
+msgstr "Afventer Duplikant til at åbne dør."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.PENDING_FORMAT
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.PENDING_FORMAT"
@@ -64710,22 +64764,19 @@ msgid "{0} {1}"
 msgstr "{0} {1}"
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.POI_INTERNAL
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.POI_INTERNAL"
 msgid "This door cannot be manually controlled."
-msgstr "Manuelt kontrolleret"
+msgstr "Denne dør kan ikke styres manuelt."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.TITLE"
 msgid "Door Setting"
-msgstr "Denne dør vil forblive åben"
+msgstr "Dør Indstilling"
 
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.AWAITINGDELIVERY
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.AWAITINGDELIVERY"
 msgid "AWAITING DELIVERY: {0}"
-msgstr "Afventer Levering"
+msgstr "AFVENTER LEVERING: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.AWAITINGREMOVAL
 #, fuzzy
@@ -64835,7 +64886,7 @@ msgstr "Intet"
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.SWAP_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.SWAP_BUTTON"
 msgid "Swap"
-msgstr ""
+msgstr "Byt"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.TITLE
 #, fuzzy
@@ -64851,7 +64902,7 @@ msgstr "Tildelt til: {Assignee}"
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.GENERAL_CURRENTASSIGNED
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.GENERAL_CURRENTASSIGNED"
 msgid "(Owner)"
-msgstr ""
+msgstr "Ejeren"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.TITLE
 #, fuzzy
@@ -64933,7 +64984,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INFORMATION
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INFORMATION"
 msgid "INFORMATION"
-msgstr ""
+msgstr "INFORMATION"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.KG
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.KG"
@@ -64984,7 +65035,7 @@ msgstr "Rumdetaljer"
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPE_FOREVER
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPE_FOREVER"
 msgid "Forever"
-msgstr ""
+msgstr "For altid"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPE_QUEUE
 #, fuzzy
@@ -65151,7 +65202,7 @@ msgstr "NEURAL VACILLATION FÆRDIG"
 #. STRINGS.UI.UISIDESCREENS.GENESHUFFLERSIDESREEN.BUTTON_RECHARGE
 msgctxt "STRINGS.UI.UISIDESCREENS.GENESHUFFLERSIDESREEN.BUTTON_RECHARGE"
 msgid "Recharge"
-msgstr ""
+msgstr "Genopfyld"
 
 #. STRINGS.UI.UISIDESCREENS.GENESHUFFLERSIDESREEN.BUTTON_RECHARGE_CANCEL
 #, fuzzy
@@ -65305,10 +65356,9 @@ msgid "Waiting to land"
 msgstr "Afventer afstigning"
 
 #. STRINGS.UI.UISIDESCREENS.LOGIC_BUFFER_SIDE_SCREEN.TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGIC_BUFFER_SIDE_SCREEN.TITLE"
 msgid "Buffer Time"
-msgstr "Ved Tid:"
+msgstr "Buffertid"
 
 #. STRINGS.UI.UISIDESCREENS.LOGIC_BUFFER_SIDE_SCREEN.TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGIC_BUFFER_SIDE_SCREEN.TOOLTIP"
@@ -65369,7 +65419,7 @@ msgstr "<b>Velkommen til Oxygen Not Included!</b>"
 #. STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIP_DEFAULT
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIP_DEFAULT"
 msgid "Tooltip"
-msgstr ""
+msgstr "Værktøjstip"
 
 #. STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.BAD
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.BAD"
@@ -65460,10 +65510,9 @@ msgid "Green"
 msgstr "Grøn"
 
 #. STRINGS.UI.UISIDESCREENS.LOGICBITSELECTORSIDESCREEN.STATE_INACTIVE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICBITSELECTORSIDESCREEN.STATE_INACTIVE"
 msgid "Red"
-msgstr "RØD ALARM"
+msgstr "Rød"
 
 #. STRINGS.UI.UISIDESCREENS.LURE.ATTRACTS
 #, fuzzy
@@ -65472,10 +65521,9 @@ msgid "Attract {1}s"
 msgstr "SET PORT (S)"
 
 #. STRINGS.UI.UISIDESCREENS.LURE.AWAITINGDELIVERY
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.LURE.AWAITINGDELIVERY"
 msgid "AWAITING DELIVERY: {0}"
-msgstr "Afventer Levering"
+msgstr "AFVENTER LEVERING: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.LURE.AWAITINGREMOVAL
 #, fuzzy
@@ -65498,7 +65546,7 @@ msgstr "     {0}\n"
 #. STRINGS.UI.UISIDESCREENS.LURE.INFORMATION
 msgctxt "STRINGS.UI.UISIDESCREENS.LURE.INFORMATION"
 msgid "INFORMATION"
-msgstr ""
+msgstr "INFORMATION"
 
 #. STRINGS.UI.UISIDESCREENS.LURE.TITLE
 #, fuzzy
@@ -65556,7 +65604,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.CHORE_GROUP_SEPARATOR
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.CHORE_GROUP_SEPARATOR"
 msgid " or "
-msgstr ""
+msgstr " eller "
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.CHORE_TARGET
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.CHORE_TARGET"
@@ -65589,7 +65637,7 @@ msgstr "Desinficer ikke denne bygning automatisk"
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.SELF_LABEL
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.SELF_LABEL"
 msgid "Self"
-msgstr ""
+msgstr "Selv"
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_COMPULSORY
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_COMPULSORY"
@@ -65652,7 +65700,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_NA
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_NA"
 msgid "--"
-msgstr ""
+msgstr "--"
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_NORMAL
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_NORMAL"
@@ -65866,10 +65914,9 @@ msgid "Unassigned"
 msgstr "Ikke tildelt"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.AWAITINGDELIVERY
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.AWAITINGDELIVERY"
 msgid "AWAITING DELIVERY: {0}"
-msgstr "Afventer Levering"
+msgstr "AFVENTER LEVERING: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.AWAITINGREMOVAL
 #, fuzzy
@@ -65912,7 +65959,7 @@ msgstr "     {0}\n"
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.INFORMATION
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.INFORMATION"
 msgid "INFORMATION"
-msgstr ""
+msgstr "INFORMATION"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.LIFECYCLE
 #, fuzzy
@@ -66525,10 +66572,9 @@ msgid "Disconnect this suit, dropping it on the ground"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_NO_SUIT
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_NO_SUIT"
 msgid "Leave Empty"
-msgstr "Sæt denne stander til at opbevare en dragt, eller lad den stå tom"
+msgstr "Efterlad tom"
 
 #. STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_NO_SUIT_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_NO_SUIT_TOOLTIP"
@@ -66705,10 +66751,9 @@ msgid "germs"
 msgstr "bakterier"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE"
 msgid "Pressure"
-msgstr "    • Tryk"
+msgstr "Lufttryk"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE_TOOLTIP_ABOVE
 #, fuzzy
@@ -66835,10 +66880,9 @@ msgid "Current State:"
 msgstr "Nuværende Tilstand:"
 
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.OFF
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.OFF"
 msgid "Off"
-msgstr "Tænd/Sluk"
+msgstr "Off"
 
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.OFFTIME
 #, fuzzy
@@ -66849,7 +66893,7 @@ msgstr "Ved Tid:"
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.ON
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.ON"
 msgid "On"
-msgstr ""
+msgstr "Til"
 
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.ONTIME
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.ONTIME"
@@ -66936,7 +66980,6 @@ msgid "Reset Timer"
 msgstr "NULSTIL"
 
 #. STRINGS.UI.UISIDESCREENS.TIMER_SIDE_SCREEN.TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMER_SIDE_SCREEN.TITLE"
 msgid "Timer"
 msgstr "<link=\"LOGICTIMERSENSOR\">Timer Sensor</link>"
@@ -66949,28 +66992,27 @@ msgstr "Alle"
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTONTOOLTIP"
 msgid "Allow storage of all resource categories in this container"
-msgstr ""
+msgstr "Tillad opbevaring af alle resursekategorier i denne beholder"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.CATEGORYBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.CATEGORYBUTTONTOOLTIP"
 msgid "Allow storage of anything in the {0} resource category"
-msgstr ""
+msgstr "Tillad opbevaring af alle resursekategorier i kategorien {0}"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.MATERIALBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.MATERIALBUTTONTOOLTIP"
 msgid "Add or remove this material from storage"
-msgstr ""
+msgstr "Tilføj eller fjern dette materiale fra opbevaring"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTON
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTON"
 msgid "Sweep Only"
-msgstr "Adgang: Kun Ved Ledig Opbevaring"
+msgstr "Kun opfejning"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTONTOOLTIP"
 msgid "Only store objects marked Sweep <color=#F44A47><b>[K]</b></color> in this container"
-msgstr ""
+msgstr "Opbevar kun objekter som er markeret til Opfejning <color=#F44A47><b>[K]</b></color> i denne beholder"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE"
@@ -66978,10 +67020,9 @@ msgid "Element Filter"
 msgstr "Element Filter"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE_CRITTER
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE_CRITTER"
 msgid "Critter Filter"
-msgstr "dyr"
+msgstr "Dyrefilter"
 
 #. STRINGS.UI.UISIDESCREENS.VALVESIDESCREEN.TITLE
 #, fuzzy
@@ -67173,30 +67214,29 @@ msgid " particles"
 msgstr "Udsend ikke Høj Energi Partikler"
 
 #. STRINGS.UI.UNITSUFFIXES.INFORMATION.BYTE
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.INFORMATION.BYTE"
 msgid "B"
-msgstr "<b>Velkommen til Oxygen Not Included!</b>"
+msgstr "Denne zone er til leveringsadresser, der ikke er inkluderet i andre leveringszoner. Det er <b>valgfrit</b> at tilføje fragtmetoder til denne zone"
 
 #. STRINGS.UI.UNITSUFFIXES.INFORMATION.GIGABYTE
 msgctxt "STRINGS.UI.UNITSUFFIXES.INFORMATION.GIGABYTE"
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 #. STRINGS.UI.UNITSUFFIXES.INFORMATION.KILOBYTE
 msgctxt "STRINGS.UI.UNITSUFFIXES.INFORMATION.KILOBYTE"
 msgid "kB"
-msgstr ""
+msgstr "kB"
 
 #. STRINGS.UI.UNITSUFFIXES.INFORMATION.MEGABYTE
 msgctxt "STRINGS.UI.UNITSUFFIXES.INFORMATION.MEGABYTE"
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 #. STRINGS.UI.UNITSUFFIXES.INFORMATION.TERABYTE
 msgctxt "STRINGS.UI.UNITSUFFIXES.INFORMATION.TERABYTE"
 msgid "TB"
-msgstr ""
+msgstr "TB"
 
 #. STRINGS.UI.UNITSUFFIXES.LIGHT.LUX
 #, fuzzy
@@ -67232,7 +67272,7 @@ msgstr ""
 #. STRINGS.UI.UNITSUFFIXES.MASS.MILLIGRAM
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.MILLIGRAM"
 msgid " mg"
-msgstr ""
+msgstr "mg"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.POUND
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.POUND"
@@ -67253,7 +67293,7 @@ msgstr "{0} dB"
 #. STRINGS.UI.UNITSUFFIXES.PERCENT
 msgctxt "STRINGS.UI.UNITSUFFIXES.PERCENT"
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #. STRINGS.UI.UNITSUFFIXES.PERCYCLE
 #, fuzzy
@@ -67309,10 +67349,9 @@ msgid " K"
 msgstr ""
 
 #. STRINGS.UI.UNITSUFFIXES.UNIT
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.UNIT"
 msgid " unit"
-msgstr "Duplikanter kan ikke nå dette Opbevaringsskab"
+msgstr " enhed"
 
 #. STRINGS.UI.UNITSUFFIXES.UNITS
 msgctxt "STRINGS.UI.UNITSUFFIXES.UNITS"
@@ -67322,19 +67361,17 @@ msgstr " enheder"
 #. STRINGS.UI.USERMENUACTIONS.ACTIVATEBUILDING.ACTIVATE
 msgctxt "STRINGS.UI.USERMENUACTIONS.ACTIVATEBUILDING.ACTIVATE"
 msgid "Activate"
-msgstr ""
+msgstr "Aktivér"
 
 #. STRINGS.UI.USERMENUACTIONS.ACTIVATEBUILDING.ACTIVATE_CANCEL
-#, fuzzy
 msgctxt "STRINGS.UI.USERMENUACTIONS.ACTIVATEBUILDING.ACTIVATE_CANCEL"
 msgid "Cancel Activation"
-msgstr "Kræver aktivering"
+msgstr "Annullér aktivering"
 
 #. STRINGS.UI.USERMENUACTIONS.ACTIVATEBUILDING.ACTIVATED
-#, fuzzy
 msgctxt "STRINGS.UI.USERMENUACTIONS.ACTIVATEBUILDING.ACTIVATED"
 msgid "Activated"
-msgstr "Denne teleporter kan ikke bruges før både den sendende og den modtagende side er blevet aktiveret"
+msgstr "Aktiveret"
 
 #. STRINGS.UI.USERMENUACTIONS.ACTIVATEBUILDING.TOOLTIP_ACTIVATE
 #, fuzzy
@@ -67639,7 +67676,7 @@ msgstr "Annuller denne desinfektionsordre"
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME"
 msgid "Show Navigation"
-msgstr ""
+msgstr "Vis navigation"
 
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME_OFF"
@@ -68477,10 +68514,9 @@ msgid "This Duplicant desires food that is {0} quality or better"
 msgstr ""
 
 #. STRINGS.UI.VITALSSCREEN.HEALTH
-#, fuzzy
 msgctxt "STRINGS.UI.VITALSSCREEN.HEALTH"
 msgid "Health"
-msgstr "Når Duplikanter begraves, reduceres sundhedsrisici og stress i kolonien."
+msgstr "Sundhed"
 
 #. STRINGS.UI.VITALSSCREEN.MULTIPLE_SICKNESSES
 #, fuzzy
@@ -68552,15 +68588,14 @@ msgid "The amount of food this Duplicant has eaten this cycle"
 msgstr ""
 
 #. STRINGS.UI.VITALSSCREEN_HEALTH
-#, fuzzy
 msgctxt "STRINGS.UI.VITALSSCREEN_HEALTH"
 msgid "Health"
-msgstr "Når Duplikanter begraves, reduceres sundhedsrisici og stress i kolonien."
+msgstr "Sundhed"
 
 #. STRINGS.UI.VITALSSCREEN_NAME
 msgctxt "STRINGS.UI.VITALSSCREEN_NAME"
 msgid "Name"
-msgstr ""
+msgstr "Navn"
 
 #. STRINGS.UI.VITALSSCREEN_RATIONS
 #, fuzzy
@@ -69546,7 +69581,7 @@ msgstr ""
 #. STRINGS.WORLDS.OCEANIA.NAME
 msgctxt "STRINGS.WORLDS.OCEANIA.NAME"
 msgid "Oceania"
-msgstr ""
+msgstr "Oceanien"
 
 #. STRINGS.WORLDS.OILRICHWARPTARGET.DESCRIPTION
 msgctxt "STRINGS.WORLDS.OILRICHWARPTARGET.DESCRIPTION"
@@ -69697,7 +69732,7 @@ msgstr ""
 #. STRINGS.WORLDS.SURVIVAL_CHANCE.VERYLOW
 msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.VERYLOW"
 msgid "Slim"
-msgstr ""
+msgstr "Slank"
 
 #. STRINGS.WORLDS.SWAMPMOONLET.DESCRIPTION
 msgctxt "STRINGS.WORLDS.SWAMPMOONLET.DESCRIPTION"
