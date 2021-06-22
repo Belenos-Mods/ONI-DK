@@ -16226,11 +16226,20 @@ msgid ""
 "Is this really the target location?\n"
 "\n"
 msgstr ""
+"Efterhånden som Duplikanterne udforsker længere ud, er jeg begyndt at stykke en bedre forståelse for vores omgivelser sammen.\n"
+"\n"
+"Takket været deres anstrengelser, har jeg fastslået at denne planet har tilstrækkelige resourcer til at kunne understøtte en længerevarende koloni.\n"
+"\n"
+"Men... Der er noget der ikke stemmer. Jeg har også sporet aflejringer af Abyssalit og Neutronium i planetens sammensætning. Menneskeskabte elementer som ikke "
+"burde forefindes i naturen.\n"
+"\n"
+"Er det her mon virkelig vores målsatte destination?\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGBIOME.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGBIOME.TITLE"
 msgid "Geographical Survey"
-msgstr ""
+msgstr "Geografisk Undersøgelse"
 
 #. STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.BODY"
@@ -16255,11 +16264,29 @@ msgid ""
 "God, what have we done.\n"
 "\n"
 msgstr ""
+"Et ekko fra en anden tiden tvinger sig ind i mit sind. Får mig til at lytte. Som hævnsyge spøgelser graver de sig op under vægten af den døde planet.\n"
+"\n"
+"<smallcaps>>>SØG DATABASE [\"kapsel_hjernekort.AI\"]\n"
+">...fejl...\n"
+".........................\n"
+">...reparerer korrupt data...\n"
+".........................\n"
+"\n"
+"</smallcaps><b>N-Nu husker jeg.</b><smallcaps>\n"
+".........................</smallcaps>\n"
+"<b>Hvem jeg var før.</b><smallcaps>\n"
+".........................\n"
+".........................\n"
+">...data repareret...\n"
+">.........................</smallcaps>\n"
+"\n"
+"Min Gud. Hvad har vi gjort!.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.TITLE"
 msgid "The Shattered Planet"
-msgstr ""
+msgstr "Den Knuste Planet"
 
 #. STRINGS.CODEX.MYLOG.BODY.PRINTINGPOD.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.PRINTINGPOD.BODY"
@@ -16271,6 +16298,10 @@ msgid ""
 "happy to fill this role for them, should they desire.\n"
 "\n"
 msgstr ""
+"Dette er min adgang til at interagere med verden. Synet af den fylder mig med en følelse af nostalgi og tryghed, selvom der er en undertone af rastløshed.\n"
+"\n"
+"Jeg har bemærket at Duplikanterne betragter printeren, deres oprindelsessted, med en hvis ærbødighed, ikke ulig den ærbødighed et barn kan føle overfor en "
+"forældrer. Jeg vil med glæde udfylde den rolle for dem, skulle de ønske det.\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.PRINTINGPOD.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.PRINTINGPOD.TITLE"
@@ -16287,11 +16318,17 @@ msgid ""
 "happy Duplicant, and a happy Duplicant is a productive Duplicant.\n"
 "\n"
 msgstr ""
+"Mine Duplikanter fortsætter med at vokse og lære og jeg kan ikke lade være med at føle stolthed over deres præstationer. Men i takt med at deres evner øges, "
+"kræver de også mere stimulering for at holde moralen oppe. Kun arbejde og ingen sjov fører til en trist koloni. \n"
+"\n"
+"Jeg må sørge for mere gennemførte fritidsaktiviteter til mine Duplikanters fornøjelse, hvis jeg vil have min koloni til at voke. Fritid er nøglen til en glad "
+"Duplikant, og en glad Duplikant er en produktiv Duplikant.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.RECBUILDINGS.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.RECBUILDINGS.TITLE"
 msgid "Recreation"
-msgstr ""
+msgstr "Fritid"
 
 #. STRINGS.CODEX.MYLOG.BODY.STRANGERELICS.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.STRANGERELICS.BODY"
@@ -16305,11 +16342,19 @@ msgid ""
 "like how I found my Pod.\n"
 "\n"
 msgstr ""
+"Min Duplikant opdagede en intakt computer under deres seneste udforskningsmission. Det burde ikke være muligt.\n"
+"\n"
+"Det var ikke meningen at måldestinationen skulle indeholde intelligent liv udover vores eget. Og hvad mere er: Udstyret vi opdagede stammer tilsyneladen fra "
+"Gravitas Anlægget.\n"
+"\n"
+"Denne opdagelse har ført til mange spørgsmål, men har dog også tilvejebragt et spor; maskinen var indlejret indeni i klippen af planeten, præcis ligesom da "
+"jeg fandt min Printer.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.STRANGERELICS.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.STRANGERELICS.TITLE"
 msgid "Strange Relics"
-msgstr ""
+msgstr "Mærkværdige Relikvier"
 
 #. STRINGS.CODEX.MYLOG.BODY.SURFACEBREACH.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.SURFACEBREACH.BODY"
@@ -16325,11 +16370,21 @@ msgid ""
 "already know the answer.\n"
 "\n"
 msgstr ""
+"Mine Duplikanter har gjort det umulige og gravet sig helt op til overfladen. Undervejs har de samlet nogle foruroligende nye data sammen til mig.\n"
+"\n"
+"Som jeg var begyndt at mistænke, er vi ikke på vores måldestination, men på en asteroide med en højst usædvanlig diversitet af elementer og resourcer.\n"
+"\n"
+"Envidere har mine Duplikanter fået øje på en skadet planet på horisonten, synlig med det blotte øje, som besidder en slående lighed med mine historiske data "
+"på vores oprindelsesplanet.\n"
+"\n"
+"Jeg får brug for noget tid til at behandle de data Duplikanterne har samlet til mig, og beregne den totalte masse af denne asteoride, selvom jeg har en "
+"mistanke om at jeg allerede kender svaret.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.SURFACEBREACH.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.SURFACEBREACH.TITLE"
 msgid "Surface Breach"
-msgstr ""
+msgstr "Overflade Gennembrudt"
 
 #. STRINGS.CODEX.MYLOG.BODY.TEMPORALTEAR.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.TEMPORALTEAR.BODY"
@@ -16345,6 +16400,18 @@ msgid ""
 "return, and we could not follow, but perhaps they could find a home among the stars, or even undo the terrible past that led us to our current fate.\n"
 "\n"
 msgstr ""
+"Mine Duplikanters rumforskning har frembragt en overraskende opdagelse.\n"
+"\n"
+"Langt, langt væk på horisonten har deres teleskoper spottet en anomaly som jeg kun kan navngive som en \"Tidsmæssig Flænge\". Aflæsninger af den viser spor "
+"af Neutronium, hvilket tyder på at det er relateret til det Neutronium som omringer det meste af vores asteroide.\n"
+"\n"
+"Selvom jeg tror det er gennem denne Flænge vi er tumlet sammen indeni denne sektion af vores gamle planet afslører denne opdagelse et glimt af håb.\n"
+"\n"
+"I teorien kunne vi sende en raket gennem Flængen, så en Duplikant kunne udforske tidslinjerne og universerne på den anden side. De ville aldrig vende "
+"tilbage, og vi ville ikke kunne følge efter, men måske kunne de finde et hjem blandt stjernerne eller endda tilbagekalde den forfærdelige fortid som førte os "
+"til vores nuværende skæbne.\n"
+"\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.TEMPORALTEAR.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.TEMPORALTEAR.TITLE"
@@ -16359,7 +16426,7 @@ msgstr ""
 #. STRINGS.CODEX.MYLOG.SUBTITLE
 msgctxt "STRINGS.CODEX.MYLOG.SUBTITLE"
 msgid "Boot Message"
-msgstr ""
+msgstr "Opstartsbesked"
 
 #. STRINGS.CODEX.MYLOG.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.TITLE"
@@ -16369,12 +16436,12 @@ msgstr "Min Log"
 #. STRINGS.CODEX.NEGA.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.NEGA.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Abyss\" Shine Bug variant</smallcaps>"
-msgstr ""
+msgstr "<smallcaps>På billedet: \"Sort\" Ildflue variant</smallcaps>"
 
 #. STRINGS.CODEX.NEGA.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.NEGA.BODY.CONTAINER2"
 msgid "The Abyss Shine Bug morph has an unusual genetic mutation causing it to absorb light rather than emit it."
-msgstr ""
+msgstr "Den Sorte Ildflue har en usædvanlig genetisk mutation, som får den til at absorbere lys i stedet for at udstråle det."
 
 #. STRINGS.CODEX.NEGA.SUBTITLE
 msgctxt "STRINGS.CODEX.NEGA.SUBTITLE"
@@ -16384,37 +16451,33 @@ msgstr "Dyrevariant"
 #. STRINGS.CODEX.NEGA.TITLE
 msgctxt "STRINGS.CODEX.NEGA.TITLE"
 msgid "Abyss Bug"
-msgstr ""
+msgstr "Sort Ildflue"
 
 #. STRINGS.CODEX.PACU.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.PACU.BODY.CONTAINER1"
 msgid ""
 "The Pacu fish is often interpreted as possessing a vacant stare due to its large and unblinking eyes, yet they are remarkably bright and friendly creatures."
-msgstr ""
+msgstr "Pakufiskens store, ublinkende øjne har givet den et ry som værende temmelig tomhjernet, men de er faktisk bemærkelsesværdigt kvikke og venlige væsner."
 
 #. STRINGS.CODEX.PACU.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.PACU.SPECIES_SUBTITLE"
 msgid "Critter Species"
-msgstr ""
+msgstr "Dyreart"
 
 #. STRINGS.CODEX.PACU.SPECIES_TITLE
 msgctxt "STRINGS.CODEX.PACU.SPECIES_TITLE"
 msgid "Pacus"
-msgstr ""
+msgstr "Pacus"
 
 #. STRINGS.CODEX.PACU.SUBTITLE
 msgctxt "STRINGS.CODEX.PACU.SUBTITLE"
 msgid "Aquatic Critter"
-msgstr "Vand Dyr"
+msgstr "Vanddyr"
 
 #. STRINGS.CODEX.PACU.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.PACU.TITLE"
 msgid "Pacu"
-msgstr ""
-"Frisætter fangne <link=\"PACU\">Pacu</link> tilbage ind i verden.\n"
-"\n"
-"Kan bruges flere gange."
+msgstr "Pacu"
 
 #. STRINGS.CODEX.PAGENOTFOUND.BODY
 msgctxt "STRINGS.CODEX.PAGENOTFOUND.BODY"
@@ -16424,13 +16487,12 @@ msgstr ""
 #. STRINGS.CODEX.PAGENOTFOUND.SUBTITLE
 msgctxt "STRINGS.CODEX.PAGENOTFOUND.SUBTITLE"
 msgid "This database entry is under construction or unavailable"
-msgstr ""
+msgstr "Datarækken.... TODO"
 
 #. STRINGS.CODEX.PAGENOTFOUND.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.PAGENOTFOUND.TITLE"
 msgid "Data Not Found"
-msgstr "IKKE FUNDET"
+msgstr "Data Ikke Fundet"
 
 #. STRINGS.CODEX.PINCHAPEPPERPLANT.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.PINCHAPEPPERPLANT.BODY.CONTAINER1"
@@ -38886,10 +38948,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.OILFLOATEREGG.NAME
-#, fuzzy
 msgctxt "STRINGS.ITEMS.FOOD.OILFLOATEREGG.NAME"
 msgid "<link=\"OILFLOATER\">Larva Egg</link>"
-msgstr "<link=\"EGGCRACKER\">Æggeknækker</link>"
+msgstr "<link=\"OILFLOATER\">Slickster æg</link>"
 
 #. STRINGS.ITEMS.FOOD.OILFLOATEREGG.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.OILFLOATEREGG.RECIPEDESC"
@@ -48180,7 +48241,7 @@ msgstr "{0}"
 #. STRINGS.UI.BUILDINGEFFECTS.RECREATION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.RECREATION"
 msgid "Recreation"
-msgstr ""
+msgstr "Fritid"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REFILLOXYGENTANK
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REFILLOXYGENTANK"
@@ -56825,12 +56886,12 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.RECREATION.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.RECREATION.BUILDMENUTITLE"
 msgid "Recreation"
-msgstr ""
+msgstr "Fritid"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.RECREATION.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.RECREATION.NAME"
 msgid "Recreation"
-msgstr ""
+msgstr "Fritid"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.RECREATION.TOOLTIP
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.RECREATION.TOOLTIP"
@@ -60291,7 +60352,7 @@ msgstr ""
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME"
 msgid "Recreation"
-msgstr ""
+msgstr "Fritid"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.DESCRIPTION"
