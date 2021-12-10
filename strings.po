@@ -6191,12 +6191,12 @@ msgstr "<link=\"GASPUMP\">Gas Pumpe</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr ""
+msgstr "Reservoirer kan ikke modtage manuelt leverede resurser"
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.EFFECT"
 msgid "Stores any <link=\"ELEMENTSGAS\">Gas</link> resources piped into it."
-msgstr ""
+msgstr "Opbevarer enhver <link=\"ELEMENTSGAS\">Gas</link> resource som tilføres"
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.NAME"
@@ -6206,12 +6206,12 @@ msgstr "<link=\"GASRESERVOIR\">Gas Reservoir</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.DESC"
 msgid "Valves control the amount of gas that moves through pipes, preventing waste."
-msgstr ""
+msgstr "Ventiler kontrollerer mængden af gas, som kan løbe gennem rør, og forhindrer spild."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.EFFECT"
 msgid "Controls the <link=\"ELEMENTSGAS\">Gas</link> volume permitted through <link=\"GASPIPING\">Pipes</link>."
-msgstr ""
+msgstr "Kontrollerer mængden af <link=\"ELEMENTSGAS\">Gas</link> der kan gennemløbe <link=\"GASPIPING\">Rørene</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.NAME"
@@ -6221,37 +6221,37 @@ msgstr "<link=\"GASVALVE\">Gas Ventil</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.DESC"
 msgid "Vents are an exit point for gases from ventilation systems."
-msgstr ""
+msgstr "Ventilationsriste er udblæsningspunkt for gasser from ventilationssystemer."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT"
 msgid "Releases <link=\"ELEMENTSGAS\">Gas</link> from <link=\"GASPIPING\">Gas Pipes</link>."
-msgstr ""
+msgstr "Udblæser <link=\"ELEMENTSGAS\">Gas</link> fra <link=\"GASPIPING\">Gasrør</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.NAME"
 msgid "<link=\"GASVENT\">Gas Vent</link>"
-msgstr "<link=\"GASVENT\">Gas Ventil</link>"
+msgstr "<link=\"GASVENT\">Ventilationsrist</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.DESC"
 msgid "High pressure vents can expel gas into more highly pressurized environments."
-msgstr ""
+msgstr "Højtryksventilationsriste kan udblæse gas til områder med høje luftryk."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.EFFECT"
 msgid "Releases <link=\"ELEMENTSGAS\">Gas</link> from <link=\"GASPIPING\">Gas Pipes</link> into high pressure locations."
-msgstr ""
+msgstr "Udblæser <link=\"ELEMENTSGAS\">Gas</link> fra <link=\"GASPIPING\">Gasrør</link> til lokationer med højt lufttryk."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.NAME"
 msgid "<link=\"GASVENTHIGHPRESSURE\">High Pressure Gas Vent</link>"
-msgstr ""
+msgstr "<link=\"GASVENTHIGHPRESSURE\">Højtryksventilationsrist</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC"
 msgid "Burning coal produces more energy than manual power, but emits heat and exhaust."
-msgstr ""
+msgstr "Afbrænding af kul producerer mere energy end manuelt arbejde, men afgiver varme og udstødningsgasser"
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT"
@@ -6260,11 +6260,14 @@ msgid ""
 "\n"
 "Produces <link=\"CARBONDIOXIDE\">Carbon Dioxide</link>."
 msgstr ""
+"Omdanner <link=\"CARBON\">Kul</link> til <link=\"POWER\">Strøm</link>.\n"
+"\n"
+"Producerer <link=\"CARBONDIOXIDE\">Kuldioxid</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME"
 msgid "<link=\"GENERATOR\">Coal Generator</link>"
-msgstr "<link=\"GENERATOR\">Kul Generator</link>"
+msgstr "<link=\"GENERATOR\">Kulgenerator</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.OVERPRODUCTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.OVERPRODUCTION"
@@ -6274,12 +6277,12 @@ msgstr "{Generator} overproduktion"
 #. STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.DESC"
 msgid "Omniprinters are incapable of printing organic matter."
-msgstr ""
+msgstr "Alt-I-En Printer er ikke i stand til at printe organisk materiale"
 
 #. STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.EFFECT"
 msgid "Converts <link=\"RAWMINERAL\">Raw Mineral</link> into unique materials and objects."
-msgstr ""
+msgstr "Omdanner <link=\"RAWMINERAL\">Råmineraler</link> til unikke materialer og objekter."
 
 #. STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.NAME"
@@ -6293,6 +6296,9 @@ msgid ""
 "\n"
 "There is a chair attached to the device with room for one person."
 msgstr ""
+"En enorm, syntetisk, hjerne frit flydende i en isotonisk opløsning.\n"
+"\n"
+"Aggregatet er forbundet til en stol med plads til én person."
 
 #. STRINGS.BUILDINGS.PREFABS.GENESHUFFLER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENESHUFFLER.NAME"
@@ -19333,10 +19339,9 @@ msgid "A highly pressurized vent that periodically erupts with warm <link=\"CHLO
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.CHLORINE_GAS.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.CHLORINE_GAS.NAME"
 msgid "<link=\"GEYSERGENERICCHLORINEGAS\">Chlorine Gas Vent</link>"
-msgstr "<link=\"GASVENT\">Gas Ventil</link>"
+msgstr "<link=\"GASVENT\">Klorgejser</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.DESC"
@@ -34166,7 +34171,7 @@ msgid ""
 msgstr ""
 "(Al) Aluminium er et <link=\"REFINEDMETAL\">Metal</link> med lav massefylde.\n"
 "\n"
-"Det har en høj varmeledningsevne og er velegntet til at bygge <link=\"POWER\">Strøm</link> systemer."
+"Det har en høj varmeledningsevne og er velegnet til at bygge <link=\"POWER\">Strøm</link> systemer."
 
 #. STRINGS.ELEMENTS.ALUMINUM.NAME
 msgctxt "STRINGS.ELEMENTS.ALUMINUM.NAME"
