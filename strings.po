@@ -6149,7 +6149,7 @@ msgstr "<link=\"GASMINIPUMP\">Mini Gas Pumpe</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC"
 msgid "Building with airflow tile promotes better gas circulation within a colony."
-msgstr ""
+msgstr "Luftflow Fliser fremmer luftcirkulationen i en koloni"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT"
@@ -6158,6 +6158,9 @@ msgid ""
 "\n"
 "Blocks <link=\"ELEMENTSLIQUID\">Liquid</link> flow without obstructing <link=\"ELEMENTSGAS\">Gas</link>."
 msgstr ""
+"Bruges til at bygge vægge og gulve i rum.\n"
+"\n"
+"Stopper <link=\"ELEMENTSLIQUID\">Væske</link> flow uden at stoppe <link=\"ELEMENTSGAS\">Gas</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME"
@@ -6167,7 +6170,7 @@ msgstr "<link=\"GASPERMEABLEMEMBRANE\">Luftflow Flise</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC"
 msgid "Piping a pump's output to a building's intake will send gas to that building."
-msgstr ""
+msgstr "Rør fra en pumpes output til en bygnings input vil sende gassen til den bygning"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.EFFECT"
@@ -6176,6 +6179,9 @@ msgid ""
 "\n"
 "Must be immersed in <link=\"ELEMENTSGAS\">Gas</link>."
 msgstr ""
+"Trækker <link=\"ELEMENTSGAS\">Gas</link> ind og flytter det gennem <link=\"GASPIPING\">Rør</link>.\n"
+"\n"
+"Skal være indhyllet i <link=\"ELEMENTSGAS\">Gas</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME"
