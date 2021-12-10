@@ -11,3 +11,7 @@ All strings with an empty `msgstr` needs translations, and any contributions are
 The easiest way to edit the [`strings.po`](strings.po) file is directly from your browser by using the [github.dev web-based editor](https://github.com/Belenos-Mods/ONI-DK/): Simply go to the repo's [main page](https://github.com/Belenos-Mods/ONI-DK/) and hit `.`
 
 For more advanced editing, the [Poedit](https://poeditor.com/) tool is recommended.
+
+##  Merging to master
+All completed PR's to `master` should be accompanied by an update to the steam mod. 
+// **TODO** write guide on mod update 
