@@ -6308,22 +6308,22 @@ msgstr "Neural vacillator"
 #. STRINGS.BUILDINGS.PREFABS.GENETICANALYSISSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENETICANALYSISSTATION.DESC"
 msgid "Would a mutated rose still smell as sweet?"
-msgstr ""
+msgstr "Dufter en muteret rose mon lige så sødt?"
 
 #. STRINGS.BUILDINGS.PREFABS.GENETICANALYSISSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENETICANALYSISSTATION.EFFECT"
 msgid "Identifies new <link=\"PLANTS\">Seed</link> subspecies."
-msgstr ""
+msgstr "Identificerer nye <link=\"PLANTS\">frøsorter</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GENETICANALYSISSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENETICANALYSISSTATION.NAME"
 msgid "<link=\"GENETICANALYSISSTATION\">Botanical Analyzer</link>"
-msgstr ""
+msgstr "<link=\"GENETICANALYSISSTATION\">Botanisk Analytiker</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSFORGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFORGE.DESC"
 msgid "Glass can be used to construct window tile."
-msgstr ""
+msgstr "Glas kan bruges til at bygge vinduesfliser."
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSFORGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFORGE.EFFECT"
@@ -6334,11 +6334,16 @@ msgid ""
 "\n"
 "Duplicants will not fabricate items unless recipes are queued."
 msgstr ""
+"Producerer <link=\"MOLTENGLASS\">Smeltet Glas</link> fra <link=\"SAND\">Sand</link>.\n"
+"\n"
+"Afgiver <link=\"HEAT\">Meget Varmt</link> <link=\"ELEMENTSLIQUID\">Væske</link>.\n"
+"\n"
+"Duplikanter producerer ikke noget, medmindre opskrifter er sat i kø."
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSFORGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFORGE.NAME"
 msgid "<link=\"GLASSFORGE\">Glass Forge</link>"
-msgstr ""
+msgstr "<link=\"GLASSFORGE\">Glassmedje</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSFORGE.RECIPE_DESCRIPTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFORGE.RECIPE_DESCRIPTION"
@@ -6348,7 +6353,7 @@ msgstr "Udvinder rent {0} fra {1}."
 #. STRINGS.BUILDINGS.PREFABS.GLASSTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSTILE.DESC"
 msgid "Window tiles provide a barrier against liquid and gas and are completely transparent."
-msgstr ""
+msgstr "Vinduesfliser blokerer væske og gas, og er fuldstændigt gennemsigtigt."
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSTILE.EFFECT"
@@ -6357,6 +6362,9 @@ msgid ""
 "\n"
 "Allows <link=\"LIGHT\">Light</link> and <link=\"DECOR\">Decor</link> to pass through."
 msgstr ""
+"Bruges til at bygge vægge og gulve i rum.\n"
+"\n"
+"Tillader <link=\"LIGHT\">Lys</link> og <link=\"DECOR\">Dekoration</link> at skinne igennem."
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSTILE.NAME"
@@ -6366,7 +6374,7 @@ msgstr "<link=\"GLASSTILE\">Vinduesflise</link>"
 #. STRINGS.BUILDINGS.PREFABS.GOURMETCOOKINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GOURMETCOOKINGSTATION.DESC"
 msgid "Luxury meals increase Duplicants morale and prevents them from becoming stressed."
-msgstr ""
+msgstr "Luksuriøse måltider øger Duplikanters moral og forhindrer dem i at blive stressede."
 
 #. STRINGS.BUILDINGS.PREFABS.GOURMETCOOKINGSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GOURMETCOOKINGSTATION.EFFECT"
