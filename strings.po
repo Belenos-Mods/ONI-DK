@@ -9,9 +9,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 3.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-Bookmarks: -1,8151,210,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -6011,22 +6011,22 @@ msgstr "<link=\"GASCONDUITOVERFLOW\">Gas Overflow Ventil</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITPREFERENTIALFLOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITPREFERENTIALFLOW.DESC"
 msgid "Priority flows ensure important buildings are filled first when on a system with other buildings."
-msgstr ""
+msgstr "Prioritetsstrømme sikrer, at vigtige bygninger fyldes først, når de er i et system med andre bygninger."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITPREFERENTIALFLOW.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITPREFERENTIALFLOW.EFFECT"
 msgid "Diverts <link=\"ELEMENTSGAS\">Gas</link> to a secondary input when its primary input overflows."
-msgstr ""
+msgstr "Omdirigerer <link=\"ELEMENTSGAS\">Gas</link>til en sekundær indgang, når den primære indgang løber over."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITPREFERENTIALFLOW.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITPREFERENTIALFLOW.NAME"
 msgid "<link=\"GASCONDUITPREFERENTIALFLOW\">Priority Gas Flow</link>"
-msgstr ""
+msgstr "<link=\"GASCONDUITPREFERENTIALFLOW\">Prioritet Gasstrøm</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.DESC"
 msgid "Radiant pipes pumping cold gas can be run through hot areas to help cool them down."
-msgstr ""
+msgstr "Strålende Gasrør, der pumper kold gas, kan føres gennem varme områder for at hjælpe med at køle dem ned."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.EFFECT"
@@ -6035,6 +6035,9 @@ msgid ""
 "\n"
 "Can be run through wall and floor tile."
 msgstr ""
+"Transporterer <link=\"ELEMENTSGAS\">Gas</link>, hvilket giver mulighed for ekstrem <link=\"HEAT\">temperaturudveksling</link> med det omgivende miljø.\n"
+"\n"
+"Kan føres gennem væg- og gulvfliser."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.NAME"
@@ -6044,7 +6047,7 @@ msgstr "<link=\"GASCONDUITRADIANT\">Strålende Gas Rør</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.DESC"
 msgid "Thermo sensors disable buildings when their pipe contents reach a certain temperature."
-msgstr ""
+msgstr "Termosensorer deaktiverer bygninger, når indholdet i rørene når en bestemt temperatur."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.EFFECT"
@@ -6052,16 +6055,18 @@ msgid ""
 "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> when pipe contents enter the chosen <link=\"HEAT"
 "\">Temperature</link> range."
 msgstr ""
+"Sender et <b><style=\"logic_on\">Grønt Signal</style></b> eller et <b><style=\"logic_off\">Rødt Signal</style></b> når rørets indhold er indenfor det valgte "
+"<link=\"HEAT\">Temperatur</link>område."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.LOGIC_PORT"
 msgid "Internal <link=\"ELEMENTSGAS\">Gas</link> <link=\"HEAT\">Temperature</link>"
-msgstr ""
+msgstr "Intern <link=\"ELEMENTSGAS\">Gas</link> <link=\"HEAT\">Temperatur</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if the contained Gas is within the selected Temperature range"
-msgstr ""
+msgstr "Sender et <b><style=\"logic_on\">Grønt Signal</style></b> hvis den indeholdte Gas er indenfor det valgte temperaturområde"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.LOGIC_PORT_INACTIVE"
@@ -6071,22 +6076,22 @@ msgstr "Ellers, sender et <b><style=\"logic_off\">Rødt Signal</style></b>"
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.NAME"
 msgid "<link=\"GASCONDUITTEMPERATURESENSOR\">Gas Pipe Thermo Sensor</link>"
-msgstr ""
+msgstr "<link=\"GASCONDUITTEMPERATURESENSOR\">Termosensor til Gasrør</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC"
 msgid "All gases are sent into the building's output pipe, except the gas chosen for filtering."
-msgstr ""
+msgstr "Alle gasser sendes ud i bygningens udgangsrør, undtagen den gas, der er valgt til filtrering."
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.EFFECT"
 msgid "Sieves one <link=\"ELEMENTSGAS\">Gas</link> from the air, sending it into a dedicated <link=\"GASPIPING\">Pipe</link>."
-msgstr ""
+msgstr "Frasigter en <link=\"ELEMENTSGAS\">Gas</link> fra luften og sender den ind i et dedikeret <link=\"GASPIPING\">Rør</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.ELEMENT_NOT_SPECIFIED
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.ELEMENT_NOT_SPECIFIED"
 msgid "Not Specified"
-msgstr ""
+msgstr "Ikke specificeret"
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.NAME"
@@ -6101,12 +6106,12 @@ msgstr "Filters: {0}"
 #. STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.DESC"
 msgid "Automated piping saves power and time by removing the need for Duplicant input."
-msgstr ""
+msgstr "Automatiseret rørføring sparer strøm og tid ved at fjerne behovet for Duplikant input."
 
 #. STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.EFFECT"
 msgid "Connects to an <link=\"LOGIC\">Automation</link> grid to automatically turn <link=\"ELEMENTSGAS\">Gas</link> flow on or off."
-msgstr ""
+msgstr "Tilsluttes til et <link=\"LOGIC\">automatiseringsnet</link> for automatisk at slå <link=\"ELEMENTSGAS\"><link>gasstrømmen</link> til eller fra."
 
 #. STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.LOGIC_PORT"
@@ -6131,7 +6136,7 @@ msgstr "<link=\"GASLOGICVALVE\">Gas Ventil</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.DESC"
 msgid "Mini pumps are useful for moving small quantities of gas with minimum power."
-msgstr ""
+msgstr "Minipumper er nyttige til at flytte små mængder gas med minimalt kraftforbrug."
 
 #. STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.EFFECT"
@@ -6140,6 +6145,9 @@ msgid ""
 "\n"
 "Must be immersed in <link=\"ELEMENTSGAS\">Gas</link>."
 msgstr ""
+"Trækker en lille mængde <link=\"ELEMENTSGAS\">Gas</link> ind og lader den løbe gennem <link=\"GASPIPING\"> rørene</link>.\n"
+"\n"
+"Skal være nedsænket i <link=\"ELEMENTSGAS\">Gas</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.NAME"
@@ -6149,7 +6157,7 @@ msgstr "<link=\"GASMINIPUMP\">Mini Gas Pumpe</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC"
 msgid "Building with airflow tile promotes better gas circulation within a colony."
-msgstr ""
+msgstr "Luftflow Fliser fremmer luftcirkulationen i en koloni."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT"
@@ -6158,6 +6166,9 @@ msgid ""
 "\n"
 "Blocks <link=\"ELEMENTSLIQUID\">Liquid</link> flow without obstructing <link=\"ELEMENTSGAS\">Gas</link>."
 msgstr ""
+"Bruges til at bygge vægge og gulve i rum.\n"
+"\n"
+"Stopper <link=\"ELEMENTSLIQUID\">Væske</link> flow uden at stoppe <link=\"ELEMENTSGAS\">Gas</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME"
@@ -6167,7 +6178,7 @@ msgstr "<link=\"GASPERMEABLEMEMBRANE\">Luftflow Flise</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC"
 msgid "Piping a pump's output to a building's intake will send gas to that building."
-msgstr ""
+msgstr "Rør fra en pumpes output til en bygnings input vil sende gassen til den bygning."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.EFFECT"
@@ -6176,6 +6187,9 @@ msgid ""
 "\n"
 "Must be immersed in <link=\"ELEMENTSGAS\">Gas</link>."
 msgstr ""
+"Trækker <link=\"ELEMENTSGAS\">Gas</link> ind og flytter det gennem <link=\"GASPIPING\">Rør</link>.\n"
+"\n"
+"Skal være indhyllet i <link=\"ELEMENTSGAS\">Gas</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME"
@@ -6185,12 +6199,12 @@ msgstr "<link=\"GASPUMP\">Gas Pumpe</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr ""
+msgstr "Reservoirer kan ikke modtage manuelt leverede resurser."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.EFFECT"
 msgid "Stores any <link=\"ELEMENTSGAS\">Gas</link> resources piped into it."
-msgstr ""
+msgstr "Opbevarer enhver <link=\"ELEMENTSGAS\">Gas</link> resource som tilføres."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.NAME"
@@ -6200,12 +6214,12 @@ msgstr "<link=\"GASRESERVOIR\">Gas Reservoir</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.DESC"
 msgid "Valves control the amount of gas that moves through pipes, preventing waste."
-msgstr ""
+msgstr "Ventiler kontrollerer mængden af gas, som kan løbe gennem rør, og forhindrer spild."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.EFFECT"
 msgid "Controls the <link=\"ELEMENTSGAS\">Gas</link> volume permitted through <link=\"GASPIPING\">Pipes</link>."
-msgstr ""
+msgstr "Kontrollerer mængden af <link=\"ELEMENTSGAS\">Gas</link> der kan gennemløbe <link=\"GASPIPING\">Rørene</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.NAME"
@@ -6215,37 +6229,37 @@ msgstr "<link=\"GASVALVE\">Gas Ventil</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.DESC"
 msgid "Vents are an exit point for gases from ventilation systems."
-msgstr ""
+msgstr "Ventilationsriste er udblæsningspunkt for gasser from ventilationssystemer."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT"
 msgid "Releases <link=\"ELEMENTSGAS\">Gas</link> from <link=\"GASPIPING\">Gas Pipes</link>."
-msgstr ""
+msgstr "Udblæser <link=\"ELEMENTSGAS\">Gas</link> fra <link=\"GASPIPING\">Gasrør</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.NAME"
 msgid "<link=\"GASVENT\">Gas Vent</link>"
-msgstr "<link=\"GASVENT\">Gas Ventil</link>"
+msgstr "<link=\"GASVENT\">Ventilationsrist</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.DESC"
 msgid "High pressure vents can expel gas into more highly pressurized environments."
-msgstr ""
+msgstr "Højtryksventilationsriste kan udblæse gas til områder med høje luftryk."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.EFFECT"
 msgid "Releases <link=\"ELEMENTSGAS\">Gas</link> from <link=\"GASPIPING\">Gas Pipes</link> into high pressure locations."
-msgstr ""
+msgstr "Udblæser <link=\"ELEMENTSGAS\">Gas</link> fra <link=\"GASPIPING\">Gasrør</link> til lokationer med højt lufttryk."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.NAME"
 msgid "<link=\"GASVENTHIGHPRESSURE\">High Pressure Gas Vent</link>"
-msgstr ""
+msgstr "<link=\"GASVENTHIGHPRESSURE\">Højtryksventilationsrist</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC"
 msgid "Burning coal produces more energy than manual power, but emits heat and exhaust."
-msgstr ""
+msgstr "Afbrænding af kul producerer mere energi end manuelt arbejde, men afgiver varme og udstødningsgasser."
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT"
@@ -6254,11 +6268,14 @@ msgid ""
 "\n"
 "Produces <link=\"CARBONDIOXIDE\">Carbon Dioxide</link>."
 msgstr ""
+"Omdanner <link=\"CARBON\">Kul</link> til <link=\"POWER\">Strøm</link>.\n"
+"\n"
+"Producerer <link=\"CARBONDIOXIDE\">Kuldioxid</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME"
 msgid "<link=\"GENERATOR\">Coal Generator</link>"
-msgstr "<link=\"GENERATOR\">Kul Generator</link>"
+msgstr "<link=\"GENERATOR\">Kulgenerator</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.OVERPRODUCTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.OVERPRODUCTION"
@@ -6268,12 +6285,12 @@ msgstr "{Generator} overproduktion"
 #. STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.DESC"
 msgid "Omniprinters are incapable of printing organic matter."
-msgstr ""
+msgstr "Alt-I-En Printere er ikke i stand til at printe organisk materiale."
 
 #. STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.EFFECT"
 msgid "Converts <link=\"RAWMINERAL\">Raw Mineral</link> into unique materials and objects."
-msgstr ""
+msgstr "Omdanner <link=\"RAWMINERAL\">Råmineraler</link> til unikke materialer og objekter."
 
 #. STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.NAME"
@@ -6287,6 +6304,9 @@ msgid ""
 "\n"
 "There is a chair attached to the device with room for one person."
 msgstr ""
+"En enorm, syntetisk, hjerne frit flydende i en isotonisk opløsning.\n"
+"\n"
+"Aggregatet er forbundet til en stol med plads til én person."
 
 #. STRINGS.BUILDINGS.PREFABS.GENESHUFFLER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENESHUFFLER.NAME"
@@ -6296,22 +6316,22 @@ msgstr "Neural vacillator"
 #. STRINGS.BUILDINGS.PREFABS.GENETICANALYSISSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENETICANALYSISSTATION.DESC"
 msgid "Would a mutated rose still smell as sweet?"
-msgstr ""
+msgstr "Dufter en muteret rose mon lige så sødt?"
 
 #. STRINGS.BUILDINGS.PREFABS.GENETICANALYSISSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENETICANALYSISSTATION.EFFECT"
 msgid "Identifies new <link=\"PLANTS\">Seed</link> subspecies."
-msgstr ""
+msgstr "Identificerer nye <link=\"PLANTS\">frøsorter</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GENETICANALYSISSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENETICANALYSISSTATION.NAME"
 msgid "<link=\"GENETICANALYSISSTATION\">Botanical Analyzer</link>"
-msgstr ""
+msgstr "<link=\"GENETICANALYSISSTATION\">Botanisk Analytiker</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSFORGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFORGE.DESC"
 msgid "Glass can be used to construct window tile."
-msgstr ""
+msgstr "Glas kan bruges til at bygge vinduesfliser."
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSFORGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFORGE.EFFECT"
@@ -6322,11 +6342,16 @@ msgid ""
 "\n"
 "Duplicants will not fabricate items unless recipes are queued."
 msgstr ""
+"Producerer <link=\"MOLTENGLASS\">Smeltet Glas</link> fra <link=\"SAND\">Sand</link>.\n"
+"\n"
+"Afgiver <link=\"HEAT\">Meget Varmt</link> <link=\"ELEMENTSLIQUID\">Væske</link>.\n"
+"\n"
+"Duplikanter producerer ikke noget, medmindre opskrifter er sat i kø."
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSFORGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFORGE.NAME"
 msgid "<link=\"GLASSFORGE\">Glass Forge</link>"
-msgstr ""
+msgstr "<link=\"GLASSFORGE\">Glassmedje</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSFORGE.RECIPE_DESCRIPTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFORGE.RECIPE_DESCRIPTION"
@@ -6336,7 +6361,7 @@ msgstr "Udvinder rent {0} fra {1}."
 #. STRINGS.BUILDINGS.PREFABS.GLASSTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSTILE.DESC"
 msgid "Window tiles provide a barrier against liquid and gas and are completely transparent."
-msgstr ""
+msgstr "Vinduesfliser blokerer væske og gas, og er fuldstændigt gennemsigtigt."
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSTILE.EFFECT"
@@ -6345,6 +6370,9 @@ msgid ""
 "\n"
 "Allows <link=\"LIGHT\">Light</link> and <link=\"DECOR\">Decor</link> to pass through."
 msgstr ""
+"Bruges til at bygge vægge og gulve i rum.\n"
+"\n"
+"Tillader <link=\"LIGHT\">Lys</link> og <link=\"DECOR\">Dekoration</link> at skinne igennem."
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSTILE.NAME"
@@ -6354,7 +6382,7 @@ msgstr "<link=\"GLASSTILE\">Vinduesflise</link>"
 #. STRINGS.BUILDINGS.PREFABS.GOURMETCOOKINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GOURMETCOOKINGSTATION.DESC"
 msgid "Luxury meals increase Duplicants morale and prevents them from becoming stressed."
-msgstr ""
+msgstr "Luksuriøse måltider øger Duplikanters moral og forhindrer dem i at blive stressede."
 
 #. STRINGS.BUILDINGS.PREFABS.GOURMETCOOKINGSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GOURMETCOOKINGSTATION.EFFECT"
@@ -6384,16 +6412,19 @@ msgid ""
 "\n"
 "Living Duplicants will automatically place an unburied corpse inside."
 msgstr ""
+"Giver et sidste hvilested for afdøde Duplikanter.\n"
+"\n"
+"Levende Duplikanter vil automatisk placere et fritliggende lig heri."
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.NAME"
 msgid "<link=\"GRAVE\">Tasteful Memorial</link>"
-msgstr ""
+msgstr "<link=\"GRAVE\">Smagfuldt mindesmærke</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HABITATMODULEMEDIUM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HABITATMODULEMEDIUM.DESC"
 msgid "Duplicants can survive space travel inside this protective nosecone... Hopefully."
-msgstr ""
+msgstr "Duplikanter kan overleve rumrejser i denne beskyttende raketspids... Forhåbentlig."
 
 #. STRINGS.BUILDINGS.PREFABS.HABITATMODULEMEDIUM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HABITATMODULEMEDIUM.EFFECT"
@@ -6404,16 +6435,21 @@ msgid ""
 "\n"
 "One Command Module may be installed per rocket."
 msgstr ""
+"Fungerer som et kommandomodul.\n"
+"\n"
+"Kan rumme op til ti rejsende Duplikanter.\n"
+"\n"
+"Der kan installeres ét kommandomodul pr. raket."
 
 #. STRINGS.BUILDINGS.PREFABS.HABITATMODULEMEDIUM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HABITATMODULEMEDIUM.NAME"
 msgid "<link=\"HABITATMODULEMEDIUM\">Spacefarer Module</link>"
-msgstr ""
+msgstr "<link=\"HABITATMODULEMEDIUM\">Rumfarer-modul</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HABITATMODULESMALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HABITATMODULESMALL.DESC"
 msgid "One lucky Duplicant gets the best view from the whole rocket."
-msgstr ""
+msgstr "En heldig Duplikant får den bedste udsigt fra hele raketten."
 
 #. STRINGS.BUILDINGS.PREFABS.HABITATMODULESMALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HABITATMODULESMALL.EFFECT"
@@ -6426,11 +6462,18 @@ msgid ""
 "\n"
 "Must be built at the top of a rocket."
 msgstr ""
+"Fungerer som et kommandomodul og raketspids.\n"
+"\n"
+"Kan rumme én rejesende Duplikant.\n"
+"\n"
+"Der kan installeres ét kommandomodul pr. raket.\n"
+"\n"
+"Skal bygges på toppen af en raket."
 
 #. STRINGS.BUILDINGS.PREFABS.HABITATMODULESMALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HABITATMODULESMALL.NAME"
 msgid "<link=\"HABITATMODULESMALL\">Solo Spacefarer Nosecone</link>"
-msgstr ""
+msgstr "<link=\"HABITATMODULESMALL\">Solo Rumfarer Raketspids</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.DESC"
@@ -6444,16 +6487,19 @@ msgid ""
 "\n"
 "Germ-covered Duplicants use Hand Sanitizers when passing by in the selected direction."
 msgstr ""
+"Fjerner de fleste<link=\"DISEASE\">Bakterier</link> fra Duplikanter.\n"
+"\n"
+"Bakteriefyldte Duplikanter bruger Håndsprit når de passerer forbi i den valgte retning."
 
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.NAME"
 msgid "<link=\"HANDSANITIZER\">Hand Sanitizer</link>"
-msgstr ""
+msgstr "<link=\"HANDSANITIZER\">Håndsprit</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.DESC"
 msgid "New Duplicants come out here, but thank goodness, they never go back in."
-msgstr ""
+msgstr "Nye Duplikanter kommer ud her, men heldigvis går de aldrig ind igen."
 
 #. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.EFFECT"
@@ -6462,6 +6508,9 @@ msgid ""
 "\n"
 "It periodically produces new Duplicants or care packages containing resources."
 msgstr ""
+"En exceptionelt avanceret bioprinter af ukendt oprindelse.\n"
+"\n"
+"Den producerer nye Duplikanter eller forsyningspakker, som indeholder resourcer."
 
 #. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.NAME"
@@ -6480,16 +6529,19 @@ msgid ""
 "\n"
 "Alas, it won't work."
 msgstr ""
+"En klon af en kloningsmaskine? Sikke en sjov tanke.\n"
+"\n"
+"Desværre, vil den ikke virke."
 
 #. STRINGS.BUILDINGS.PREFABS.HEATCOMPRESSOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEATCOMPRESSOR.DESC"
 msgid "\"Room temperature\" is relative, really."
-msgstr ""
+msgstr "\"Rumtemperatur\" er egentlig relativt."
 
 #. STRINGS.BUILDINGS.PREFABS.HEATCOMPRESSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEATCOMPRESSOR.EFFECT"
 msgid "Heats or cools <link=\"ELEMENTSLIQUID\">Liquid</link> to match ambient <link=\"HEAT\">Air Temperature</link>."
-msgstr ""
+msgstr "Opvarmer eller køler <link=\"ELEMENTSLIQUID\">Væske</link> til at matche omgivende <link=\"HEAT\">Luft Temperatur</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.HEATCOMPRESSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEATCOMPRESSOR.NAME"
@@ -6499,12 +6551,12 @@ msgstr "<link=\"HEATCOMPRESSOR\">Flydende Varmedims</link>"
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.DESC"
 msgid "It's like playing the most dangerous game of ping pong."
-msgstr ""
+msgstr "Det er ligesom at spille den allermest farlige udgave af bordtennis."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.EFFECT"
 msgid "Receives and redirects <style=\"KKeyword\">High Energy Particles</style> from <link=\"HIGHENERGYPARTICLESPAWNER\">Particle Generators</link>."
-msgstr ""
+msgstr "Modtager og dirigerer <style=\"KKeyword\">Høj Energi Partikler</style> fra <link=\"HIGHENERGYPARTICLESPAWNER\">Partikelgeneratorer</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT"
@@ -6519,7 +6571,7 @@ msgstr "<b><style=\"logic_on\">Grønt Signal</style></b>: Tillad indkommend part
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT_INACTIVE"
 msgid "<b><style=\"logic_off\">Red Signal</style></b>: Ignore incoming particles"
-msgstr ""
+msgstr "<b><style=\"logic_off\">Rødt Signal</style></b>: Ignorér indkommende partikler"
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.NAME"
@@ -6529,7 +6581,7 @@ msgstr "<link=\"HIGHENERGYPARTICLEREDIRECTOR\">Partikeldirigent</link>"
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.DESC"
 msgid "High energy particles are necessary for producing atomic research."
-msgstr ""
+msgstr "Høj Energi Partikler er nødvendige for at lave atomforskning."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.EFFECT"
@@ -6538,6 +6590,9 @@ msgid ""
 "\n"
 "Emits generated particles in the direction of your choosing."
 msgstr ""
+"Tiltrækker nærliggende <link=\"RADIATION\">stråling</link> for at generere <style=\"KKeyword\"><style>Høj Energi Partiker</style>.\n"
+"\n"
+"Udsender de genererede partikler i den retning, du vælger."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.LOGIC_PORT"
@@ -6547,12 +6602,12 @@ msgstr "Udsend ikke Høj Energi Partikler"
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.LOGIC_PORT_ACTIVE"
 msgid "<b><style=\"logic_on\">Green Signal</style></b>: Emit High Energy Particles"
-msgstr ""
+msgstr "<b><style=\"logic_on\">Grønt signal</style></b>: Udsend Høj Energi Partikler"
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.LOGIC_PORT_INACTIVE"
 msgid "<b><style=\"logic_off\">Red Signal</style></b>: Do not emit High Energy Particles"
-msgstr ""
+msgstr "<b><style=\"logic_off\">Rødt signal</style></b>: Udsend ikke Høj Energi Partikler"
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.NAME"
@@ -6562,7 +6617,7 @@ msgstr "<link=\"HIGHENERGYPARTICLESPAWNER\">Partikelgenerator</link>"
 #. STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.DESC"
 msgid "Higher wattage wire is used to avoid power overloads, particularly for strong generators."
-msgstr ""
+msgstr "Der anvendes ledninger med høj spænding for at undgå overbelastning, især i forbindelse med stærke generatorer."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.EFFECT"
@@ -6571,16 +6626,19 @@ msgid ""
 "\n"
 "Cannot be run through wall and floor tile."
 msgstr ""
+"Kan holde flere <link=\"POWER\">watt</link> end almindelig <link=\"WIRE\">ledning</link> uden at blive overbelastet.\n"
+"\n"
+"Kan ikke føres gennem væg- og gulvfliser."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.NAME"
 msgid "<link=\"HIGHWATTAGEWIRE\">Heavi-Watt Wire</link>"
-msgstr ""
+msgstr "<link=\"HIGHWATTAGEWIRE\">Højspændingsledning</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HOTTUB.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HOTTUB.DESC"
 msgid "Relaxes Duplicants with massaging jets of heated liquid."
-msgstr ""
+msgstr "Afslapper Duplikanter med masserende stråler af varmt vand"
 
 #. STRINGS.BUILDINGS.PREFABS.HOTTUB.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HOTTUB.EFFECT"
@@ -6591,11 +6649,16 @@ msgid ""
 "\n"
 "Increases Duplicant <link=\"MORALE\">Morale</link>."
 msgstr ""
+"Kræver <link=\"LIQUIDPIPING\">Rør</link> til og fra badekarret og <link=\"POWER\">Strøm</link> til at drive dyserne.\n"
+"\n"
+"Vandet skal have en behagelig temperatur og afkøles hurtigt.\n"
+"\n"
+"Øger Duplikant <link=\"MORALE\">Moral</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.HOTTUB.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HOTTUB.NAME"
 msgid "<link=\"HOTTUB\">Hot Tub</link>"
-msgstr ""
+msgstr "<link=\"HOTTUB\">Spabad</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HOTTUB.TEMPERATURE_REQUIREMENT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HOTTUB.TEMPERATURE_REQUIREMENT"
@@ -6608,6 +6671,8 @@ msgid ""
 "The Hot Tub will only be usable if supplied with {temperature} {element}. If the {element} gets too cold, the Hot Tub will drain and require refilling with "
 "{element}."
 msgstr ""
+"Spabadet kan kun bruges, hvis det er forsynet med {temperature} {element}. Hvis {element} bliver for koldt, tømmes spabadet og skal fyldes op med {element} "
+"igen."
 
 #. STRINGS.BUILDINGS.PREFABS.HOTTUB.WATER_REQUIREMENT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HOTTUB.WATER_REQUIREMENT"
@@ -6617,12 +6682,12 @@ msgstr "{element}: {amount}"
 #. STRINGS.BUILDINGS.PREFABS.HOTTUB.WATER_REQUIREMENT_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.HOTTUB.WATER_REQUIREMENT_TOOLTIP"
 msgid "This building must be filled with {amount} {element} in order to function."
-msgstr ""
+msgstr "Denne bygning skal være fyldt med {amount} {element} for at kunne fungere."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.DESC"
 msgid "Hydrogen engines can propel rockets further than steam or petroleum engines."
-msgstr ""
+msgstr "Brintmotorer kan drive raketter længere end damp- eller petroleumsmotorer."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.EFFECT"
@@ -6631,6 +6696,9 @@ msgid ""
 "\n"
 "The engine of a rocket must be built first before more rocket modules can be added."
 msgstr ""
+"Brænder <link=\"LIQUIDHYDROGEN\">Flydende Brint</link> til fremdrift af raketter til rumforskning.\n"
+"\n"
+"En raketmotor skal bygges, før der kan tilføjes flere raketmoduler."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.NAME"
@@ -6640,7 +6708,7 @@ msgstr "<link=\"HYDROGENENGINE\">Brintmotor</link>"
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.DESC"
 msgid "Hydrogen engines can propel rockets further than steam or petroleum engines."
-msgstr ""
+msgstr "Brintmotorer kan drive raketter længere end damp- eller petroleumsmotorer."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.EFFECT"
@@ -6649,6 +6717,9 @@ msgid ""
 "\n"
 "The engine of a rocket must be built first before more rocket modules can be added."
 msgstr ""
+"Brænder <link=\"LIQUIDHYDROGEN\">Flydende Brint</link> til fremdrift af raketter til rumforskning.\n"
+"\n"
+"En raketmotor skal bygges, før der kan tilføjes flere raketmoduler."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.NAME"
@@ -6658,7 +6729,7 @@ msgstr "<link=\"HYDROGENENGINE\">Brintmotor</link>"
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC"
 msgid "Hydrogen generators are extremely efficient, emitting next to no waste."
-msgstr ""
+msgstr "Brintgeneratorer er ekstremt effektive og udleder næsten intet affald."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.EFFECT"
@@ -7297,7 +7368,7 @@ msgstr "<link=\"LIQUIDCONDUITOVERFLOW\">Flydende Overflow Ventil</link>"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITPREFERENTIALFLOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITPREFERENTIALFLOW.DESC"
 msgid "Priority flows ensure important buildings are filled first when on a system with other buildings."
-msgstr ""
+msgstr "Prioritetsstrømme sikrer, at vigtige bygninger fyldes først, når de er i et system med andre bygninger."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITPREFERENTIALFLOW.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITPREFERENTIALFLOW.EFFECT"
@@ -7330,7 +7401,7 @@ msgstr "<link=\"LIQUIDCONDUITRADIANT\">Strålende Væske Rør</link>"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITTEMPERATURESENSOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITTEMPERATURESENSOR.DESC"
 msgid "Thermo sensors disable buildings when their pipe contents reach a certain temperature."
-msgstr ""
+msgstr "Termosensorer deaktiverer bygninger, når indholdet i rørene når en bestemt temperatur."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITTEMPERATURESENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITTEMPERATURESENSOR.EFFECT"
@@ -7338,6 +7409,8 @@ msgid ""
 "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> when pipe contents enter the chosen <link=\"HEAT"
 "\">Temperature</link> range."
 msgstr ""
+"Sender et <b><style=\"logic_on\">Grønt Signal</style></b> eller et <b><style=\"logic_off\">Rødt Signal</style></b> når rørets indhold er indenfor det valgte "
+"<link=\"HEAT\">Temperatur</link>område."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITTEMPERATURESENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITTEMPERATURESENSOR.LOGIC_PORT"
@@ -7449,7 +7522,7 @@ msgstr "<link=\"LIQUIDHEATER\">Vandvarmer</link>"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLOGICVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLOGICVALVE.DESC"
 msgid "Automated piping saves power and time by removing the need for Duplicant input."
-msgstr ""
+msgstr "Automatiseret rørføring sparer strøm og tid ved at fjerne behovet for Duplikant input."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLOGICVALVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLOGICVALVE.EFFECT"
@@ -7533,7 +7606,7 @@ msgstr "<link=\"LIQUIDPUMPINGSTATION\">Håndpumpe</link>"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr ""
+msgstr "Reservoirer kan ikke modtage manuelt leverede resurser."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.EFFECT"
@@ -11111,7 +11184,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDFILTER.ELEMENT_NOT_SPECIFIED
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDFILTER.ELEMENT_NOT_SPECIFIED"
 msgid "Not Specified"
-msgstr ""
+msgstr "Ikke specificeret"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDFILTER.NAME"
@@ -12206,7 +12279,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDHIGHWATTAGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDHIGHWATTAGE.DESC"
 msgid "Higher wattage wire is used to avoid power overloads, particularly for strong generators."
-msgstr ""
+msgstr "Der anvendes ledninger med højere wattantal for at undgå overbelastning, især i forbindelse med stærke generatorer."
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDHIGHWATTAGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDHIGHWATTAGE.EFFECT"
@@ -12262,7 +12335,7 @@ msgstr "Reparér automatisk denne bygning, når den bliver skadet"
 #. STRINGS.CLUSTER_NAMES.DEFAULT.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.DEFAULT.DESCRIPTION"
 msgid "One location with everything you need on it."
-msgstr "Èt sted med alt du behøver"
+msgstr "Èt sted med alt du behøver."
 
 #. STRINGS.CLUSTER_NAMES.DEFAULT.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.DEFAULT.NAME"
@@ -15119,7 +15192,7 @@ msgstr ""
 #. STRINGS.CODEX.DRECKO.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.DRECKO.SPECIES_SUBTITLE"
 msgid "Critter Species"
-msgstr ""
+msgstr "Dyreart"
 
 #. STRINGS.CODEX.DRECKO.SPECIES_TITLE
 msgctxt "STRINGS.CODEX.DRECKO.SPECIES_TITLE"
@@ -15265,7 +15338,7 @@ msgstr ""
 #. STRINGS.CODEX.HATCH.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.HATCH.SPECIES_SUBTITLE"
 msgid "Critter Species"
-msgstr ""
+msgstr "Dyreart"
 
 #. STRINGS.CODEX.HATCH.SPECIES_TITLE
 msgctxt "STRINGS.CODEX.HATCH.SPECIES_TITLE"
@@ -16226,11 +16299,20 @@ msgid ""
 "Is this really the target location?\n"
 "\n"
 msgstr ""
+"Efterhånden som Duplikanterne udforsker længere ud, er jeg begyndt at stykke en bedre forståelse for vores omgivelser sammen.\n"
+"\n"
+"Takket været deres anstrengelser, har jeg fastslået at denne planet har tilstrækkelige resourcer til at kunne understøtte en længerevarende koloni.\n"
+"\n"
+"Men... Der er noget der ikke stemmer. Jeg har også sporet aflejringer af Abyssalit og Neutronium i planetens sammensætning. Menneskeskabte elementer som ikke "
+"burde forefindes i naturen.\n"
+"\n"
+"Er det her mon virkelig vores målsatte destination?\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGBIOME.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGBIOME.TITLE"
 msgid "Geographical Survey"
-msgstr ""
+msgstr "Geografisk Undersøgelse"
 
 #. STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.BODY"
@@ -16255,11 +16337,29 @@ msgid ""
 "God, what have we done.\n"
 "\n"
 msgstr ""
+"Et ekko fra en anden tiden tvinger sig ind i mit sind. Får mig til at lytte. Som hævnsyge spøgelser graver de sig op under vægten af den døde planet.\n"
+"\n"
+"<smallcaps>>>SØG DATABASE [\"kapsel_hjernekort.AI\"]\n"
+">...fejl...\n"
+".........................\n"
+">...reparerer korrupt data...\n"
+".........................\n"
+"\n"
+"</smallcaps><b>N-Nu husker jeg.</b><smallcaps>\n"
+".........................</smallcaps>\n"
+"<b>Hvem jeg var før.</b><smallcaps>\n"
+".........................\n"
+".........................\n"
+">...data repareret...\n"
+">.........................</smallcaps>\n"
+"\n"
+"Min Gud. Hvad har vi gjort!.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.TITLE"
 msgid "The Shattered Planet"
-msgstr ""
+msgstr "Den Knuste Planet"
 
 #. STRINGS.CODEX.MYLOG.BODY.PRINTINGPOD.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.PRINTINGPOD.BODY"
@@ -16271,6 +16371,10 @@ msgid ""
 "happy to fill this role for them, should they desire.\n"
 "\n"
 msgstr ""
+"Dette er min adgang til at interagere med verden. Synet af den fylder mig med en følelse af nostalgi og tryghed, selvom der er en undertone af rastløshed.\n"
+"\n"
+"Jeg har bemærket at Duplikanterne betragter printeren, deres oprindelsessted, med en hvis ærbødighed, ikke ulig den ærbødighed et barn kan føle overfor en "
+"forældrer. Jeg vil med glæde udfylde den rolle for dem, skulle de ønske det.\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.PRINTINGPOD.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.PRINTINGPOD.TITLE"
@@ -16287,11 +16391,17 @@ msgid ""
 "happy Duplicant, and a happy Duplicant is a productive Duplicant.\n"
 "\n"
 msgstr ""
+"Mine Duplikanter fortsætter med at vokse og lære og jeg kan ikke lade være med at føle stolthed over deres præstationer. Men i takt med at deres evner øges, "
+"kræver de også mere stimulering for at holde moralen oppe. Kun arbejde og ingen sjov fører til en trist koloni. \n"
+"\n"
+"Jeg må sørge for mere gennemførte fritidsaktiviteter til mine Duplikanters fornøjelse, hvis jeg vil have min koloni til at voke. Fritid er nøglen til en glad "
+"Duplikant, og en glad Duplikant er en produktiv Duplikant.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.RECBUILDINGS.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.RECBUILDINGS.TITLE"
 msgid "Recreation"
-msgstr ""
+msgstr "Fritid"
 
 #. STRINGS.CODEX.MYLOG.BODY.STRANGERELICS.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.STRANGERELICS.BODY"
@@ -16305,11 +16415,19 @@ msgid ""
 "like how I found my Pod.\n"
 "\n"
 msgstr ""
+"Min Duplikant opdagede en intakt computer under deres seneste udforskningsmission. Det burde ikke være muligt.\n"
+"\n"
+"Det var ikke meningen at måldestinationen skulle indeholde intelligent liv udover vores eget. Og hvad mere er: Udstyret vi opdagede stammer tilsyneladen fra "
+"Gravitas Anlægget.\n"
+"\n"
+"Denne opdagelse har ført til mange spørgsmål, men har dog også tilvejebragt et spor; maskinen var indlejret indeni i klippen af planeten, præcis ligesom da "
+"jeg fandt min Printer.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.STRANGERELICS.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.STRANGERELICS.TITLE"
 msgid "Strange Relics"
-msgstr ""
+msgstr "Mærkværdige Relikvier"
 
 #. STRINGS.CODEX.MYLOG.BODY.SURFACEBREACH.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.SURFACEBREACH.BODY"
@@ -16325,11 +16443,21 @@ msgid ""
 "already know the answer.\n"
 "\n"
 msgstr ""
+"Mine Duplikanter har gjort det umulige og gravet sig helt op til overfladen. Undervejs har de samlet nogle foruroligende nye data sammen til mig.\n"
+"\n"
+"Som jeg var begyndt at mistænke, er vi ikke på vores måldestination, men på en asteroide med en højst usædvanlig diversitet af elementer og resourcer.\n"
+"\n"
+"Envidere har mine Duplikanter fået øje på en skadet planet på horisonten, synlig med det blotte øje, som besidder en slående lighed med mine historiske data "
+"på vores oprindelsesplanet.\n"
+"\n"
+"Jeg får brug for noget tid til at behandle de data Duplikanterne har samlet til mig, og beregne den totalte masse af denne asteoride, selvom jeg har en "
+"mistanke om at jeg allerede kender svaret.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.SURFACEBREACH.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.SURFACEBREACH.TITLE"
 msgid "Surface Breach"
-msgstr ""
+msgstr "Overflade Gennembrudt"
 
 #. STRINGS.CODEX.MYLOG.BODY.TEMPORALTEAR.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.TEMPORALTEAR.BODY"
@@ -16345,6 +16473,18 @@ msgid ""
 "return, and we could not follow, but perhaps they could find a home among the stars, or even undo the terrible past that led us to our current fate.\n"
 "\n"
 msgstr ""
+"Mine Duplikanters rumforskning har frembragt en overraskende opdagelse.\n"
+"\n"
+"Langt, langt væk på horisonten har deres teleskoper spottet en anomaly som jeg kun kan navngive som en \"Tidsmæssig Flænge\". Aflæsninger af den viser spor "
+"af Neutronium, hvilket tyder på at det er relateret til det Neutronium som omringer det meste af vores asteroide.\n"
+"\n"
+"Selvom jeg tror det er gennem denne Flænge vi er tumlet sammen indeni denne sektion af vores gamle planet afslører denne opdagelse et glimt af håb.\n"
+"\n"
+"I teorien kunne vi sende en raket gennem Flængen, så en Duplikant kunne udforske tidslinjerne og universerne på den anden side. De ville aldrig vende "
+"tilbage, og vi ville ikke kunne følge efter, men måske kunne de finde et hjem blandt stjernerne eller endda tilbagekalde den forfærdelige fortid som førte os "
+"til vores nuværende skæbne.\n"
+"\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.TEMPORALTEAR.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.TEMPORALTEAR.TITLE"
@@ -16359,7 +16499,7 @@ msgstr ""
 #. STRINGS.CODEX.MYLOG.SUBTITLE
 msgctxt "STRINGS.CODEX.MYLOG.SUBTITLE"
 msgid "Boot Message"
-msgstr ""
+msgstr "Opstartsbesked"
 
 #. STRINGS.CODEX.MYLOG.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.TITLE"
@@ -16369,12 +16509,12 @@ msgstr "Min Log"
 #. STRINGS.CODEX.NEGA.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.NEGA.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Abyss\" Shine Bug variant</smallcaps>"
-msgstr ""
+msgstr "<smallcaps>På billedet: \"Sort\" Ildflue variant</smallcaps>"
 
 #. STRINGS.CODEX.NEGA.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.NEGA.BODY.CONTAINER2"
 msgid "The Abyss Shine Bug morph has an unusual genetic mutation causing it to absorb light rather than emit it."
-msgstr ""
+msgstr "Den Sorte Ildflue har en usædvanlig genetisk mutation, som får den til at absorbere lys i stedet for at udstråle det."
 
 #. STRINGS.CODEX.NEGA.SUBTITLE
 msgctxt "STRINGS.CODEX.NEGA.SUBTITLE"
@@ -16384,37 +16524,33 @@ msgstr "Dyrevariant"
 #. STRINGS.CODEX.NEGA.TITLE
 msgctxt "STRINGS.CODEX.NEGA.TITLE"
 msgid "Abyss Bug"
-msgstr ""
+msgstr "Sort Ildflue"
 
 #. STRINGS.CODEX.PACU.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.PACU.BODY.CONTAINER1"
 msgid ""
 "The Pacu fish is often interpreted as possessing a vacant stare due to its large and unblinking eyes, yet they are remarkably bright and friendly creatures."
-msgstr ""
+msgstr "Pakufiskens store, ublinkende øjne har givet den et ry som værende temmelig tomhjernet, men de er faktisk bemærkelsesværdigt kvikke og venlige væsner."
 
 #. STRINGS.CODEX.PACU.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.PACU.SPECIES_SUBTITLE"
 msgid "Critter Species"
-msgstr ""
+msgstr "Dyreart"
 
 #. STRINGS.CODEX.PACU.SPECIES_TITLE
 msgctxt "STRINGS.CODEX.PACU.SPECIES_TITLE"
 msgid "Pacus"
-msgstr ""
+msgstr "Pacus"
 
 #. STRINGS.CODEX.PACU.SUBTITLE
 msgctxt "STRINGS.CODEX.PACU.SUBTITLE"
 msgid "Aquatic Critter"
-msgstr "Vand Dyr"
+msgstr "Vanddyr"
 
 #. STRINGS.CODEX.PACU.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.PACU.TITLE"
 msgid "Pacu"
-msgstr ""
-"Frisætter fangne <link=\"PACU\">Pacu</link> tilbage ind i verden.\n"
-"\n"
-"Kan bruges flere gange."
+msgstr "Pacu"
 
 #. STRINGS.CODEX.PAGENOTFOUND.BODY
 msgctxt "STRINGS.CODEX.PAGENOTFOUND.BODY"
@@ -16424,13 +16560,12 @@ msgstr ""
 #. STRINGS.CODEX.PAGENOTFOUND.SUBTITLE
 msgctxt "STRINGS.CODEX.PAGENOTFOUND.SUBTITLE"
 msgid "This database entry is under construction or unavailable"
-msgstr ""
+msgstr "Datarækken.... TODO"
 
 #. STRINGS.CODEX.PAGENOTFOUND.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.PAGENOTFOUND.TITLE"
 msgid "Data Not Found"
-msgstr "IKKE FUNDET"
+msgstr "Data Ikke Fundet"
 
 #. STRINGS.CODEX.PINCHAPEPPERPLANT.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.PINCHAPEPPERPLANT.BODY.CONTAINER1"
@@ -16779,7 +16914,7 @@ msgstr ""
 #. STRINGS.CODEX.PUFT.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.PUFT.SPECIES_SUBTITLE"
 msgid "Critter Species"
-msgstr ""
+msgstr "Dyreart"
 
 #. STRINGS.CODEX.PUFT.SPECIES_TITLE
 #, fuzzy
@@ -16952,7 +17087,7 @@ msgstr ""
 #. STRINGS.CODEX.SHINEBUG.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.SHINEBUG.SPECIES_SUBTITLE"
 msgid "Critter Species"
-msgstr ""
+msgstr "Dyreart"
 
 #. STRINGS.CODEX.SHINEBUG.SPECIES_TITLE
 #, fuzzy
@@ -17001,7 +17136,7 @@ msgstr ""
 #. STRINGS.CODEX.SLICKSTER.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.SLICKSTER.SPECIES_SUBTITLE"
 msgid "Critter Species"
-msgstr ""
+msgstr "Dyreart"
 
 #. STRINGS.CODEX.SLICKSTER.SPECIES_TITLE
 msgctxt "STRINGS.CODEX.SLICKSTER.SPECIES_TITLE"
@@ -18346,10 +18481,9 @@ msgid "<link=\"BEETASPECIES\">Beetas</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.FAMILY_PLURAL.CRABSPECIES
-#, fuzzy
 msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.CRABSPECIES"
 msgid "<link=\"CRABSPECIES\">Pokeshells</link>"
-msgstr "<link=\"BUILDCATEGORYMISC\">Decor</link>"
+msgstr "<link=\"CRABSPECIES\">Prikskaller</link>"
 
 #. STRINGS.CREATURES.FAMILY_PLURAL.DIVERGENTSPECIES
 #, fuzzy
@@ -18981,11 +19115,14 @@ msgid ""
 "\n"
 "In time it will mature into a fully grown <link=\"CRAB\">Pokeshell</link>."
 msgstr ""
+"En nappende lille Prikskallebaby.\n"
+"\n"
+"Med tiden vil den vokse op og blive en fuldvoksen <link=\"CRAB\">Prikskalle</link>."
 
 #. STRINGS.CREATURES.SPECIES.CRAB.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.BABY.NAME"
 msgid "<link=\"CRAB\">Pokeshell Spawn</link>"
-msgstr ""
+msgstr "<link=\"CRAB\">Prikskallebaby</link>"
 
 #. STRINGS.CREATURES.SPECIES.CRAB.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.DESC"
@@ -18994,6 +19131,9 @@ msgid ""
 "\n"
 "The shells they leave behind after molting can be crushed into <link=\"LIME\">Lime</link>."
 msgstr ""
+"Prikskaller er ikke-fjendtlige smådyr som spiser <link=\"TOXICSAND\">Forurenet jord</link> og <link=\"COMPOST\">Kompostbunker</link>.\n"
+"\n"
+"Ved hamskifte efterlader de skaller, som kan knuses til <link=\"LIME\">Kalk</link>."
 
 #. STRINGS.CREATURES.SPECIES.CRAB.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.EGG_NAME"
@@ -19265,10 +19405,9 @@ msgid "A highly pressurized vent that periodically erupts with warm <link=\"CHLO
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.CHLORINE_GAS.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.CHLORINE_GAS.NAME"
 msgid "<link=\"GEYSERGENERICCHLORINEGAS\">Chlorine Gas Vent</link>"
-msgstr "<link=\"GASVENT\">Gas Ventil</link>"
+msgstr "<link=\"GASVENT\">Klorgejser</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.DESC"
@@ -23306,7 +23445,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME"
 msgid "Strength"
-msgstr ""
+msgstr "Styrke"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER"
@@ -23559,7 +23698,7 @@ msgstr "Afslapper"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.DESC"
 msgid "Take breaks for massages."
-msgstr "Tager massagepauser"
+msgstr "Tag massagepauser."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.NAME"
@@ -23785,7 +23924,7 @@ msgid ""
 msgstr ""
 "Denne Duplikant har <style=\"KKeyword\">Fritid</style> på skemaet og bruger sin pause til at gå på toilettet\n"
 "\n"
-"Duplikanter skal på toilettet mindst én gang om dagen."
+"Duplikanter skal på toilettet mindst én gang om dagen"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.NAME"
@@ -26816,7 +26955,7 @@ msgstr "deres"
 #. STRINGS.DUPLICANTS.GENDERTITLE
 msgctxt "STRINGS.DUPLICANTS.GENDERTITLE"
 msgid "Gender: "
-msgstr "Køn:"
+msgstr "Køn: "
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME"
@@ -27645,7 +27784,7 @@ msgid ""
 msgstr ""
 "Den seneste mad, som denne Duplikant spiste var <style=\"KKeyword\">Elendig</style>\n"
 "\n"
-"Den håber dens næste måltid bliver lidt bedre."
+"Den håber dens næste måltid bliver lidt bedre"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.EDIBLEMINUS3.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.EDIBLEMINUS3.NAME"
@@ -34098,7 +34237,7 @@ msgid ""
 msgstr ""
 "(Al) Aluminium er et <link=\"REFINEDMETAL\">Metal</link> med lav massefylde.\n"
 "\n"
-"Det har en høj varmeledningsevne og er velegntet til at bygge <link=\"POWER\">Strøm</link> systemer."
+"Det har en høj varmeledningsevne og er velegnet til at bygge <link=\"POWER\">Strøm</link> systemer."
 
 #. STRINGS.ELEMENTS.ALUMINUM.NAME
 msgctxt "STRINGS.ELEMENTS.ALUMINUM.NAME"
@@ -34966,7 +35105,7 @@ msgstr "<link=\"IGNEOUSROCK\">Vulkansk Klipp</link>"
 #. STRINGS.ELEMENTS.IRON.DESC
 msgctxt "STRINGS.ELEMENTS.IRON.DESC"
 msgid "(Fe) Iron is a common industrial <link=\"RAWMETAL\">Metal</link>."
-msgstr ""
+msgstr "(Fe) Jern er et naturligt forekommende industrielt <link=\"RAWMETAL\">Metal</link>."
 
 #. STRINGS.ELEMENTS.IRON.NAME
 #, fuzzy
@@ -35054,10 +35193,9 @@ msgid "(Pb) Lead is a soft yet extremely dense <link=\"REFINEDMETAL\">Refined Me
 msgstr ""
 
 #. STRINGS.ELEMENTS.LEADGAS.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.LEADGAS.NAME"
 msgid "<link=\"LEADGAS\">Lead</link>"
-msgstr "<link=\"BATTERY\">Batteri</link>"
+msgstr "<link=\"LEADGAS\">Bly</link>"
 
 #. STRINGS.ELEMENTS.LIME.DESC
 msgctxt "STRINGS.ELEMENTS.LIME.DESC"
@@ -35066,12 +35204,14 @@ msgid ""
 "\n"
 "It is useful as a <b>Construction Material</b>."
 msgstr ""
+"(CaCO<sub>3</sub>) Kalk er et mineral som naturligt forekommer i <link=\"CREATURES\">smådyrs</link> æggeskaller.\n"
+"\n"
+"Det er et brugbart <b>byggemateriale</b>."
 
 #. STRINGS.ELEMENTS.LIME.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.LIME.NAME"
 msgid "<link=\"LIME\">Lime</link>"
-msgstr "<link=\"BED\">Køje</link>"
+msgstr "<link=\"LIME\">Kalk</link>"
 
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC"
@@ -38886,10 +39026,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.OILFLOATEREGG.NAME
-#, fuzzy
 msgctxt "STRINGS.ITEMS.FOOD.OILFLOATEREGG.NAME"
 msgid "<link=\"OILFLOATER\">Larva Egg</link>"
-msgstr "<link=\"EGGCRACKER\">Æggeknækker</link>"
+msgstr "<link=\"OILFLOATER\">Slickster æg</link>"
 
 #. STRINGS.ITEMS.FOOD.OILFLOATEREGG.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.OILFLOATEREGG.RECIPEDESC"
@@ -47545,7 +47684,7 @@ msgstr ""
 #. STRINGS.UI.ALLRESOURCESSCREEN.RESERVED
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.RESERVED"
 msgid "Reserved"
-msgstr ""
+msgstr "Reserveret"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.RESOURCES
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.RESOURCES"
@@ -48180,7 +48319,7 @@ msgstr "{0}"
 #. STRINGS.UI.BUILDINGEFFECTS.RECREATION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.RECREATION"
 msgid "Recreation"
-msgstr ""
+msgstr "Fritid"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REFILLOXYGENTANK
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REFILLOXYGENTANK"
@@ -51637,7 +51776,7 @@ msgstr "Diagnostic"
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.RESERVED
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.RESERVED"
 msgid "Reserved"
-msgstr ""
+msgstr "Reserveret"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.SEARCH
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.SEARCH"
@@ -52057,7 +52196,7 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME"
 msgid "Idle Time:"
-msgstr "Ledig Tid"
+msgstr "Ledig Tid:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP"
@@ -52251,7 +52390,7 @@ msgstr "Forrige"
 #. STRINGS.UI.ENDOFDAYREPORT.REMOVED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REMOVED"
 msgid "Removed"
-msgstr "Fjernet "
+msgstr "Fjernet"
 
 #. STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE"
@@ -56825,12 +56964,12 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.RECREATION.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.RECREATION.BUILDMENUTITLE"
 msgid "Recreation"
-msgstr ""
+msgstr "Fritid"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.RECREATION.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.RECREATION.NAME"
 msgid "Recreation"
-msgstr ""
+msgstr "Fritid"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.RECREATION.TOOLTIP
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.RECREATION.TOOLTIP"
@@ -57155,7 +57294,7 @@ msgstr "DEKORATION"
 #. STRINGS.UI.OVERLAYS.DECOR.LIGHTING
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.LIGHTING"
 msgid "Lighting"
-msgstr "belysning"
+msgstr "Belysning"
 
 #. STRINGS.UI.OVERLAYS.DECOR.LOWDECOR
 #, fuzzy
@@ -60291,7 +60430,7 @@ msgstr ""
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME"
 msgid "Recreation"
-msgstr ""
+msgstr "Fritid"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.DESCRIPTION"
@@ -60545,7 +60684,7 @@ msgstr ""
 #. STRINGS.UI.SCHEDULESCREEN.SCHEDULE_NAME_DEFAULT
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SCHEDULE_NAME_DEFAULT"
 msgid "Default Schedule"
-msgstr ""
+msgstr "Standardplan"
 
 #. STRINGS.UI.SCHEDULESCREEN.SCHEDULE_NAME_FORMAT
 #, fuzzy
@@ -64247,7 +64386,7 @@ msgstr "Tildelt"
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.DISABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.DISABLED"
 msgid "Ineligible"
-msgstr ""
+msgstr "Uberettiget"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.DISABLED_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.DISABLED_TOOLTIP"
@@ -64560,7 +64699,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.DISABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.DISABLED"
 msgid "Ineligible"
-msgstr ""
+msgstr "Uberettiget"
 
 #. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.HEADER
 msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.HEADER"
@@ -64736,7 +64875,7 @@ msgstr "Dør er på auto."
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO_PENDING
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO_PENDING"
 msgid "Awaiting Duplicant to automate door."
-msgstr "Afventer Duplikant til at automatisere dør"
+msgstr "Afventer Duplikant til at automatisere dør."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE"
@@ -67272,7 +67411,7 @@ msgstr ""
 #. STRINGS.UI.UNITSUFFIXES.MASS.MILLIGRAM
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.MILLIGRAM"
 msgid " mg"
-msgstr "mg"
+msgstr " mg"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.POUND
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.POUND"

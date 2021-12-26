@@ -4,6 +4,26 @@ This repo holds the mod- and translation files for the Oxygen Not Included Danis
 This is a continuation of an earlier translation project, lead by [Coronawalderen](https://steamcommunity.com/id/krautwalderen) - thanks for laying out the ground work!
 
 # Contribution
-You can contribute to the translation project by adding danish translation to the [`strings.po`](strings.po) file and opening a pull request. All strings with an empty `msgstr` needs translations.
+You can contribute to the translation project by adding danish translation to the [`strings.po`](strings.po) file and opening a pull request. 
 
-The easiest way to edit the [`strings.po`](strings.po) file is with the [Poedit](https://poeditor.com/) tool.
+All strings with an empty `msgstr` needs translations, and any contributions are welcome, no matter how big or small.
+
+The easiest way to edit the [`strings.po`](strings.po) file is directly from your browser by using the [github.dev web-based editor](https://github.com/Belenos-Mods/ONI-DK/): Simply go to the repo's ever-living translations branch [ongoing](https://github.com/Belenos-Mods/ONI-DK/tree/ongoing) and hit `.`.  
+
+For more advanced editing, the [Poedit](https://poeditor.com/) tool is recommended.
+
+##  Merging to master
+All completed PR's to `master` should be accompanied by an update to the steam mod. 
+
+## Steam Mod Info  
+A general introduction on how to do ONI translations is available at the [klei forums](https://forums.kleientertainment.com/forums/topic/74765-creatingusing-translation-files-updated-august-22nd-2017/). Start there.  
+
+  - **TODO**
+    - handling .pot file (update for newer versions of game)
+    - explain `mod_info.yaml`
+
+### Uploading updates
+  - Use the ONI Uploader tool
+  - tick the `Update Data` box and point to the repo folder to include the updated `strings.po` file. 
+  - tick  the `Update Details` box to include an update of the progress so far
+    - The progress bar is generated at [this url](http://scripts.cac.psu.edu/staff/l/n/lnm105/progressbar.html) and saved on imgur. 
