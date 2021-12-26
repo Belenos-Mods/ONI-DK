@@ -6464,16 +6464,19 @@ msgid ""
 "\n"
 "Germ-covered Duplicants use Hand Sanitizers when passing by in the selected direction."
 msgstr ""
+"Fjerner de fleste<link=\"DISEASE\">Bakterier</link> fra Duplikanter.\n"
+"\n"
+"Bakteriefyldte Duplikanter bruger Håndsprit når de passerer forbi i den valgte retning."
 
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.NAME"
 msgid "<link=\"HANDSANITIZER\">Hand Sanitizer</link>"
-msgstr ""
+msgstr "<link=\"HANDSANITIZER\">Håndsprit</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.DESC"
 msgid "New Duplicants come out here, but thank goodness, they never go back in."
-msgstr ""
+msgstr "Nye Duplikanter kommer ud her, men heldigvis går de aldrig ind igen."
 
 #. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.EFFECT"
@@ -6482,6 +6485,9 @@ msgid ""
 "\n"
 "It periodically produces new Duplicants or care packages containing resources."
 msgstr ""
+"En exceptionelt avanceret bioprinter af ukendt oprindelse.\n"
+"\n"
+"Den producerer nye Duplikanter eller forsyningspakker, som indeholder resourcer."
 
 #. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.NAME"
@@ -6500,16 +6506,19 @@ msgid ""
 "\n"
 "Alas, it won't work."
 msgstr ""
+"En klon af en kloningsmaskine? Sikke en sjov tanke.\n"
+"\n"
+"Desværre, vil den ikke virke"
 
 #. STRINGS.BUILDINGS.PREFABS.HEATCOMPRESSOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEATCOMPRESSOR.DESC"
 msgid "\"Room temperature\" is relative, really."
-msgstr ""
+msgstr "\"Rumtemperatur\" er egentlig relativt."
 
 #. STRINGS.BUILDINGS.PREFABS.HEATCOMPRESSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEATCOMPRESSOR.EFFECT"
 msgid "Heats or cools <link=\"ELEMENTSLIQUID\">Liquid</link> to match ambient <link=\"HEAT\">Air Temperature</link>."
-msgstr ""
+msgstr "Opvarmer eller køler <link=\"ELEMENTSLIQUID\">Væske</link> til at matche omgivende <link=\"HEAT\">Luft Temperatur</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.HEATCOMPRESSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEATCOMPRESSOR.NAME"
@@ -6519,12 +6528,12 @@ msgstr "<link=\"HEATCOMPRESSOR\">Flydende Varmedims</link>"
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.DESC"
 msgid "It's like playing the most dangerous game of ping pong."
-msgstr ""
+msgstr "Det er ligesom at spille den allermest farlige udgave af bordtennis."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.EFFECT"
 msgid "Receives and redirects <style=\"KKeyword\">High Energy Particles</style> from <link=\"HIGHENERGYPARTICLESPAWNER\">Particle Generators</link>."
-msgstr ""
+msgstr "Modtager og dirigerer <style=\"KKeyword\">Høj Energi Partikler</style> fra <link=\"HIGHENERGYPARTICLESPAWNER\">Partikelgeneratorer</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT"
@@ -6539,7 +6548,7 @@ msgstr "<b><style=\"logic_on\">Grønt Signal</style></b>: Tillad indkommend part
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT_INACTIVE"
 msgid "<b><style=\"logic_off\">Red Signal</style></b>: Ignore incoming particles"
-msgstr ""
+msgstr "<b><style=\"logic_off\">Rødt Signal</style></b>: Ignorér indkommende partikler"
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.NAME"
@@ -18428,10 +18437,9 @@ msgid "<link=\"BEETASPECIES\">Beetas</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.FAMILY_PLURAL.CRABSPECIES
-#, fuzzy
 msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.CRABSPECIES"
 msgid "<link=\"CRABSPECIES\">Pokeshells</link>"
-msgstr "<link=\"BUILDCATEGORYMISC\">Decor</link>"
+msgstr "<link=\"CRABSPECIES\">Prikskaller</link>"
 
 #. STRINGS.CREATURES.FAMILY_PLURAL.DIVERGENTSPECIES
 #, fuzzy
@@ -19063,11 +19071,14 @@ msgid ""
 "\n"
 "In time it will mature into a fully grown <link=\"CRAB\">Pokeshell</link>."
 msgstr ""
+"En nappende lille Prikskallebaby.\n"
+"\n"
+"Med tiden vil den vokse op og blive en fuldvoksen <link=\"CRAB\">Prikskalle</link>."
 
 #. STRINGS.CREATURES.SPECIES.CRAB.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.BABY.NAME"
 msgid "<link=\"CRAB\">Pokeshell Spawn</link>"
-msgstr ""
+msgstr "<link=\"CRAB\">Prikskallebaby</link>"
 
 #. STRINGS.CREATURES.SPECIES.CRAB.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.DESC"
@@ -19076,6 +19087,9 @@ msgid ""
 "\n"
 "The shells they leave behind after molting can be crushed into <link=\"LIME\">Lime</link>."
 msgstr ""
+"Prikskaller er ikke-fjendtlige smådyr som spiser <link=\"TOXICSAND\">Forurenet jord</link> og <link=\"COMPOST\">Kompostbunker</link>.\n"
+"\n"
+"Ved hamskifte efterlader de skaller, som kan knuses til <link=\"LIME\">Kalk</link>."
 
 #. STRINGS.CREATURES.SPECIES.CRAB.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.EGG_NAME"
@@ -35047,7 +35061,7 @@ msgstr "<link=\"IGNEOUSROCK\">Vulkansk Klipp</link>"
 #. STRINGS.ELEMENTS.IRON.DESC
 msgctxt "STRINGS.ELEMENTS.IRON.DESC"
 msgid "(Fe) Iron is a common industrial <link=\"RAWMETAL\">Metal</link>."
-msgstr ""
+msgstr "(Fe) Jern er et naturligt forekommende industrielt <link=\"RAWMETAL\">Metal</link>."
 
 #. STRINGS.ELEMENTS.IRON.NAME
 #, fuzzy
@@ -35135,10 +35149,9 @@ msgid "(Pb) Lead is a soft yet extremely dense <link=\"REFINEDMETAL\">Refined Me
 msgstr ""
 
 #. STRINGS.ELEMENTS.LEADGAS.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.LEADGAS.NAME"
 msgid "<link=\"LEADGAS\">Lead</link>"
-msgstr "<link=\"BATTERY\">Batteri</link>"
+msgstr "<link=\"LEADGAS\">Bly</link>"
 
 #. STRINGS.ELEMENTS.LIME.DESC
 msgctxt "STRINGS.ELEMENTS.LIME.DESC"
@@ -35147,12 +35160,14 @@ msgid ""
 "\n"
 "It is useful as a <b>Construction Material</b>."
 msgstr ""
+"(CaCO<sub>3</sub>) Kalk er et mineral som naturligt forekommer i <link=\"CREATURES\">smådyrs</link> æggeskaller.\n"
+"\n"
+"Det er et brugbart <b>byggemateriale</b>."
 
 #. STRINGS.ELEMENTS.LIME.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.LIME.NAME"
 msgid "<link=\"LIME\">Lime</link>"
-msgstr "<link=\"BED\">Køje</link>"
+msgstr "<link=\"LIME\">Kalk</link>"
 
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC"
