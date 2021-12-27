@@ -12456,6 +12456,21 @@ msgid ""
 "\n"
 "Dinnertime has never been easier!"
 msgstr ""
+"Vi præsenterer det nyeste indenfor 3D print-teknologi:\n"
+"Gravitas Hjemme Printer\n"
+"\n"
+"Vi annoncerer med stolthed at vore printmæssige fremskridt, udviklet her på Gravitasanlægget snart vil betyde nye, bio-organiske produktionsmuligheder til "
+"jeres gamle hjemmeprintere.\n"
+"\n"
+"Hvad betyder det så for den almindelige husholdning?\n"
+"\n"
+"Middagsfrustrationer er en saga blot. Vælg blot enhver af printerens 5398 forprogrammerede opskrifter, og vupti! Himmelsk velsmagende gryderet klar på bare "
+".87 sekunder.\n"
+"\n"
+"Foretrækker De den patenterede familieopskrift? Opsæt din egen, specialtilpassede måltidsskabelon for en øjeblikkelig smag af Hjemme, eller gør det på den "
+"gammeldags manér og lav friske, lækre ingredienser og forbered dit eget hjemmelavede måltid.\n"
+"\n"
+"Middagsmaden har aldrig været nemmere!"
 
 #. STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.BODY.CONTAINER2"
@@ -12464,6 +12479,9 @@ msgid ""
 "Projected for commercial availability early next year.\n"
 "Brought to you by the Gravitas Facility."
 msgstr ""
+"\n"
+"Projekteret til introduktion på det kommercielle marked primo næste år.\n"
+"Lavet til dig, fra Gravitasanlægget."
 
 #. STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.SUBTITLE
 msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.SUBTITLE"
@@ -12485,11 +12503,16 @@ msgid ""
 "\n"
 "Licensed for industrial use only, resale of Gravitas equipment may carry a fine of up to $200,000 under the Global Restoration Act."
 msgstr ""
+"Før dine mineoperationer ind i det 23. århundrede med de nye Gravitas Personlige Udgravere.\n"
+"\n"
+"Forbedrede partikelkondensatorer reducerer rå volume og sikrer en mere effektiv produkttransport - og dét er godt for din bundlinje.\n"
+"\n"
+"Licenseret udelukkende til industrielt brug, gensalg af Gravitas udstyr kan medføre bøder på op til 1.000.000 kroner."
 
 #. STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.BODY.CONTAINER2"
 msgid "Brought to you by the Gravitas Facility."
-msgstr ""
+msgstr "Lavet til dig, fra Gravitasanlægget."
 
 #. STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.SUBTITLE
 msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.SUBTITLE"
@@ -12499,7 +12522,7 @@ msgstr "TIL OFFENTLIGGØRELSE"
 #. STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.TITLE
 msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.TITLE"
 msgid "Mining Gun Promo"
-msgstr ""
+msgstr "Udgravningspistol Reklame"
 
 #. STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.BODY.CONTAINER1"
@@ -12512,6 +12535,8 @@ msgid ""
 "Brought to you by the Gravitas Facility.\n"
 "<smallcaps>Patent Pending</smallcaps>"
 msgstr ""
+"Lavet til dig, fra Gravitasanlægget.\n"
+"<smallcaps>Patent Anmeldt</smallcaps>"
 
 #. STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.SUBTITLE
 msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.SUBTITLE"
@@ -12519,10 +12544,9 @@ msgid "PUBLIC RELEASE"
 msgstr "TIL OFFENTLIGGØRELSE"
 
 #. STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.TITLE"
 msgid "Thermo-Nullifier Promo"
-msgstr "Temperaturregulator"
+msgstr "Temperaturregulator Reklame"
 
 #. STRINGS.CODEX.A1_A046.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A1_A046.BODY.CONTAINER1"
@@ -12531,6 +12555,9 @@ msgid ""
 "quite what I was expecting, but then I've never had an opportunity to mentor someone before. Could be fun!\n"
 "------------------\n"
 msgstr ""
+"Gravitas er vokset temmeligt hurtigt siden vores første produkt kom på markedet. Jeg har lige hilst på et par af de nyansatte - de er praktisk talt babyer! "
+"Ikke lige hvad jeg havde forventet, men på den anden side har jeg aldrig prøvet at oplære nogen før. Det kunne blive sjovt!\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A1_A046.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.A1_A046.BODY.CONTAINER2"
@@ -12539,6 +12566,10 @@ msgid ""
 "rid of our swipe cards one of the nice young men had to show me how to operate the doors after I got stuck outside my own lab. Don't I feel silly.\n"
 "------------------\n"
 msgstr ""
+"Tjaeh, oplæringen har ikke været som jeg troede det ville være. Det viser sig at de nyansatte ikke har brug for mig til at vise dem hvordan man gør. Faktisk "
+", efter at anlægget ikke længere bruger adgangskort, måtte en af de flinke unge mænd hjælpe mig med at åbne døren da jeg var blevet låst ude af mit eget "
+"laboratorium. Jeg føler mig temmelig fjollet.\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A1_A046.BODY.CONTAINER3
 msgctxt "STRINGS.CODEX.A1_A046.BODY.CONTAINER3"
@@ -12549,6 +12580,11 @@ msgid ""
 "this job will look like in another ten or twenty years. Will I still even be in it?\n"
 "------------------\n"
 msgstr ""
+"Jamen er det ikke bare herligt? En af de nyansatte skal være projektleder på men næste opgave.\n"
+"\n"
+"Da jeg først startede var det ikke ualmindeligt at samle alle testrørene i hånden. Nu kan en maskine lave flere hundreder af dem på få sekunder. Gad vide "
+"hvordan dette job vil se ud om 10-20 år. Mon jeg overhovedet stadig er med i det?\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A1_A046.BODY.CONTAINER4
 msgctxt "STRINGS.CODEX.A1_A046.BODY.CONTAINER4"
@@ -35048,10 +35084,9 @@ msgid "{0} (Very Firm)"
 msgstr "Meget åndbar"
 
 #. STRINGS.ELEMENTS.HARDNESS.VERYSOFT
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.HARDNESS.VERYSOFT"
 msgid "{0} (Very Soft)"
-msgstr "Meget åndbar"
+msgstr "{0} (Meget Blød)"
 
 #. STRINGS.ELEMENTS.HELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.HELIUM.DESC"
