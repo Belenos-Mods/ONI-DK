@@ -1986,7 +1986,7 @@ msgstr "Kan ikke mines"
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.TOOLTIP"
 msgid "This resource cannot be mined by Duplicant tools"
-msgstr "Denne resource kan ikke udvindes med Duplikantværktøj"
+msgstr "Denne ressource kan ikke udvindes med Duplikantværktøj"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME"
@@ -2140,7 +2140,7 @@ msgstr "Ingen lokkemad valgt"
 #. STRINGS.BUILDING.STATUSITEMS.NOLUREELEMENTSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLUREELEMENTSELECTED.TOOLTIP"
 msgid "Select a resource to use as bait"
-msgstr "Vælg en resource til at bruge som lokkemad"
+msgstr "Vælg en ressource til at bruge som lokkemad"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.NAME"
@@ -2218,7 +2218,7 @@ msgstr "Filtre ikke sat"
 #. STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.TOOLTIP"
 msgid "No resources types are marked for storage in this building"
-msgstr "Ingen resourcetyper er markeret til opbevaring i denne bygning"
+msgstr "Ingen ressourcetyper er markeret til opbevaring i denne bygning"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOSUITMARKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSUITMARKER.NAME"
@@ -2764,7 +2764,7 @@ msgstr "Overførsel Færdig"
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADED.TOOLTIP"
 msgid "The rocket on the connected <style=\"KKeyword\">Rocket Platform</style> is either full of this type of resource or has no matching storage modules"
-msgstr "Raketten på den tilknyttede <style=\"KKeyword\">Raketplatform</style> er enten fuld af denne type resource, eller den har ikke noget passende lastrum"
+msgstr "Raketten på den tilknyttede <style=\"KKeyword\">Raketplatform</style> er enten fuld af denne type ressource, eller den har ikke noget passende lastrum"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.NAME"
@@ -2774,7 +2774,7 @@ msgstr "Indlæser"
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.TOOLTIP"
 msgid "This port is transferring resources into the connected <style=\"KKeyword\">Rocket Platform's</style> landed rocket"
-msgstr "Denne port overfører resourcer ind til den tilknyttede <style=\"KKeyword\">Raketplatform</style>s landede raket"
+msgstr "Denne port overfører ressourcer ind til den tilknyttede <style=\"KKeyword\">Raketplatform</style>s landede raket"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_UNLOADING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_UNLOADING.NAME"
@@ -2784,7 +2784,7 @@ msgstr "Losser"
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_UNLOADING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_UNLOADING.TOOLTIP"
 msgid "This port is unloading resources from the <style=\"KKeyword\">Rocket Platform</style> to the connected pipe network"
-msgstr "Denne port losser resourcer fra <style=\"KKeyword\">Raketplatform</style>en til det tilknyttede rørnetværk"
+msgstr "Denne port losser ressourcer fra <style=\"KKeyword\">Raketplatform</style>en til det tilknyttede rørnetværk"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOEMPTYING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOEMPTYING.NAME"
@@ -4711,7 +4711,7 @@ msgstr "En fast {0} forsyning er krævet for at opretholde arbejdende Duplikante
 #. STRINGS.BUILDINGS.PREFABS.CO2ENGINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2ENGINE.DESC"
 msgid "Rockets can be used to send Duplicants into space and retrieve rare resources."
-msgstr "Raketter kan bruges til at send Duplikanter ud i rummet og hente sjældne resourcer."
+msgstr "Raketter kan bruges til at sende Duplikanter ud i rummet og hente sjældne ressourcer."
 
 #. STRINGS.BUILDINGS.PREFABS.CO2ENGINE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2ENGINE.EFFECT"
@@ -5869,7 +5869,7 @@ msgstr "<link=\"GASCARGOBAY\">Stort Gasflaskelastrum</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAYSMALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAYSMALL.DESC"
 msgid "Duplicants fill cargo canisters with any resources they find during space missions."
-msgstr "Duplikanter fylder gasflasker med enhver resource de finder under rummissioner."
+msgstr "Duplikanter fylder gasflasker med enhver ressource de finder under rummissioner."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAYSMALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAYSMALL.EFFECT"
@@ -5996,7 +5996,7 @@ msgstr "<link=\"GASCONDUITELEMENTSENSOR\">Gas Rør Elementsensor</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITOVERFLOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITOVERFLOW.DESC"
 msgid "Overflow valves can be used to prioritize which buildings should receive precious resources first."
-msgstr "Overflow ventiler kan bruges til at prioritere hvilke bygninger der først skal modtage dyrebare resourcer først."
+msgstr "Overflow ventiler kan bruges til at prioritere hvilke bygninger der først skal modtage dyrebare ressourcer først."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITOVERFLOW.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITOVERFLOW.EFFECT"
@@ -6199,12 +6199,12 @@ msgstr "<link=\"GASPUMP\">Gas Pumpe</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr "Reservoirer kan ikke modtage manuelt leverede resurser."
+msgstr "Reservoirer kan ikke modtage manuelt leverede ressourcer."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.EFFECT"
 msgid "Stores any <link=\"ELEMENTSGAS\">Gas</link> resources piped into it."
-msgstr "Opbevarer enhver <link=\"ELEMENTSGAS\">Gas</link> resource som tilføres."
+msgstr "Opbevarer enhver <link=\"ELEMENTSGAS\">Gas</link> ressource som tilføres."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.NAME"
@@ -6986,7 +6986,7 @@ msgstr "<link=\"JUICER\">Juicer</link>"
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINE.DESC"
 msgid "Rockets can be used to send Duplicants into space and retrieve rare resources."
-msgstr "Raketter kan bruges til at send Duplikanter ud i rummet og hente sjældne resourcer."
+msgstr "Raketter kan bruges til at sende Duplikanter ud i rummet og hente sjældne ressourcer."
 
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINE.EFFECT"
@@ -7004,7 +7004,7 @@ msgstr "<link=\"KEROSENEENGINE\">Petroleumsmotor</link>"
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTER.DESC"
 msgid "Rockets can be used to send Duplicants into space and retrieve rare resources."
-msgstr "Raketter kan bruges til at send Duplikanter ud i rummet og hente sjældne resourcer."
+msgstr "Raketter kan bruges til at sende Duplikanter ud i rummet og hente sjældne ressourcer."
 
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTER.EFFECT"
@@ -7019,7 +7019,7 @@ msgstr "<link=\"KEROSENEENGINECLUSTER\">Petroleumsmotor</link>"
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTERSMALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTERSMALL.DESC"
 msgid "Rockets can be used to send Duplicants into space and retrieve rare resources."
-msgstr "Raketter kan bruges til at send Duplikanter ud i rummet og hente sjældne resourcer."
+msgstr "Raketter kan bruges til at sende Duplikanter ud i rummet og hente sjældne ressourcer."
 
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTERSMALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTERSMALL.EFFECT"
@@ -7217,7 +7217,7 @@ msgstr "<link=\"LIQUIDCARGOBAY\">Stort Væskelastrum</link>"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAYSMALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAYSMALL.DESC"
 msgid "Duplicants will fill cargo tanks with whatever resources they find during space missions."
-msgstr "Duplikanter vil fylde lastrum med de resourcer de finder under en rummission."
+msgstr "Duplikanter vil fylde lastrum med de ressourcer de finder under en rummission."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAYSMALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAYSMALL.EFFECT"
@@ -7353,7 +7353,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITOVERFLOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITOVERFLOW.DESC"
 msgid "Overflow valves can be used to prioritize which buildings should receive precious resources first."
-msgstr "Overflow ventiler kan bruges til at prioritere hvilke bygninger der først skal modtage dyrebare resourcer først."
+msgstr "Overflow ventiler kan bruges til at prioritere hvilke bygninger der først skal modtage dyrebare ressourcer først."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITOVERFLOW.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITOVERFLOW.EFFECT"
@@ -7606,7 +7606,7 @@ msgstr "<link=\"LIQUIDPUMPINGSTATION\">Håndpumpe</link>"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr "Reservoirer kan ikke modtage manuelt leverede resurser."
+msgstr "Reservoirer kan ikke modtage manuelt leverede ressourcer."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.EFFECT"
@@ -11326,7 +11326,7 @@ msgstr "<link=\"STATERPILLAR\">Strømsnegl</link>"
 #. STRINGS.BUILDINGS.PREFABS.STEAMENGINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMENGINE.DESC"
 msgid "Rockets can be used to send Duplicants into space and retrieve rare resources."
-msgstr "Raketter kan bruges til at send Duplikanter ud i rummet og hente sjældne resourcer."
+msgstr "Raketter kan bruges til at sende Duplikanter ud i rummet og hente sjældne ressourcer."
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMENGINE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMENGINE.EFFECT"
@@ -11344,7 +11344,7 @@ msgstr "<link=\"STEAMENGINE\">Dampmaskine</link>"
 #. STRINGS.BUILDINGS.PREFABS.STEAMENGINECLUSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMENGINECLUSTER.DESC"
 msgid "Rockets can be used to send Duplicants into space and retrieve rare resources."
-msgstr "Raketter kan bruges til at send Duplikanter ud i rummet og hente sjældne resourcer."
+msgstr "Raketter kan bruges til at sende Duplikanter ud i rummet og hente sjældne ressourcer."
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMENGINECLUSTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMENGINECLUSTER.EFFECT"
@@ -11418,7 +11418,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.DESC"
 msgid "Resources left on the floor become \"debris\" and lower decor when not put away."
-msgstr "Resourcer efterladt på gulvet bliver til \"rester\" og sænker indretningen, hvis de ikke bliver lagt til side."
+msgstr "Ressourcer efterladt på gulvet bliver til \"rester\" og sænker indretningen, hvis de ikke bliver lagt til side."
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.EFFECT"
@@ -12345,7 +12345,7 @@ msgstr "Én verden"
 #. STRINGS.CLUSTER_NAMES.MILKYWAY.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.MILKYWAY.DESCRIPTION"
 msgid "Large locations with resources shared between worlds."
-msgstr "Store lokationer med resourcer delt mellem verdener."
+msgstr "Store lokationer med ressourcer delt mellem verdener."
 
 #. STRINGS.CLUSTER_NAMES.MILKYWAY.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.MILKYWAY.NAME"
@@ -12375,7 +12375,7 @@ msgstr "Sump Klynge"
 #. STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.DESCRIPTION"
 msgid "Two cozy locations with limited resources shared between them."
-msgstr "To hyggelige lokationer med begrænsede resurser delt mellem dem."
+msgstr "To hyggelige lokationer med begrænsede ressourcer delt mellem dem."
 
 #. STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.NAME"
@@ -13524,6 +13524,18 @@ msgid ""
 "[LOG ENDS]\n"
 "------------------\n"
 msgstr ""
+"<smallcaps>[Log Delvis Ulæsbar]\n"
+"[Stemmegenkendelse Ikke Tilgængelig]</smallcaps>\n"
+"\n"
+"[LOG STARTER]\n"
+"\n"
+"...Kværneren er blevet valgt til udvikling på grund af det naturligt brede udvalg af potentielle fødekilder.\n"
+"\n"
+"Energiproduktion er vores primære mål, men justeringer der tillader optagelse af ikke-organiske materiale er et nemmere opnåeligt første skridt, og vil kunne "
+"bruges som affaldshåndtering...\n"
+"\n"
+"[LOG SLUTTER]\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER2"
@@ -13537,6 +13549,15 @@ msgid ""
 "[LOG ENDS]\n"
 "------------------\n"
 msgstr ""
+"[LOG STARTER]\n"
+"\n"
+"...Morben er blevet valgt til udvikling grundet dens evne to at udføre en mængde forskellige affaldsnedbrydningsfunktioner, kendetegnende for en sundt "
+"økosystem.\n"
+"\n"
+"Designet bør fokusere på at eliminere de sygdomsrisici som en fuldt udviklet Morb udgør...\n"
+"\n"
+"[LOG SLUTTER]\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER3
 msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER3"
@@ -13550,6 +13571,14 @@ msgid ""
 "[LOG ENDS]\n"
 "------------------\n"
 msgstr ""
+"[LOG STARTER]\n"
+"\n"
+"...Puften kan være egnet til at udføre en bæredygtig afgiftningsrolle.\n"
+"\n"
+"Et potentielt design skal fokusere på effektiviteten af disse processer...\n"
+"\n"
+"[LOG SLUTTER]\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER4
 msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER4"
@@ -13563,6 +13592,14 @@ msgid ""
 "[LOG ENDS]\n"
 "------------------\n"
 msgstr ""
+"[LOG STARTER]\n"
+"\n"
+"...Hvæseurter er et perfekt valg grundet deres lave næringsbehov og naturlige evne til at omforme det nærliggende miljøet .\n"
+"\n"
+"Design af disse dyr bør fokusere på at forstærke deres naturlige påvirkning af den omgivende temperatur...\n"
+"\n"
+"[LOG SLUTTER]\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER5
 msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER5"
@@ -13578,6 +13615,16 @@ msgid ""
 "[LOG ENDS]\n"
 "------------------\n"
 msgstr ""
+"[LOG STARTER]\n"
+"\n"
+"...De indledende splejsninger af Kværner gener har været succesfulde.\n"
+"\n"
+"Den kraftige spytudvikling, som er typisk for arten producerer nu carbonhydrider i et helt utroligt tempo .\n"
+"\n"
+"Dyret er mere eller mindre blevet en gratis kilde til brændbar olie...\n"
+"\n"
+"[LOG SLUTTER]\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER6
 msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER6"
@@ -13591,6 +13638,14 @@ msgid ""
 "[LOG ENDS]\n"
 "------------------\n"
 msgstr ""
+"[LOG STARTER]\n"
+"\n"
+"...Selvlysende insekter har altid været et tilløbsstykke, men fremover skal der kun bruges minimal tid på at videreudvikle disse insekter.\n"
+"\n"
+"Projektet har vigtigere bekymringer end lyskilder, specielt nu hvor problemet med lav-lys afgrøder er blevet løst...\n"
+"\n"
+"[LOG SLUTTER]\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER7
 msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.BODY.CONTAINER7"
@@ -13609,6 +13664,19 @@ msgid ""
 "\n"
 "[LOG ENDS]"
 msgstr ""
+"<smallcaps>[Stemmegenkendelse Startet]\n"
+"[Emne Identificeret: B363]</smallcaps>\n"
+"\n"
+"[LOG STARTER]\n"
+"\n"
+"Genetiker: Den primære bekymring som dette projekt rejser, er den store variabilitet i de miljøer kolonierne kommer til at arbejde med. Dyrene vi sender "
+"med nybyggerne vil ikke have tid til at udvikle og tilpasse sig et nyt miljø, og samtidig er hvert dyr nøje udvalgt til at spille en vital rolle i koloniens "
+"økosystem, og er derfor for dyrebart til at risikere, at det går tabt.\n"
+"\n"
+"Genetiker: Heraf følger at hver organisme vi designer skal være udruste med de nødvnedige værktøjer til at sikre overlevelse i så mange fjendtlige miljøer "
+"som vi kan komme i tanke om. Vi bør ikke sætte vores lid til at Printeren alene kan opretholde dyrepopulationerne.\n"
+"\n"
+"[LOG SLUTTER]"
 
 #. STRINGS.CODEX.A3_HUSBANDRYNOTES.SUBTITLE
 msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.SUBTITLE"
@@ -13618,7 +13686,7 @@ msgstr "KRYPTERINGSNIVEAU: TRE"
 #. STRINGS.CODEX.A3_HUSBANDRYNOTES.TITLE
 msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.TITLE"
 msgid "Husbandry Notes"
-msgstr ""
+msgstr "Dyrehold Noter"
 
 #. STRINGS.CODEX.A3_NEWSECURITY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A3_NEWSECURITY.BODY.CONTAINER1"
@@ -13644,6 +13712,25 @@ msgid ""
 "-Admin\n"
 "The Gravitas Facility</indent>"
 msgstr ""
+"<smallcaps><b>Emne: Ny Sikkerhedsprotokol</b>\n"
+"Fra: <b>Administrator</b> <alpha=#AA><admin@gravitas.nova></color>\n"
+"Til: <b>Alle</b></smallcaps>\n"
+"------------------\n"
+"\n"
+"<indent=5%>BESKED TIL ALT PERSONALE\n"
+"\n"
+"Vi er igang med at indføre kritiske ændringer i vores anlægs sikkerhed, som kan have en effekt på din arbejdsgang.\n"
+"\n"
+"For at bruge systemet, fjern blot al håndbeskyttelse og placér din hånd på det markerede område og vent mens systemet verificerer din medarbejder-identitet.\n"
+"\n"
+"BEMÆRK VENLIGST\n"
+"\n"
+"Alle nøglekort skal være afleveret til receptionen inden [OVERSTREGET]. Ved spørgsmål kontakt sikkerhedsholdet på [OVERSTREGET]@GRAVITAS.NOVA.\n"
+"\n"
+"Tak.\n"
+"\n"
+"-Administrator\n"
+"Gravitas Anlægget</indent>"
 
 #. STRINGS.CODEX.A3_NEWSECURITY.SUBTITLE
 msgctxt "STRINGS.CODEX.A3_NEWSECURITY.SUBTITLE"
@@ -13651,10 +13738,9 @@ msgid "ENCRYPTION LEVEL: NONE"
 msgstr "KRYPTERINGSNIVEAU: INGEN"
 
 #. STRINGS.CODEX.A3_NEWSECURITY.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.A3_NEWSECURITY.TITLE"
 msgid "NEW SECURITY PROTOCOL"
-msgstr "NYT SPIL"
+msgstr "NY SIKKERHEDSPROTOKOL"
 
 #. STRINGS.CODEX.A4_ATOMICONRECRUITMENT.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.A4_ATOMICONRECRUITMENT.BODY.CONTAINER2"
@@ -13665,6 +13751,11 @@ msgid ""
 "\n"
 "She can begin at your convenience.</indent>"
 msgstr ""
+"<indent=5%>Director,\n"
+"\n"
+"Alt gik efter planen. Broussard var først tøvende, men hun har ikke mange andre muligheder, givet hendes arbejdes natur og de seneste begivenheder.\n"
+"\n"
+"Hun kan starte når det passer dig.</indent>"
 
 #. STRINGS.CODEX.A4_ATOMICONRECRUITMENT.BODY.EMAILHEADER1
 msgctxt "STRINGS.CODEX.A4_ATOMICONRECRUITMENT.BODY.EMAILHEADER1"
@@ -13673,6 +13764,9 @@ msgid ""
 "From: <b>Dr. Jones</b><alpha=#AA><size=12> <ejones@gravitas.nova></smallcaps>\n"
 "------------------\n"
 msgstr ""
+"<smallcaps>Til: <b>Direktør Stern</b><alpha=#AA><size=12> <jstern@gravitas.nova></size></color>\n"
+"Fra: <b>Dr. Jones</b><alpha=#AA><size=12> <ejones@gravitas.nova></smallcaps>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A4_ATOMICONRECRUITMENT.BODY.SIGNATURE1
 msgctxt "STRINGS.CODEX.A4_ATOMICONRECRUITMENT.BODY.SIGNATURE1"
@@ -13685,6 +13779,13 @@ msgid ""
 "The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"XOXO,\n"
+"Dr. Jones\n"
+"\n"
+"<size=11>Afdeling for Information og Statistik\n"
+"Gravitas Anlægget</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A4_ATOMICONRECRUITMENT.SUBTITLE
 msgctxt "STRINGS.CODEX.A4_ATOMICONRECRUITMENT.SUBTITLE"
@@ -13692,10 +13793,9 @@ msgid "UNENCRYPTED"
 msgstr "UKRYPTERET"
 
 #. STRINGS.CODEX.A4_ATOMICONRECRUITMENT.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.A4_ATOMICONRECRUITMENT.TITLE"
 msgid "Results from Atomicon"
-msgstr "Overført fra rør"
+msgstr "Resultater fra Atomicon"
 
 #. STRINGS.CODEX.A4_B835.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A4_B835.BODY.CONTAINER1"
@@ -13706,6 +13806,11 @@ msgid ""
 "research in a place where no one knows me!\n"
 "------------------\n"
 msgstr ""
+"Jeg er startet ved et nyt firma som hedder \"Gravitas Anlægget\"! Jeg var bange for at jeg ikke ville få jobbet fordi jeg er nyuddannet, og jeg var virkelig "
+"nærgående under interviewet, men Direktøren kunne åbenbart lide min tese om den fysiologiske termoregulering i arktiske øgler. Jeg kommer til at arbejde med "
+"nogle fantastiske genetikere. Vi skal designe biologiske organismer til rumrejser i barske miljøer! Det er min drøm der går i opfyldelse. Jeg får lov at "
+"arbejde med spændende ny forskning på et sted hvor ingen kender mig!\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A4_B835.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.A4_B835.BODY.CONTAINER2"
@@ -13716,6 +13821,11 @@ msgid ""
 "correct them and seem rude or anything. Ugh, I can't believe that story followed me here! BANHI RUINS EVERYTHING!\n"
 "------------------\n"
 msgstr ""
+"Nej nej nej nej nej! Det kan ikke passe! BANHI ANSARI er her. Hun arbejder på rumfærgemotorer i robotlaboratoriet! Så snart hun så mig kaldte hun mig "
+"\"Bubbles\" og fortalte alle om dengang jeg kom til at inhalere en smule svampesporer under laboratorietræning, så jeg pustede en stor snotboble ud af næsen "
+"og nøs ud over Professor Avery! Nu kalder alle mig \"Bubbles\" i stedet for \"Doktor\". Nogle af dem ved ikke engang at det er et øgenavn, men jeg har ikke "
+"lyst til at rette dem og virke uhøflig. Øv, jeg kan ikke tro at den historie har fulgt mig herhen! BANHI ØDELÆGGER ALTING!\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A4_B835.BODY.CONTAINER3
 msgctxt "STRINGS.CODEX.A4_B835.BODY.CONTAINER3"
@@ -13725,6 +13835,10 @@ msgid ""
 "fare in the prototype shuttles we're developing.\n"
 "------------------\n"
 msgstr ""
+"Jeg har brugt de seneste dage begrave i arbejde, og jeg har det faktisk meget bedre. Vi har endelig færdigudviklet en genmanipulation som styrer rotters "
+"varmesensitivitet. Vores testemner ryster knapt nok i minusgrader længere. I morgen laver vi en test med robotlaboratoriet for at se hvordan rotterne klarer "
+"det i vores prototyperumkapsler.\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A4_B835.BODY.CONTAINER4
 msgctxt "STRINGS.CODEX.A4_B835.BODY.CONTAINER4"
@@ -13734,6 +13848,10 @@ msgid ""
 "been a really good sport about it though, she even laughed it off at the time. I think we might actually be friends now? It's weird.\n"
 "------------------\n"
 msgstr ""
+"HAHAHAHAHA! Bioingenørerne og robotlaboratoriet lavede en testkørsel i dag og Banhi var igang med at fastgøre en af de levende fragtkapsler da en af rotterne "
+"peb af hende. Hun blev så bange at hun faldt bagover og HVINEDE foran ALLESAMMEN! Nu kalder de hende allesammen \"Pivskid\" - \"Bubbles\" føles ikke så "
+"slemt nu. Pivskid har dog taget det rigtigt pænt, og hun grinede endda af det da det skete. Jeg tror faktisk godt vi kunne blive venner nu. Skørt, hva'.\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A4_B835.BODY.CONTAINER5
 msgctxt "STRINGS.CODEX.A4_B835.BODY.CONTAINER5"
@@ -13742,6 +13860,9 @@ msgid ""
 "experiments together on thermo-rat rockets! Haha!\n"
 "------------------\n"
 msgstr ""
+"Jeg løj. Banhi og jeg er ikke venner - vi er BEDSTE VENNER. Hun viste mig endda hvordan hun ordner sit hår. Vi har aftalt at booke vindtunnelen efter arbejde "
+"og køre tests sammen, på thermo-rotte-raketter! Haha!\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A4_B835.SUBTITLE
 msgctxt "STRINGS.CODEX.A4_B835.SUBTITLE"
@@ -13749,10 +13870,9 @@ msgid "ENCRYPTION LEVEL: NONE"
 msgstr "KRYPTERINGSNIVEAU: INGEN"
 
 #. STRINGS.CODEX.A4_B835.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.A4_B835.TITLE"
 msgid "Personal Journal: B835"
-msgstr "Fastsætter personlige grænser..."
+msgstr "Privat Journal: B835"
 
 #. STRINGS.CODEX.A4_CASUALFRIDAY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A4_CASUALFRIDAY.BODY.CONTAINER1"
@@ -13775,6 +13895,23 @@ msgid ""
 "-Admin\n"
 "The Gravitas Facility</indent>"
 msgstr ""
+"<smallcaps><b>Fredelig Fredag!</b>\n"
+"Fra: <b>Administrator</b> <alpha=#AA><admin@gravitas.nova></color>\n"
+"Til: <b>Alle</b></smallcaps>\n"
+"------------------\n"
+"\n"
+"<indent=5%>Til alle medarbejdere;\n"
+"\n"
+"Det behager Anlægget at meddele at fra denne uge og frem, vil alle fredage være Fredelige Fredage!\n"
+"\n"
+"Vær så venlig at nyd de klinisk beviste afstressende effekter af afslappet påklædning ved at tage din yndlingstrøje på i laboratoriet.\n"
+"\n"
+"<b>NB: Enhver medarbejder som observeres på anlæggets område uden godkendt fuldkropsbeskyttelse vil øjeblikkeligt modtage en skriftlig advarsel.</b>\n"
+"\n"
+"Tak og hav det godt!\n"
+"\n"
+"-Administrator\n"
+"Gravitas Anlægget</indent>"
 
 #. STRINGS.CODEX.A4_CASUALFRIDAY.SUBTITLE
 msgctxt "STRINGS.CODEX.A4_CASUALFRIDAY.SUBTITLE"
@@ -13784,7 +13921,7 @@ msgstr "KRYPTERINGSNIVEAU: INGEN"
 #. STRINGS.CODEX.A4_CASUALFRIDAY.TITLE
 msgctxt "STRINGS.CODEX.A4_CASUALFRIDAY.TITLE"
 msgid "Casual Friday!"
-msgstr "Festlig Fredag!"
+msgstr "Fredelig Fredag!"
 
 #. STRINGS.CODEX.A4_HIBISCUS3.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A4_HIBISCUS3.BODY.CONTAINER1"
@@ -15675,6 +15812,8 @@ msgid ""
 "The Hatch has no eyes and is completely blind, although a photosensitive patch atop its head is capable of detecting even minor changes in overhead light, "
 "making it prefer dark caves and tunnels."
 msgstr ""
+"Kværneren har ingen øjne, og er fuldstændig blind, selvom en fotosensitiv plet på toppen af hoveden er i stand til at registrere selv små ændringer i "
+"lysstyrken, hvilket gør at den foretrækker mørke huler og tuneller."
 
 #. STRINGS.CODEX.HATCH.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.HATCH.SPECIES_SUBTITLE"
@@ -15684,7 +15823,7 @@ msgstr "Dyreart"
 #. STRINGS.CODEX.HATCH.SPECIES_TITLE
 msgctxt "STRINGS.CODEX.HATCH.SPECIES_TITLE"
 msgid "Hatches"
-msgstr ""
+msgstr "Kværnere"
 
 #. STRINGS.CODEX.HATCH.SUBTITLE
 msgctxt "STRINGS.CODEX.HATCH.SUBTITLE"
@@ -15694,7 +15833,7 @@ msgstr "Dyr der kan tæmmes"
 #. STRINGS.CODEX.HATCH.TITLE
 msgctxt "STRINGS.CODEX.HATCH.TITLE"
 msgid "Hatch"
-msgstr "Luge"
+msgstr "Kværner"
 
 #. STRINGS.CODEX.HEADERS.BUILDINGEFFECTS
 msgctxt "STRINGS.CODEX.HEADERS.BUILDINGEFFECTS"
@@ -17364,7 +17503,7 @@ msgstr ""
 #. STRINGS.CODEX.SAGE.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.SAGE.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Sage\" Hatch variant</smallcaps>"
-msgstr ""
+msgstr "<smallcaps>Afbilledet: \"Øko\" Kværn variant</smallcaps>"
 
 #. STRINGS.CODEX.SAGE.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.SAGE.BODY.CONTAINER2"
@@ -17373,6 +17512,9 @@ msgid ""
 "\n"
 "A more appropriate term is \"totumvore\", given that it can consume and find nutritional value in nearly every known substance."
 msgstr ""
+"Det er svært at klassificere Kværnens diæt da betegnelsen \"omnivore\" (altædende) ikke dækker de ikke-organiske stoffer, den er i stand til at indtage.\n"
+"\n"
+"En bedre betegnelse er \"totumvore\" (det-hele-ædende), da den kan indtage og finde næringsværdi i næsten alle kendte stoffer."
 
 #. STRINGS.CODEX.SAGE.SUBTITLE
 msgctxt "STRINGS.CODEX.SAGE.SUBTITLE"
@@ -17380,15 +17522,14 @@ msgid "Critter Morph"
 msgstr "Dyrevariant"
 
 #. STRINGS.CODEX.SAGE.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.SAGE.TITLE"
 msgid "Sage Hatch"
-msgstr "Luge"
+msgstr "Øko Kværn"
 
 #. STRINGS.CODEX.SCHOOLNEWSPAPER.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.SCHOOLNEWSPAPER.BODY.CONTAINER1"
 msgid "<b>Party Time for Local Students</b>"
-msgstr ""
+msgstr "<b>Tid til at Feste for De Lokale Studerende</b>"
 
 #. STRINGS.CODEX.SCHOOLNEWSPAPER.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.SCHOOLNEWSPAPER.BODY.CONTAINER2"
@@ -17409,6 +17550,21 @@ msgid ""
 "\n"
 "As Olivia put it, \"It just meant more snacks for us!\""
 msgstr ""
+"To studerende ved Elions Universitet for Videnskab og Teknologi arrangerede en usædvanlig fest denne weekend.\n"
+"\n"
+"Mens deres medstuderende har spenderet nattens små timer iført lampeskærme og tegnet øjenbryn på deres sovende kolleger, har studerende Jackie Stern og "
+"Olivia Broussard brugt weekenden på deres kollegie, spændt ventende med forfriskninger klar, til ankomsten af æresgæsterne: Dem selv.\n"
+"\n"
+"De to fremsynede fysikere som fokuserer deres studier på teoretisk fysik og de intrikante aspekter af rum-tiden, udførte eksperimentet ud fra antagelsen, at "
+"såfremt deres teorier om rum-tidens fleksibilitet nogensinde skulle bære frugt, ville deres fremtidige udgaver kunne rejse tilbage i tiden og hilse på dem "
+"til festen, og dermed bevise eksistense af tidsrejser.\n"
+"\n"
+"De var dog ikke uopmærksomme på deres fremtidige udgavers travle kalender; skulle æregæsterne være forhindret i at deltage, var de blevet opfordret til at "
+"sende en besked tilbage med kodeordet \"Timeglas\", for at kommunikere at, selvom de selvfølgelig gerne ville komme, var de desværre forhindret.\n"
+"\n"
+"Desværre var der ingen der meldte tilbage eller dukkede op til festen, men det slog ikke hverken Olivia eller Jackie ud.\n"
+"\n"
+"Som Olivia siger det, \"Det betød bare at der vare flere snacks til os andre!\""
 
 #. STRINGS.CODEX.SCHOOLNEWSPAPER.SUBTITLE
 msgctxt "STRINGS.CODEX.SCHOOLNEWSPAPER.SUBTITLE"
@@ -17418,7 +17574,7 @@ msgstr "KRYPTERINGSNIVEAU: TRE"
 #. STRINGS.CODEX.SCHOOLNEWSPAPER.TITLE
 msgctxt "STRINGS.CODEX.SCHOOLNEWSPAPER.TITLE"
 msgid "Campus Newspaper Article"
-msgstr ""
+msgstr "Campus Avisartikel"
 
 #. STRINGS.CODEX.SHINEBUG.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.SHINEBUG.BODY.CONTAINER1"
@@ -17497,7 +17653,7 @@ msgstr ""
 #. STRINGS.CODEX.SMOOTH.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.SMOOTH.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Smooth\" Hatch variant</smallcaps>"
-msgstr ""
+msgstr "<smallcaps>Afbilledet: \"Glat\" Kværner variant</smallcaps>"
 
 #. STRINGS.CODEX.SMOOTH.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.SMOOTH.BODY.CONTAINER2"
@@ -17505,6 +17661,8 @@ msgid ""
 "The proper way to pet a Hatch is to touch any of its four feet to first make it aware of your presence, then either scratch the soft segmented underbelly or "
 "firmly pat the creature's thick chitinous back."
 msgstr ""
+"Den korrekte måde at kæle for en Kværner er at føre en af dens fire fødder først, og dermed gøre den opmærksom på din tilstedeværelse. Derefter kan den enten "
+"kløs på den bløde undermave eller klappes kraftigt på dets tykke kitin-ryg."
 
 #. STRINGS.CODEX.SMOOTH.SUBTITLE
 msgctxt "STRINGS.CODEX.SMOOTH.SUBTITLE"
@@ -17512,10 +17670,9 @@ msgid "Critter Morph"
 msgstr "Dyrevariant"
 
 #. STRINGS.CODEX.SMOOTH.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.SMOOTH.TITLE"
 msgid "Smooth Hatch"
-msgstr "Luge"
+msgstr "Glat Kværner"
 
 #. STRINGS.CODEX.SQUEAKY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.SQUEAKY.BODY.CONTAINER1"
@@ -17547,7 +17704,7 @@ msgstr ""
 #. STRINGS.CODEX.STONE.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.STONE.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Stone\" Hatch variant</smallcaps>"
-msgstr ""
+msgstr "<smallcaps>Afbilledet: \"Klippe\" Kværner variant</smallcaps>"
 
 #. STRINGS.CODEX.STONE.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.STONE.BODY.CONTAINER2"
@@ -17557,6 +17714,10 @@ msgid ""
 "This triggers a fear response in the Hatch, as its photosensitive patch of skin called the \"parietal eye\" interprets this sudden light change as an "
 "incoming aerial predator."
 msgstr ""
+"Når uerfarne dyrepassere vil klappe en kværker, begår de ofte den fejl at række for hurtigt ud efter dyrets hoved.\n"
+"\n"
+"Dette aktiverer en undvige-refleks i Kværneren, da den fotosensitive plet kaldet \"isseøjet\" tolker denne hurtige ændring i lyset som et angreb fra et "
+"flyvende rovdyr."
 
 #. STRINGS.CODEX.STONE.SUBTITLE
 msgctxt "STRINGS.CODEX.STONE.SUBTITLE"
@@ -17564,10 +17725,9 @@ msgid "Critter Morph"
 msgstr "Dyrevariant"
 
 #. STRINGS.CODEX.STONE.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.STONE.TITLE"
 msgid "Stone Hatch"
-msgstr "Luge"
+msgstr "Klippe Kværner"
 
 #. STRINGS.CODEX.STRESS.HEADER_1
 msgctxt "STRINGS.CODEX.STRESS.HEADER_1"
@@ -17779,6 +17939,10 @@ msgid ""
 "This environmental management also serves to enact a type of self-induced hibernation, slowing the Wheezewort's metabolism to require less nutrients over "
 "long periods of time."
 msgstr ""
+"Hvæseurten er bedst kendt for sin evne til at påvirke temperaturen af dens omgivelser, ved direkte at absorbere varmeenergi for at opretholde dens "
+"kropslige processer.\n"
+"\n"
+"Denne styringsproces fungerer også som en form for dvaletilstand, hvor Hvæseurtens stofskifte sænkes så den kræver færre næringsstoffer over længere perioder."
 
 #. STRINGS.CODEX.WHEEZEWORT.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.WHEEZEWORT.BODY.CONTAINER2"
@@ -17789,6 +17953,11 @@ msgid ""
 "\n"
 "Instead, the Wheezewort respires in a recently developed method similar to amphibians, using its membranous skin for cutaneous respiration."
 msgstr ""
+"Dette medlem af Cnidaria phylum er vildledende i sit udseende, idet det faktisk er et dyr og ikke en plante.\n"
+"\n"
+"Hvæseurtens celler indeholder ingen Grønkorn, vakuoler eller cellevægge, og er ikke i stand til at lave fotosyntese.\n"
+"\n"
+"Istedet ånder Hvæseurten ligesom amfibier gennem sin hindeagtige hud."
 
 #. STRINGS.CODEX.WHEEZEWORT.BODY.CONTAINER3
 msgctxt "STRINGS.CODEX.WHEEZEWORT.BODY.CONTAINER3"
@@ -17797,6 +17966,9 @@ msgid ""
 "\n"
 "Wheezeworts do not possess a brain or a skeletal structure, and are instead supported by a jelly-like mesoglea located beneath its outer respiratory membrane."
 msgstr ""
+"En række flødefarvede kapilærer pumper blod gennem dyret før ubrugt luft udåndes gennem huden.\n"
+"\n"
+"Hvæseurter har hverken hjerne eller skeletstruktur, og er støttet af en gelelignende substans placeret under den respiratoriske hinde."
 
 #. STRINGS.CODEX.WHEEZEWORT.SUBTITLE
 msgctxt "STRINGS.CODEX.WHEEZEWORT.SUBTITLE"
@@ -17806,7 +17978,7 @@ msgstr "Plante?"
 #. STRINGS.CODEX.WHEEZEWORT.TITLE
 msgctxt "STRINGS.CODEX.WHEEZEWORT.TITLE"
 msgid "Wheezewort"
-msgstr ""
+msgstr "Hvæseurt"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.ACHIEVED_OTHER_COLONY_TOOLTIP
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACHIEVED_OTHER_COLONY_TOOLTIP"
@@ -19432,7 +19604,7 @@ msgstr "Omgivende <link=\"HEAT\">Temperatur</link>"
 #, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.NAME"
 msgid "<link=\"COLDBREATHER\">Wheezewort</link>"
-msgstr "<link=\"BUILDCATEGORYMISC\">Decor</link>"
+msgstr "<link=\"COLDBREATHER\">Hvæseurt</link>"
 
 #. STRINGS.CREATURES.SPECIES.COLDWHEAT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDWHEAT.DESC"
@@ -20018,29 +20190,29 @@ msgid ""
 "\n"
 "In time, it will mature into an adult <link=\"HATCH\">Hatch</link>."
 msgstr ""
+"En uskyldig lille Kværnling.\n"
+"\n"
+"Med tiden vil den vokse op og blive til en <link=\"HATCH\">Kværner</link>."
 
 #. STRINGS.CREATURES.SPECIES.HATCH.BABY.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.BABY.NAME"
 msgid "<link=\"HATCH\">Hatchling</link>"
-msgstr "<link=\"CLUSTERCRAFTINTERIORDOOR\">Indre Luge</link>"
+msgid "<link=\"HATCH\">Kværnling</link>"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.DESC"
 msgid "Hatches excrete solid <link=\"CARBON\">Coal</link> as waste and may be uncovered by digging up Buried Objects."
-msgstr ""
+msgstr "Kværnerer udskiller fast <link=\"CARBON\">Kul</link> som affaldsprodukt, og kan findes ved at udgrave Begravede Objekter."
 
 #. STRINGS.CREATURES.SPECIES.HATCH.EGG_NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.EGG_NAME"
 msgid "<link=\"HATCH\">Hatchling Egg</link>"
-msgstr "<link=\"EGGCRACKER\">Æggeknækker</link>"
+msgstr "<link=\"HATCH\">Kværnling Æg</link>"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.NAME"
 msgid "<link=\"HATCH\">Hatch</link>"
-msgstr "<link=\"CLUSTERCRAFTINTERIORDOOR\">Indre Luge</link>"
+msgstr "<link=\"HATCH\">Kværner</link>"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.BABY.DESC"
@@ -20049,27 +20221,29 @@ msgid ""
 "\n"
 "It matures into an adult Hatch morph, the <link=\"HATCHHARD\">Stone Hatch</link>, which loves nibbling on various rocks and metals."
 msgstr ""
+"En fjumret lille Klippe Kværnling.\n"
+"\n"
+"Den vokser op og bliver til en <link=\"HATCHHARD\">Klippe Kværner</link>, som elsker at gumle på mange slags klipper og metaller."
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.BABY.NAME"
 msgid "<link=\"HATCHHARD\">Stone Hatchling</link>"
-msgstr ""
+msgstr "<link=\"HATCHHARD\">Klippe Kværnling</link>"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.DESC"
 msgid "Stone Hatches excrete solid <link=\"CARBON\">Coal</link> as waste and enjoy burrowing into the ground."
-msgstr ""
+msgstr "Klippe Kværnere udskiller fast <link=\"CARBON\">Kul</link> som affaldsprodukt, og elsker at grave sig ned i jorden."
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.EGG_NAME"
 msgid "<link=\"HATCHHARD\">Stone Hatchling Egg</link>"
-msgstr ""
+msgstr "<link=\"HATCHHARD\">Klippe Kværnling Æg</link>"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.NAME"
 msgid "<link=\"HATCHHARD\">Stone Hatch</link>"
-msgstr "<link=\"CLUSTERCRAFTINTERIORDOOR\">Indre Luge</link>"
+msgstr "<link=\"HATCHHARD\">Klippe Kværner</link>"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.BABY.DESC"
@@ -20078,27 +20252,31 @@ msgid ""
 "\n"
 "It matures into an adult Hatch morph, the <link=\"HATCHMETAL\">Smooth Hatch</link>, which loves nibbling on different types of metals."
 msgstr ""
+"En fjumret lille Glat Kværner.\n"
+"\n"
+"Den vokser op og bliver til en <link=\"HATCHMETAL\">Glat Kværner</link>, som elsker at gumle på forskellige slags metaller."
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.BABY.NAME"
 msgid "<link=\"HATCHMETAL\">Smooth Hatchling</link>"
-msgstr ""
+msgstr "<link=\"HATCHMETAL\">Glat Kværnling</link>"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.DESC"
 msgid "Smooth Hatches enjoy burrowing into the ground and excrete <link=\"REFINEDMETAL\">Refined Metal</link> when fed <link=\"RAWMETAL\">Metal Ore</link>."
 msgstr ""
+"Glatte Kværnere elsker at grave sig ned i jorden og udskiller <link=\"REFINEDMETAL\">Raffineret Metal</link> når man fodrer den med "
+"<link=\"RAWMETAL\">Metal Malm</link>."
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.EGG_NAME"
-msgid "<link=\"HATCHMETAL\">Smooth Hatchling Egg</link>"
+msgid "<link=\"HATCHMETAL\">Glat Kværnling Æg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.NAME"
 msgid "<link=\"HATCHMETAL\">Smooth Hatch</link>"
-msgstr "<link=\"CLUSTERCRAFTINTERIORDOOR\">Indre Luge</link>"
+msgstr "<link=\"HATCHMETAL\">Glat Kværner</link>"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.BABY.DESC"
@@ -20107,27 +20285,29 @@ msgid ""
 "\n"
 "It matures into an adult Hatch morph, the <link=\"HATCHVEGGIE\">Sage Hatch</link>, which loves nibbling on organic materials."
 msgstr ""
+"En fjumret lille Øko Kværnling.\n"
+"\n"
+"Den vokser op og bliver til en <link=\"HATCHVEGGIE\">Øko Kværner</link>, som elsker at gumle på organiske materialer."
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.BABY.NAME"
 msgid "<link=\"HATCHVEGGIE\">Sage Hatchling</link>"
-msgstr ""
+msgstr "<link=\"HATCHVEGGIE\">Øko Kværnling</link>"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.DESC"
 msgid "Sage Hatches excrete solid <link=\"CARBON\">Coal</link> as waste and enjoy burrowing into the ground."
-msgstr ""
+msgstr "Øko Kværnere udskiller fast <link=\"CARBON\">Kul</link> som affaldsprodukt og elsker at grave sig ned i jorden."
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.EGG_NAME"
 msgid "<link=\"HATCHVEGGIE\">Sage Hatchling Egg</link>"
-msgstr ""
+msgstr "<link=\"HATCHVEGGIE\">Øko Kværnling Æg</link>"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.NAME"
 msgid "<link=\"HATCHVEGGIE\">Sage Hatch</link>"
-msgstr "<link=\"CLUSTERCRAFTINTERIORDOOR\">Indre Luge</link>"
+msgstr "<link=\"HATCHVEGGIE\">Øko Kværner</link>"
 
 #. STRINGS.CREATURES.SPECIES.HEATBULB.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HEATBULB.DESC"
@@ -21018,11 +21198,14 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Wort Seed."
 msgstr ""
+"<link=\"PLANTS\">Frø</link> fra en <link=\"COLDBREATHER\">Hvæseurt</link>.\n"
+"\n"
+"Udgravning af Begravede Objekter kan afdække et frø fra en Hvæseurt."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.NAME"
 msgid "<link=\"COLDBREATHER\">Wort Seed</link>"
-msgstr ""
+msgstr "<link=\"COLDBREATHER\">Hvæseurt Frø</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.DESC"
@@ -23963,7 +24146,7 @@ msgstr "Graver"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC"
 msgid "Mine raw resources."
-msgstr "Udgrav rå resourcer."
+msgstr "Udgrav rå ressourcer."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME"
@@ -23993,7 +24176,7 @@ msgstr "Leverandør"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.DESC"
 msgid "Run resources to critical buildings and urgent storage."
-msgstr "Levér resourcer til vigtige bygninger og hastelager."
+msgstr "Levér ressourcer til vigtige bygninger og hastelager."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.NAME"
@@ -24147,7 +24330,7 @@ msgstr "Gemmer"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.DESC"
 msgid "Fill storage buildings with resources when no other errands are available."
-msgstr "Fylder opbevaringsbygninger med resourcer, når der ikke er andre ærinder tilgængelige."
+msgstr "Fylder opbevaringsbygninger med ressourcer, når der ikke er andre ærinder tilgængelige."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.NAME"
@@ -24593,7 +24776,7 @@ msgstr "Medicin Levering til {0}"
 #. STRINGS.DUPLICANTS.CHORES.DOCTORFETCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTORFETCH.STATUS"
 msgid "Supplying medical resources"
-msgstr "Leverer medicinske resourcer"
+msgstr "Leverer medicinske ressourcer"
 
 #. STRINGS.DUPLICANTS.CHORES.DOCTORFETCH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTORFETCH.TOOLTIP"
@@ -31056,7 +31239,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.TOOLTIP"
@@ -31087,7 +31270,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.TOOLTIP"
@@ -31130,7 +31313,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.TOOLTIP"
@@ -31192,7 +31375,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.TOOLTIP"
@@ -31257,7 +31440,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.TOOLTIP"
@@ -31331,7 +31514,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.TOOLTIP"
@@ -31375,7 +31558,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.TOOLTIP"
@@ -31405,7 +31588,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.EQUIPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EQUIPDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EQUIPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EQUIPDELIVERSTATUS.TOOLTIP"
@@ -31464,7 +31647,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.TOOLTIP"
@@ -31597,7 +31780,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.TOOLTIP"
@@ -31618,7 +31801,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.TOOLTIP"
@@ -31840,7 +32023,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.TOOLTIP"
@@ -31882,7 +32065,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.TOOLTIP"
@@ -32053,7 +32236,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.TOOLTIP"
@@ -32074,7 +32257,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.TOOLTIP"
@@ -32260,7 +32443,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.TOOLTIP"
@@ -32280,7 +32463,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.TOOLTIP"
@@ -32490,7 +32673,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.STORECRITICALDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STORECRITICALDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STORECRITICALDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STORECRITICALDELIVERSTATUS.TOOLTIP"
@@ -32500,7 +32683,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.TOOLTIP"
@@ -32510,7 +32693,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.TOOLTIP"
@@ -32531,7 +32714,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.TOOLTIP"
@@ -32709,7 +32892,7 @@ msgstr "Duplikanter kan ikke nå dette område"
 #, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.TOOLTIP"
 msgid "This Duplicant cannot breathe!"
-msgstr "Denne resource kan ikke udvindes med Duplikantværktøj"
+msgstr "Denne ressource kan ikke udvindes med Duplikantværktøj"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TINKERING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TINKERING.NAME"
@@ -32734,7 +32917,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.TOOLTIP"
@@ -32788,7 +32971,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.TOOLTIP"
@@ -32836,7 +33019,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr "Leverer resourcer til {Target}"
+msgstr "Leverer ressourcer til {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.TOOLTIP"
@@ -35121,7 +35304,7 @@ msgstr ""
 #, fuzzy
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCVACUUM"
 msgid "Resource Type: {0}"
-msgstr "Resource"
+msgstr "Ressource"
 
 #. STRINGS.ELEMENTS.ELEMENTPROPERTIES
 #, fuzzy
@@ -39238,18 +39421,19 @@ msgid ""
 "\n"
 "If incubated, it will hatch into a <link=\"HATCH\">Hatchling</link>."
 msgstr ""
+"Æg lagt af en <link=\"HATCH\">Kværner</link>.\n"
+"\n"
+"Hvis udruges, bliver det til en <link=\"HATCH\">Kværnling</link>."
 
 #. STRINGS.ITEMS.FOOD.HATCHEGG.NAME
-#, fuzzy
 msgctxt "STRINGS.ITEMS.FOOD.HATCHEGG.NAME"
 msgid "<link=\"HATCH\">Hatchling Egg</link>"
-msgstr "<link=\"EGGCRACKER\">Æggeknækker</link>"
+msgstr "<link=\"HATCH\">Kværnling Æg</link>"
 
 #. STRINGS.ITEMS.FOOD.HATCHEGG.RECIPEDESC
-#, fuzzy
 msgctxt "STRINGS.ITEMS.FOOD.HATCHEGG.RECIPEDESC"
 msgid "An egg laid by a <link=\"HATCH\">Hatch</link>."
-msgstr "<link=\"CLUSTERCRAFTINTERIORDOOR\">Indre Luge</link>"
+msgstr "Æg lagt af en <link=\"HATCH\">Kværner</link>."
 
 #. STRINGS.ITEMS.FOOD.LETTUCE.DESC
 msgctxt "STRINGS.ITEMS.FOOD.LETTUCE.DESC"
@@ -40138,6 +40322,18 @@ msgid ""
 "Information and Statistics Department\n"
 "The Gravitas Facility"
 msgstr ""
+"TIL: JSTERN@GRAVITASFACILITY.NOVA\n"
+"FRA: EJONES @GRAVITASFACILITY.NOVA\n"
+"EMNE: Foreløbige Beregninger\n"
+"\n"
+"Direktør,\n"
+"\n"
+"Selv med dramatiske optimeringer kan vi ikke nå den rå volume af resourcer som er nødvendige for at kunne opretholde en kolonispire, selv for små "
+"interplanetariske rejser. Vi er nødt til at overveje alvorlige ændringer, hvis det skal kunne lykkes.\n"
+"\n"
+"E Jones\n"
+"Afdeling for Information og Statistik\n"
+"Gravitas Anlægget"
 
 #. STRINGS.LORE.BUILDINGS.Desk.HEADER
 msgctxt "STRINGS.LORE.BUILDINGS.Desk.HEADER"
@@ -40155,11 +40351,18 @@ msgid ""
 "\n"
 "\"Memories must be embedded physically within the brainmaps of our subjects. The only question remains is--\""
 msgstr ""
+"\"--fascinerende at erindringer ikke allerede er indlejret i vores emner; der er dog endnu ingen som har vist tegn på genkendelse efter at være blevet "
+"introduceret til familiære stimuli.\"\n"
+"\n"
+"\"Henvisning til Eksperiment 7D.\"\n"
+"\"Henvisning til Eksperiment 7F.\"\n"
+"\n"
+"\"Erindringer må være indlejret fysisk indeni i vores emners hjernemønstre. Det eneste tilabgeværende spørgsmål er--\""
 
 #. STRINGS.LORE.BUILDINGS.GeneShuffler.HEADER
 msgctxt "STRINGS.LORE.BUILDINGS.GeneShuffler.HEADER"
 msgid "LOG FRAGMENT RECOVERED"
-msgstr ""
+msgstr "UKOMPLET LOGBOG FUNDET"
 
 #. STRINGS.LORE.BUILDINGS.PropLocker.ENTRY
 msgctxt "STRINGS.LORE.BUILDINGS.PropLocker.ENTRY"
@@ -40175,11 +40378,23 @@ msgid ""
 "Thank-you and have fun!\n"
 "-Admin"
 msgstr ""
+"Til alle medarbejdere;\n"
+"\n"
+"Det behager Anlægget at meddele at fra denne uge og frem, vil alle fredage være Fredelige Fredage!\n"
+"\n"
+"Vær så venlig at nyd de klinisk beviste afstressende effekter af afslappet påklædning ved at tage din yndlingstrøje på i laboratoriet.\n"
+"\n"
+"<b>NB: Enhver medarbejder som observeres på anlæggets område uden godkendt fuldkropsbeskyttelse vil øjeblikkeligt modtage en skriftlig advarsel.</b>\n"
+"\n"
+"Tak og hav det godt!\n"
+"\n"
+"-Administrator\n"
+"Gravitas Anlægget"
 
 #. STRINGS.LORE.BUILDINGS.PropLocker.HEADER
 msgctxt "STRINGS.LORE.BUILDINGS.PropLocker.HEADER"
 msgid "Casual Friday!"
-msgstr "Festlig Fredag!"
+msgstr "Fredelig Fredag!"
 
 #. STRINGS.LORE.BUILDINGS.SET_LOCKER1.ENTRY
 msgctxt "STRINGS.LORE.BUILDINGS.SET_LOCKER1.ENTRY"
@@ -40196,6 +40411,17 @@ msgid ""
 "ZEROTH LAW\n"
 "If two thermodynamic systems are in thermal equilibrium with a third, then they are in thermal equilibrium with each other."
 msgstr ""
+"FØRSTE LOV\n"
+"Energi kan hverken skabes eller destrueres, kun skifte form.\n"
+"\n"
+"ANDEN LOV\n"
+"Entropi i et isoleret system som ikke er i ligevægt øges over tid, gående mod den maksimale værdi ved ligevægt.\n"
+"\n"
+"TREDJE LOV\n"
+"Entropi i et system går mod et konstant minimum i takt med at temperaturen nærmer sig det absolutte nulpunkt.\n"
+"\n"
+"NULTE LOV\n"
+"Hvis to termodynamiske systemer er i termisk ligevægt med et tredje, så er de i termisk ligevægt med hinanden."
 
 #. STRINGS.LORE.BUILDINGS.SET_LOCKER1.HEADER
 msgctxt "STRINGS.LORE.BUILDINGS.SET_LOCKER1.HEADER"
@@ -40205,7 +40431,7 @@ msgstr ""
 #. STRINGS.LORE.BUILDINGS.SET_LOCKER2.ENTRY
 msgctxt "STRINGS.LORE.BUILDINGS.SET_LOCKER2.ENTRY"
 msgid "A powerful stench emanates from this locker."
-msgstr ""
+msgstr "En krafig stank breder sig fra dette skab"
 
 #. STRINGS.LORE.BUILDINGS.SET_LOCKER2.HEADER
 msgctxt "STRINGS.LORE.BUILDINGS.SET_LOCKER2.HEADER"
@@ -40226,6 +40452,16 @@ msgid ""
 "We thank you for your understanding.\n"
 "-The Gravitas Facility"
 msgstr ""
+"TIL: ALLE\n"
+"FRA: ADMININISTRATOR @GRAVITASFACILITY.NOVA\n"
+"EMNE: VIGTIGT\n"
+"\n"
+"PÅMINDELSE TIL ALT PERSONALE\n"
+"Gravitas Anlægget laver ikke en officiel \"Tag dit barn med på arbejde\" dag. Vi beder venligst personalet om ikke at tage børn med ind i tophemmelige "
+"forskningskontorer, og især om at de ikke lader disse børn lege med højhastigheds partikelacceleratorer.\n"
+"\n"
+"Vi takker for jeres forståelse.\n"
+"-Gravitas Anlægget"
 
 #. STRINGS.LORE.BUILDINGS.SET_OBJECT.HEADER
 msgctxt "STRINGS.LORE.BUILDINGS.SET_OBJECT.HEADER"
@@ -40245,6 +40481,15 @@ msgid ""
 "We thank you for your consideration.\n"
 "-The Gravitas Facility"
 msgstr ""
+"TIL: ALLE\n"
+"FRA: ADMINISTRATOR@GRAVITASFACILITY.NOVA\n"
+"EMNE: Forladte Kulturer\n"
+"\n"
+"For at sikre dine kollegers sundhed og sikkerhed, bedes alle om ikke at opbevare umærkede bakteriekulturer i cafeteriets køleskab.\n"
+"Ligeledes er cafeteriets opvaskemaskine <i>ikke</i> i stand til at håndtere petriskåle.\n"
+"\n"
+"Vi takker for jeres forståelse.\n"
+"-Gravitas Anlægget"
 
 #. STRINGS.LORE.BUILDINGS.VendingMachine.HEADER
 msgctxt "STRINGS.LORE.BUILDINGS.VendingMachine.HEADER"
@@ -40254,25 +40499,22 @@ msgstr "MEDDELELSE TIL PERSONALE"
 #. STRINGS.MISC.MONUMENT_COMPLETE.DESC
 msgctxt "STRINGS.MISC.MONUMENT_COMPLETE.DESC"
 msgid "A feat of artistic vision and expert engineering that will doubtless inspire Duplicants for thousands of cycles to come"
-msgstr ""
+msgstr "En præstation med artistiske visioner og fabelagtig ingenørkunst som uden tvivl vil inspirere Duplikanter i tusinder af cyklusser fremover"
 
 #. STRINGS.MISC.MONUMENT_COMPLETE.NAME
-#, fuzzy
 msgctxt "STRINGS.MISC.MONUMENT_COMPLETE.NAME"
 msgid "Great Monument"
-msgstr "Lækker"
+msgstr "Storslået Monument"
 
 #. STRINGS.MISC.NOTIFICATIONS.ALLOCATED.NAME
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.ALLOCATED.NAME"
 msgid "Resource allocated"
-msgstr "Resource"
+msgstr "ressource reserveret"
 
 #. STRINGS.MISC.NOTIFICATIONS.ALLOCATED.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.ALLOCATED.TOOLTIP"
 msgid "These resources are reserved for a planned building:"
-msgstr "Ingen resourcetyper er markeret til opbevaring i denne bygning"
+msgstr "Disse ressourcer er reserverede til et planlagt byggeri:"
 
 #. STRINGS.MISC.NOTIFICATIONS.AVAILABLE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.AVAILABLE.NAME"
@@ -40296,11 +40538,19 @@ msgid ""
 "\n"
 "• I'll keep records of everything I discover in my personal DATABASE <b><color=#F44A4A>[U]</b></color> to refer back to if I forget anything important."
 msgstr ""
+"• Tasterne <b><color=#F44A4A>[WASD]</b></color> flytter min udsigt og <b><color=#F44A4A>[MOUSE WHEEL]</b></color> zooms ind og ud.\n"
+"\n"
+"• <b><color=#F44A4A>[H]</b></color> returnerer mig til Printeren.\n"
+"\n"
+"• Jeg kan øge og sænke min opfattelse af rumtidens hastighed ved at bruge knapperne i øverste venstre hjørne eller ved at trykke på "
+"<b><color=#F44A4A>[TAB]</b></color>. Ved at trykke på <b><color=#F44A4A>[SPACE]</b></color> kan jeg standse tiden fuldstændig.\n"
+"\n"
+"• Jeg nedfælder alle mine opdagelser i min personlige DATABASE <b><color=#F44A4A>[U]</b></color> så jeg kan kan slå det op hvis jeg glemmer noget vigtigt."
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME"
 msgid "Tutorial: Basic Controls"
-msgstr ""
+msgstr "Vejledning: Grundlæggende Styring"
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.TOOLTIP"
@@ -41643,7 +41893,7 @@ msgstr "Tør op"
 #, fuzzy
 msgctxt "STRINGS.MISC.POPFX.RESOURCE_EATEN"
 msgid "Resource Eaten"
-msgstr "Resource"
+msgstr "Ressource"
 
 #. STRINGS.MISC.STATUSITEMS.AWAITINGSTUDY.NAME
 #, fuzzy
@@ -42643,7 +42893,7 @@ msgstr "Last"
 #. STRINGS.MISC.TAGS.RAREMATERIALS
 msgctxt "STRINGS.MISC.TAGS.RAREMATERIALS"
 msgid "Rare Resource"
-msgstr "Sjælden Resource"
+msgstr "Sjælden Ressource"
 
 #. STRINGS.MISC.TAGS.RAW
 msgctxt "STRINGS.MISC.TAGS.RAW"
@@ -47220,10 +47470,9 @@ msgid "Park Sign"
 msgstr ""
 
 #. STRINGS.ROOMS.CRITERIA.POSSIBLE_TYPES_HEADER
-#, fuzzy
 msgctxt "STRINGS.ROOMS.CRITERIA.POSSIBLE_TYPES_HEADER"
 msgid "Possible Room Types"
-msgstr "Ingen resourcetyper er markeret til opbevaring i denne bygning"
+msgstr "Mulige Rumtyper"
 
 #. STRINGS.ROOMS.CRITERIA.POWER_STATION.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.POWER_STATION.DESCRIPTION"
@@ -48017,7 +48266,7 @@ msgstr "..."
 #. STRINGS.UI.ALLRESOURCESSCREEN.NAME
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.NAME"
 msgid "Resource"
-msgstr "Resource"
+msgstr "Ressource"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.PIN_TOOLTIP
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.PIN_TOOLTIP"
@@ -48032,12 +48281,12 @@ msgstr "Reserveret"
 #. STRINGS.UI.ALLRESOURCESSCREEN.RESOURCES
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.RESOURCES"
 msgid "Resources"
-msgstr "Resourcer"
+msgstr "Ressourcer"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.RESOURCES_TITLE
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.RESOURCES_TITLE"
 msgid "RESOURCES"
-msgstr "RESOURCER"
+msgstr "RESSOURCER"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.SEARCH
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.SEARCH"
@@ -48056,10 +48305,9 @@ msgid "Total"
 msgstr "Total"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.UNPIN_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.UNPIN_TOOLTIP"
 msgid "Unpin resource"
-msgstr "Resource"
+msgstr "Frigør Ressource"
 
 #. STRINGS.UI.ASSIGNDUPLICANT
 #, fuzzy
@@ -48254,7 +48502,7 @@ msgstr "<link=\"BUILDCATEGORYREFINING\">Bearbejdning</link>"
 #. STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP"
 msgid "Use the resources I want, filter the ones I don't. {Hotkey}"
-msgstr "Brug de resourcer jeg vil, lad resten være. {Hotkey}"
+msgstr "Brug de ressourcer jeg vil, lad resten være. {Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.ROCKETRY.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.ROCKETRY.NAME"
@@ -50864,10 +51112,9 @@ msgid "CREDITS"
 msgstr "KREDIT"
 
 #. STRINGS.UI.DEBUG_TOOLS.DEBUG_ACTIVE
-#, fuzzy
 msgctxt "STRINGS.UI.DEBUG_TOOLS.DEBUG_ACTIVE"
 msgid "Debug tools active"
-msgstr "Denne resource kan ikke udvindes med Duplikantværktøj"
+msgstr "Debug tools aktive"
 
 #. STRINGS.UI.DEBUG_TOOLS.ENTER_TEXT
 msgctxt "STRINGS.UI.DEBUG_TOOLS.ENTER_TEXT"
@@ -51037,16 +51284,14 @@ msgid "Total rads: {0}"
 msgstr "Total"
 
 #. STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.TITLE"
 msgid "Base and World Tools"
-msgstr "Denne resource kan ikke udvindes med Duplikantværktøj"
+msgstr "Base og Verdens Tools"
 
 #. STRINGS.UI.DELIVERED
-#, fuzzy
 msgctxt "STRINGS.UI.DELIVERED"
 msgid "Delivered: {0} {1}"
-msgstr "    • {0}: {1}\n"
+msgstr "Leveret: {0} {1}"
 
 #. STRINGS.UI.DEMOOVERSCREEN.DEMOOVER
 #, fuzzy
@@ -51860,7 +52105,7 @@ msgstr "INFORMATION"
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_ELEMENTS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_ELEMENTS"
 msgid "RESOURCES"
-msgstr "RESOURCER"
+msgstr "RESSOURCER"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_FERTILITY
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_FERTILITY"
@@ -57332,10 +57577,9 @@ msgid "Refinement"
 msgstr "<link=\"BUILDCATEGORYREFINING\">Bearbejdning</link>"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.REFINING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.REFINING.TOOLTIP"
 msgid "Use the resources you want, filter the ones you don't. {Hotkey}"
-msgstr "Brug de resourcer jeg vil, lad resten være. {Hotkey}"
+msgstr "Brug de ressourcer du vil, lad resten være. {Hotkey}"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.RESEARCH.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.RESEARCH.BUILDMENUTITLE"
@@ -57599,7 +57843,7 @@ msgstr ""
 #, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLUTTER"
 msgid "Debris"
-msgstr "Resourcer efterladt på gulvet bliver til \"rester\" og sænker indretningen, hvis de ikke bliver lagt til side."
+msgstr "Rester"
 
 #. STRINGS.UI.OVERLAYS.DECOR.COUNT
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.COUNT"
@@ -59128,7 +59372,7 @@ msgstr "FORTSÆT"
 #. STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES
 msgctxt "STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES"
 msgid "Required resources:"
-msgstr "Krævede resourcer:"
+msgstr "Krævede ressourcer:"
 
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_DESC
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_DESC"
@@ -59138,7 +59382,7 @@ msgstr ""
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_HOVER
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_HOVER"
 msgid "Missing resources"
-msgstr "Manglende resourcer"
+msgstr "Manglende ressourcer"
 
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE"
@@ -59334,7 +59578,7 @@ msgstr "<b>UÆNDRET</b>"
 #. STRINGS.UI.RESOURCESCREEN.HEADER
 msgctxt "STRINGS.UI.RESOURCESCREEN.HEADER"
 msgid "RESOURCES"
-msgstr "RESOURCER"
+msgstr "RESSOURCER"
 
 #. STRINGS.UI.RESOURCESCREEN.INCREASING_STR
 msgctxt "STRINGS.UI.RESOURCESCREEN.INCREASING_STR"
@@ -62741,7 +62985,7 @@ msgstr "Forskning"
 #. STRINGS.UI.STARMAP.LISTTITLES.RESOURCES
 msgctxt "STRINGS.UI.STARMAP.LISTTITLES.RESOURCES"
 msgid "Resources"
-msgstr "Resourcer"
+msgstr "Ressourcer"
 
 #. STRINGS.UI.STARMAP.LISTTITLES.STORAGE
 msgctxt "STRINGS.UI.STARMAP.LISTTITLES.STORAGE"
@@ -63721,7 +63965,7 @@ msgstr "Børste"
 #, fuzzy
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.CLEAR_FLOOR.HOVERACTION"
 msgid "DELETE DEBRIS"
-msgstr "SLET"
+msgstr "SLET RESTER"
 
 #. STRINGS.UI.TOOLS.SANDBOX.CLEAR_FLOOR.NAME
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.CLEAR_FLOOR.NAME"
@@ -66034,7 +66278,7 @@ msgstr "INFORMATION"
 #, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.LURE.TITLE"
 msgid "Select Bait"
-msgstr "Vælg en resource til at bruge som lokkemad"
+msgstr "Vælg en ressource til at bruge som lokkemad"
 
 #. STRINGS.UI.UISIDESCREENS.MANUALDELIVERYGENERATORSIDESCREEN.CURRENT_THRESHOLD
 #, fuzzy
@@ -66601,10 +66845,9 @@ msgid "{0} {1} per harvest"
 msgstr "{0}: {1} per brug"
 
 #. STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.LAUNCH_RESOURCES_HEADER
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.LAUNCH_RESOURCES_HEADER"
 msgid "Launch Resources:"
-msgstr "RESOURCER"
+msgstr "Affyringsressourcer:"
 
 #. STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.LAUNCH_TARGET_SELECTED
 msgctxt "STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.LAUNCH_TARGET_SELECTED"
@@ -67474,12 +67717,12 @@ msgstr "Alle"
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTONTOOLTIP"
 msgid "Allow storage of all resource categories in this container"
-msgstr "Tillad opbevaring af alle resursekategorier i denne beholder"
+msgstr "Tillad opbevaring af alle ressourcekategorier i denne beholder"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.CATEGORYBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.CATEGORYBUTTONTOOLTIP"
 msgid "Allow storage of anything in the {0} resource category"
-msgstr "Tillad opbevaring af alle resursekategorier i kategorien {0}"
+msgstr "Tillad opbevaring af alle ressourcekategorier i kategorien {0}"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.MATERIALBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.MATERIALBUTTONTOOLTIP"
