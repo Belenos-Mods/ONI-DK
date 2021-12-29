@@ -15883,15 +15883,14 @@ msgid "ENCRYPTION LEVEL: THREE"
 msgstr "KRYPTERINGSNIVEAU: TRE"
 
 #. STRINGS.CODEX.B7_TIMESARROWTHOUGHTS.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.B7_TIMESARROWTHOUGHTS.TITLE"
 msgid "Time's Arrow Thoughts"
-msgstr "Ved Tid:"
+msgstr "Tanker Om Tidspilen"
 
 #. STRINGS.CODEX.B8_MAGAZINEARTICLE.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.B8_MAGAZINEARTICLE.BODY.CONTAINER1"
 msgid "<b>Incredible Technology From Independent Lab Harnesses Time into Energy</b>"
-msgstr ""
+msgstr "<b>Utrolig Teknologi Fra Uafhængigt Laboratorie Høster Tid som Energi</b>"
 
 #. STRINGS.CODEX.B8_MAGAZINEARTICLE.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.B8_MAGAZINEARTICLE.BODY.CONTAINER2"
@@ -15914,6 +15913,22 @@ msgid ""
 "For those eagerly awaiting the prospect of human time travel, don't get your hopes up just yet. The Facility says that although they have successfully "
 "transported matter through time, the technology was expressly developed for the purpose of energy generation and is ill-equipped for human transportation."
 msgstr ""
+"Forskere fra det nyligt oprettede Gravitas Anlægget har løftet sløret for deres første prototype, navngivet den \"Tidsmæssige Bue\", et aggregat som "
+"manipulerer den fjerde dimension til at generere uendelig, ren og vedvarende energi.\n"
+"\n"
+"Selvom det lyder som Science Fiction, bekræfter Anlæggets grundlægger Dr. Jacquelyn Stern at det skam er ganske vidst.\n"
+"\n"
+"\"Det er allerede blevet demonstreret at Newtons Anden Lov om Bevægelse kan brydes TODO.\n"
+"\n"
+"\"If the Laws of Motion can be bent and altered, why not the Laws of Thermodynamics? That was the main intent behind this project.\"\n"
+"\n"
+"The Temporal Bow works by rapidly vibrating sections of the 4th dimension to send small quantities of mass forward and backward in time, generating massive "
+"amounts of energy with virtually no waste.\n"
+"\n"
+"\"The fantastic thing about using the 4th dimension as fuel,\" says Stern, \"is that it is really, categorically infinite\".\n"
+"\n"
+"For those eagerly awaiting the prospect of human time travel, don't get your hopes up just yet. The Facility says that although they have successfully "
+"transported matter through time, the technology was expressly developed for the purpose of energy generation and is ill-equipped for human transportation."
 
 #. STRINGS.CODEX.B8_MAGAZINEARTICLE.SUBTITLE
 msgctxt "STRINGS.CODEX.B8_MAGAZINEARTICLE.SUBTITLE"
